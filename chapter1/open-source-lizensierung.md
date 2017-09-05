@@ -1,1 +1,6 @@
 # Open-Source-Lizensierung
+
+* Der Linux-Kernel unterliegt der GPL \(Gnu General Public License\), die als erste Copyleft-Lizenz für den allgemeinen Gebrauch sicher stellt, dass Änderungen/Ergänzungen am Kernel bei dem Verkauf erstellter Software unter Verwendung des Linux-Kernels dem Käufer und somit der Allgemeinheit als Source-Code zur Verfügung gestellt werden müssen.
+
+
+
