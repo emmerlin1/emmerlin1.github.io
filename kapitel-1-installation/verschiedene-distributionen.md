@@ -17,4 +17,4 @@ Take a look at this:
 {% video width="740" %} videos/ahrs.mp4{% endvideo %}
 {% video width="740" %} videos/out.ogv{% endvideo %}
 hello world 
-![](/images/kernel_versions_sloc.jpg) 
+![](/images/kernel_versions_sloc.jpg)  
