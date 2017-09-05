@@ -1,3 +1,8 @@
-# First Chapter
+# Linux - Eine Einführung {#linux---eine-einführung}
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+[Was ist Linux?](/was-ist-linux.md)
+
+[Die Geschichte von Linux](/die-geschichte-von-linux.md)
+
+[Open-Source-Lizensierung](/open-source-lizensierung.md)
+
