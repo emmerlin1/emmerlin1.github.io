@@ -1,1 +1,6 @@
 # Hardware-Unterstützung
+
+* Linux unterstützt
+
+
+
