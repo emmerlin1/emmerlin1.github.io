@@ -1,1 +1,1 @@
-# Hardware-Unterstützung
+# Open-Source-Lizensierung
