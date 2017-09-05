@@ -2,7 +2,7 @@
 
 * [Sinn und Zweck dieses GitBooks](README.md)
 * [Einführung](chapter1.md)
-  * Was ist Linux?
+  * [Was ist Linux?](chapter1/was-ist-linux.md)
   * Die Geschichte von Linux
   * Open-Source-Lizensierung
   * Hardware-Unterstützung
