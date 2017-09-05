@@ -14,5 +14,5 @@
 * [Kapitel 3 - Standardprogramme](kapitel-3-standardprogramme.md)
 * [Kapitel 4 - Arbeiten im Terminal](kapitel-4-arbeiten-im-terminal.md)
 * [Kaptiel 5 - Systemkonfiguration und Administration](kaptiel-5-systemkonfiguration-und-administration.md)
-* Kapitel 6 - Einbindung ins Netzwerk
+* [Kapitel 6 - Einbindung ins Netzwerk](kapitel-6-einbindung-ins-netzwerk.md)
 
