@@ -25,7 +25,7 @@
 
   * Basissystem von Android-Smartphones und -Tablets
 
-  * Router, Switches,
+  * Router, Switches
 
   * NAS-Systeme
 
@@ -34,10 +34,6 @@
 * Entwicklung Codezeilen des Linux-Kernels:
 
   ![](/images/loc_1.0-4.9.2.png)
-
-
-
-
 
 
 
