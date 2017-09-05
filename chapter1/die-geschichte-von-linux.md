@@ -29,6 +29,8 @@
 
   * NAS-Systeme
 
+  * Embedded Devices \(Raspberry Pi, Receiver, Fernseher, Radios\)
+
   * Supercomputer \(Anteil 98%\)
 
 * Entwicklung Codezeilen des Linux-Kernels:
