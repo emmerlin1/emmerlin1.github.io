@@ -1,6 +1,6 @@
 # Installation von Linux-Distributionen
 
-{%ace edit=true,  lang='c_cpp' %}
+{%ace edit=true,  lang='c_cpp'%}
 //Hello World
 int main() {
 
