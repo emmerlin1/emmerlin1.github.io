@@ -7,5 +7,5 @@
   * [Open-Source-Lizensierung](chapter1/open-source-lizensierung.md)
   * [Hardware-Unterstützung](chapter1/hardware-unterstutzung.md)
 * [Kapitel 1 - Installation](kapitel-1-installation.md)
-  * Verschiedene Distributionen
+  * [Verschiedene Distributionen](kapitel-1-installation/verschiedene-distributionen.md)
 
