@@ -10,7 +10,7 @@
   * [Verschiedene Distributionen](kapitel-1-installation/verschiedene-distributionen.md)
   * [Installationsvarianten](kapitel-1-installation/installationsvarianten.md)
   * [UEFI und BIOS](kapitel-1-installation/uefi-und-bios.md)
-* Kapitel 2 - Dateisysteme
+* [Kapitel 2 - Dateisysteme](kapitel-2-dateisysteme.md)
 * Kapitel 3 - Standardprogramme
 * Kapitel 4 - Arbeiten im Terminal
 * Kaptiel 5 - Systemkonfiguration und Administration
