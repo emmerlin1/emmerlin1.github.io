@@ -35,7 +35,7 @@
 
 * Entwicklung Codezeilen des Linux-Kernels:
 
-  ![](/images/loc_1.0-4.9.2.png)
+  ![](/images/loc_1.0-4.9.2.png)![](/images/Lines_of_Code_Linux_Kernel.svg.png)
 
 
 
