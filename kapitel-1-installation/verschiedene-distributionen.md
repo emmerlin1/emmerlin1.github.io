@@ -14,7 +14,7 @@ int main() {
 Take a look at this:
  
 {% asciinema %}bxwffohsczswrxie2z3y9ex3n{% endasciinema %}
-{% asciinema_local %}../asciinema/demo.json {% endasciinema_local %}
+{% asciinema_local %}../asciinema/demo.json{% endasciinema_local %}
 {% video width="740" %} ../videos/ahrs.mp4{% endvideo %}
 {% video width="740" %} ../videos/out.ogv{% endvideo %}
 hello world 
