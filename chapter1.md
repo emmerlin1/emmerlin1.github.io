@@ -1,8 +1,10 @@
 # Linux - Eine Einführung {#linux---eine-einführung}
 
-[Was ist Linux?](/was-ist-linux.md)
+[Was ist Linux?](/chapter1/was-ist-linux.md)
 
-[Die Geschichte von Linux](/die-geschichte-von-linux.md)
+[Die Geschichte von Linux](/chapter1/hardware-unterstutzung.md)
 
-[Open-Source-Lizensierung](/open-source-lizensierung.md)
+[Open-Source-Lizensierung](/chapter1/open-source-lizensierung.md)
+
+[Hardware-Unterstützung](/chapter1/hardware-unterstutzung.md)
 
