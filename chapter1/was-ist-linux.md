@@ -4,7 +4,7 @@
 
 * Der [Quelltext des Kernels](https://www.kernel.org) ist frei verfügbar
 
-* Genau genommen bezeichnet der Begriff Linux nur den Kernel: Er ist der innerste Teil \(Kern\) eines Betriebssystems mit ganz elementaren Funktionen, wie Speicherverwaltung, Prozessverwaltung und Steuerung der Hardware.
+* Genau genommen bezeichnet der Begriff Linux nur den Kernel: Er ist der innerste Teil \(Kern\) eines Betriebssystems mit ganz elementaren Funktionen, wie Speicherverwaltung, Prozessverwaltung und Steuerung der Hardware \(Treiber\).
 
 
 
