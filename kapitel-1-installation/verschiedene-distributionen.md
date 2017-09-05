@@ -14,7 +14,7 @@ int main() {
 Take a look at this:
  
 {% asciinema %}bxwffohsczswrxie2z3y9ex3n{% endasciinema %}
-{% video width="740" %} /videos/ahrs.mp4{% endvideo %}
-{% video width="740" %} /videos/out.ogv{% endvideo %}
+{% video width="740" %} ../videos/ahrs.mp4{% endvideo %}
+{% video width="740" %} ../videos/out.ogv{% endvideo %}
 hello world 
 ![](/images/kernel_versions_sloc.jpg)  
