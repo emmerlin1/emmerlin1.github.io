@@ -12,7 +12,7 @@
   * [UEFI und BIOS](kapitel-1-installation/uefi-und-bios.md)
 * [Kapitel 2 - Dateisysteme](kapitel-2-dateisysteme.md)
 * [Kapitel 3 - Standardprogramme](kapitel-3-standardprogramme.md)
-* Kapitel 4 - Arbeiten im Terminal
+* [Kapitel 4 - Arbeiten im Terminal](kapitel-4-arbeiten-im-terminal.md)
 * Kaptiel 5 - Systemkonfiguration und Administration
 * Kapitel 6 - Einbindung ins Netzwerk
 
