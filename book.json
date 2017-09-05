@@ -1,4 +1,4 @@
 {
-		"plugins": ["include-codeblock", "ace", "asciinema", "html5-video" ]
+		"plugins": ["include-codeblock", "ace", "asciinema-local", "asciinema", "html5-video" ]
 }
 

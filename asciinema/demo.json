@@ -1,0 +1,118 @@
+{
+  "width": 80,
+  "version": 1,
+  "stdout": [
+    [
+      0.985334,
+      "\u001b]0;emmerlin@xub1704: ~/GitBook/Library/Import/linux_einfuehrung\u0007\u001b[01;32memmerlin@xub1704\u001b[00m:\u001b[01;34m~/GitBook/Library/Import/linux_einfuehrung\u001b[00m$ "
+    ],
+    [
+      2.5,
+      "#"
+    ],
+    [
+      0.670308,
+      "T"
+    ],
+    [
+      0.344328,
+      "h"
+    ],
+    [
+      0.168086,
+      "i"
+    ],
+    [
+      0.147506,
+      "s"
+    ],
+    [
+      0.542387,
+      " "
+    ],
+    [
+      0.10796,
+      "i"
+    ],
+    [
+      0.160834,
+      "s"
+    ],
+    [
+      0.156998,
+      "t"
+    ],
+    [
+      0.595979,
+      "\b\u001b[K"
+    ],
+    [
+      0.175998,
+      " "
+    ],
+    [
+      1.144287,
+      "q"
+    ],
+    [
+      0.662855,
+      "\b\u001b[K"
+    ],
+    [
+      0.030792,
+      "a"
+    ],
+    [
+      0.277647,
+      "w"
+    ],
+    [
+      0.452411,
+      "e"
+    ],
+    [
+      0.29184,
+      "s"
+    ],
+    [
+      0.156318,
+      "o"
+    ],
+    [
+      0.263968,
+      "m"
+    ],
+    [
+      0.963524,
+      "e"
+    ],
+    [
+      1.428564,
+      " "
+    ],
+    [
+      0.403761,
+      ";"
+    ],
+    [
+      0.364026,
+      "- \r"
+    ],
+    [
+      0.472272,
+      ")"
+    ],
+    [
+      0.644488,
+      "\r\n\u001b]0;emmerlin@xub1704: ~/GitBook/Library/Import/linux_einfuehrung\u0007\u001b[01;32memmerlin@xub1704\u001b[00m:\u001b[01;34m~/GitBook/Library/Import/linux_einfuehrung\u001b[00m$ "
+    ]
+  ],
+  "height": 23,
+  "command": null,
+  "duration": 14.113647,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "title": null
+}
