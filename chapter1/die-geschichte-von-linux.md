@@ -12,7 +12,7 @@
 
   Allerdings bot Unix anfänglich nur eine spartanische Benutzeroberfläche und stellte hohe Hardware-Anforderungen.
 
-* in Folge der zunehmenden Kommerzialisierung von UNIX startete Richard Stallman **1984** das GNU-Projekt, gründete **1985** die Free Software Foundation \(FSF\) und schrieb die GNU General Public License \(GPL\). Ab diesem Zeitpunkt entstanden viele GNU-Programmpakete.  
+* in Folge der zunehmenden Kommerzialisierung von UNIX startete Richard Stallman **1984** das GNU-Projekt, gründete **1985** die Free Software Foundation \(FSF\) und schrieb die GNU General Public License \(GPL\). Ab diesem Zeitpunkt schon entstanden viele GNU-Programmpakete, die später den Weg in die Linux-Distributionen fanden.  
   Parallel dazu entstand während der **1980er** Jahre das Betriebssystem BSD \(Berkeley Software Distribution\), dessen Entwicklung allerdings wegen eines Rechtsstreits stark verlangsamt wurde.
 
 * **1991** begann Linus Torvalds inspiriert von Tanenbaums MINIX mit der Entwicklung des Linux-Kernels, der später auf die von Tanenbaum kreierte GPL-Lizenz umgestellt wurde:  
