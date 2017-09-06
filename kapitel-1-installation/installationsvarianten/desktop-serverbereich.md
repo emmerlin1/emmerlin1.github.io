@@ -1,4 +1,4 @@
-# Installation von Linux im Desktop-/Serverumfeld
+### Installation von Linux im Desktop-/Serverumfeld
 
 * In der Regel gibt es getrennte Installations-Abbilder für den Desktop- und Servereinsatz
 * Das Installationsabbild kann auf DVD/CD gebrannt werden, ressourcenschonender ist allerdings die Benutzung eines USB-Sticks \([Windows](http://www.linuxliveusb.com/)/[Linux](https://wiki.ubuntuusers.de/Live-USB/)\)
@@ -6,7 +6,7 @@
 * Im BIOS-Bootmenu aktueller Linux-Distributionen und Mainboards kann zwischen der Installation im UEFI- und BIOS-Modus gewählt werden
 * Linux kann auch per netboot-Installation installiert werden. Hierzu ist das netboot-image und ein korrekt eingerichteter TFTP- und DHCP-Server erforderlich. Zudem muss im BIOS des zu installierenden Rechners 'vom Netz booten' \(PXE-Boot\) aktiviert werden. \([Beispiel Ubuntu](https://help.ubuntu.com/community/Installation/Netboot)\)
 
-## Vorgehen bei installiertem Windows und gewünschtem Dual-Boot
+### Vorgehen bei installiertem Windows und gewünschtem Dual-Boot
 
 1. Windows-Partition sichern
 2. Installations-Medium im Live-Modus starten und über gparted die Windows- bzw. Daten-Partition verkleinern oder zweite Festplatte einbauen
