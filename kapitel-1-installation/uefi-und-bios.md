@@ -8,7 +8,7 @@
 
   * Erleichterung der Parallelinstallation von Windows und Linux
 
-* mittlerweile kommen die Linux-Distributionen auch mit EFI Secure Boot zurecht
+* mittlerweile kommen die Linux-Distributionen auch mit EFI Secure Boot zurecht, der Einfachheit halber kann/sollte Secure Boot im BIOS ausgeschaltet werden
 
 
 
