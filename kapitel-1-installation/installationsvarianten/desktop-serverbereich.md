@@ -5,6 +5,10 @@
 * Falls bei eingestecktem USB-Stick weiterhin das bereits installierte System bootet, kommt man gewöhnlich während des Bootvorgangs über F8 auf das BIOS-Bootmenu von dem dann der USB-Stick ausgewählt werden kann
 * Im BIOS-Bootmenu aktueller Linux-Distributionen und Mainboards kann zwischen der Installation im UEFI- und BIOS-Modus gewählt werden
 
+## Vorgehen bei installiertem Windows und gewünschtem Dual-Boot
+
+## 
+
 ## Installation per NFS \(Network File System\)
 
 
