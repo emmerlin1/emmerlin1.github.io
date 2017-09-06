@@ -6,7 +6,7 @@
   * GPLv3
   * MIT-Lizenz \(z.B. X-Window-System X11\)
   * BSD-Lizenz
-  * Doppellizenzen für den unterschiedenen Einsatz im kommerzfreien/kommerziellen Bereich
+  * Doppellizenzen für den Einsatz im kommerzfreien/kommerziellen Bereich
 
 
 
