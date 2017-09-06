@@ -15,7 +15,7 @@
 * in Folge der zunehmenden Kommerzialisierung von UNIX startete Richard Stallman **1984** das GNU-Projekt, gründete **1985** die Free Software Foundation \(FSF\) und schrieb die GNU General Public License \(GPL\). Ab diesem Zeitpunkt schon entstanden viele GNU-Programmpakete, die später den Weg in die Linux-Distributionen fanden.  
   Parallel dazu entstand während der **1980er** Jahre das Betriebssystem BSD \(Berkeley Software Distribution\), dessen Entwicklung allerdings wegen eines Rechtsstreits zwischenzeitlich stark verlangsamt wurde.
 
-* **1991** [begann](https://groups.google.com/forum/#!topic/comp.os.minix/dlNtH7RRrGA%5B1-25%5D) Linus Torvalds während seines Studiums und inspiriert von Tanenbaums MINIX mit der Entwicklung des Linux-Kernels, der später auch von einer proprietären auf die von Tanenbaum kreierte GPL-Lizenz umgestellt wurde:  
+* **1991** [begann](https://groups.google.com/forum/#!topic/comp.os.minix/dlNtH7RRrGA[1-25]) Linus Torvalds während seines Studiums und inspiriert von Tanenbaums MINIX mit der Entwicklung des Linux-Kernels, der später auch von einer proprietären auf die von Tanenbaum kreierte GPL-Lizenz umgestellt wurde:  
   "Making Linux GPL'd was definitely the best thing I ever did."
 
 * [Überblick über die Linux-Distributionen](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
@@ -24,11 +24,11 @@
 
   * Serversysteme \(Anteil zwischen 30 und 70%\)
 
-  * Basissystem von Android-Smartphones und -Tablets
+  * Basissystem von Android-Smartphones und -Tablets \(&gt;86%\)
 
   * Router, Switches
 
-  * Embedded Devices \(NAS, Raspberry Pi, Receiver, Fernseher, Radios\)
+  * Embedded Devices \(NAS, Raspberry Pi, Receiver, Fernseher, Radios, GPS-Geräte, SmartHome...\)
 
   * Supercomputer \(Anteil 98%\)
 
