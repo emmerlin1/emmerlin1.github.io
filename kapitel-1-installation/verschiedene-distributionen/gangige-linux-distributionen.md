@@ -1,7 +1,14 @@
 # Gängige Linux-Distributionen
 
-* Debian
-  * 
-* 
+* Debian / Ubuntu / Linux Mint
+  \* 
+* Red Hat / Fedora / CentOS
+
+* Arch
+
+* Gentoo
+
+* Slackware / openSUSE
+
 
 
