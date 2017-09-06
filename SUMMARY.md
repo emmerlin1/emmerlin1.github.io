@@ -13,7 +13,7 @@
   * [Installationsvarianten](kapitel-1-installation/installationsvarianten.md)
     * [Desktop- / Serverbereich](kapitel-1-installation/installationsvarianten/desktop-serverbereich.md)
     * [Embedded Bereich](kapitel-1-installation/installationsvarianten/embedded-bereich.md)
-    * [Linux auf dem USB-Stick für unterwegs](kapitel-1-installation/installationsvarianten/linux-auf-dem-usb-stick-fur-unterwegs.md)
+    * [Linux auf dem externen Datenträger für unterwegs](kapitel-1-installation/installationsvarianten/linux-auf-dem-usb-stick-fur-unterwegs.md)
   * [UEFI und BIOS](kapitel-1-installation/uefi-und-bios.md)
 * [Kapitel 2 - Dateisysteme](kapitel-2-dateisysteme.md)
 * [Kapitel 3 - Standardprogramme](kapitel-3-standardprogramme.md)
