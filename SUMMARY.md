@@ -15,7 +15,12 @@
     * [Embedded Bereich](kapitel-1-installation/installationsvarianten/embedded-bereich.md)
     * [Linux auf dem externen Datenträger für unterwegs](kapitel-1-installation/installationsvarianten/linux-auf-dem-usb-stick-fur-unterwegs.md)
   * [UEFI und BIOS](kapitel-1-installation/uefi-und-bios.md)
-* [Kapitel 2 - Dateisysteme](kapitel-2-dateisysteme.md)
+* [Kapitel 2 - Das Linux-Dateisystem](kapitel-2-dateisysteme.md)
+  * [Dateisystemtypen](kapitel-2-dateisysteme/linux-dateisystemtypen.md)
+  * [Dateibaumstruktur](kapitel-2-dateisysteme/dateibaumstruktur.md)
+    * Übersicht
+    * [Beschreibung](kapitel-2-dateisysteme/beschreibung.md)
+  * Zugriffsrechte
 * [Kapitel 3 - Standardprogramme](kapitel-3-standardprogramme.md)
 * [Kapitel 4 - Arbeiten im Terminal](kapitel-4-arbeiten-im-terminal.md)
   * [Linux Kommandos](kapitel-4-arbeiten-im-terminal/linux-kommandos.md)
