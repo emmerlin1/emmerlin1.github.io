@@ -20,7 +20,7 @@
 
 * [Überblick über die Linux-Distributionen](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
 
-* Linux ist abgesehen vom Desktop-Bereich sehr weit verbreitet in folgenden Marktsegmenten vertreten:
+* Linux ist abgesehen vom Desktop-Bereich \(&lt;5%\) sehr weit verbreitet in folgenden Marktsegmenten vertreten:
 
   * Serversysteme \(Anteil zwischen 30 und 70%\)
 
