@@ -1,6 +1,6 @@
 # UEFI- und BIOS-Besonderheiten
 
-* **Hauptvorteile von UEFI** \(Unified Extensible Firmware Interface\) neben der höheren Initialisierungsgeschwindigkeit:
+* **Hauptvorteile von UEFI** \(Unified Extensible Firmware Interface\) neben der höheren Initialisierungsgeschwindigkeit gegenüber dem BIOS-Start:
 
   * Festplatten über 2TB stellen keine Hürde dar
 
