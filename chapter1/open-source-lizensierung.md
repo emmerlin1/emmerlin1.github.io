@@ -7,6 +7,7 @@
   * MIT-Lizenz \(z.B. X-Window-System X11\)
   * BSD-Lizenz
   * Doppellizenzen für den Einsatz im kommerzfreien/kommerziellen Bereich
+  * ...
 
 
 
