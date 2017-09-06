@@ -1,4 +1,4 @@
-# Hardware-Unterstützung
+## Hardware-Unterstützung
 
 * Linux unterstützt beinahe die gesamte gängige PC-Hardware
 * Es gibt einige Hardware-Komponenten, die im Zusammenspiel mit Linux oft Probleme machen:

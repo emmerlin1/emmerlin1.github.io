@@ -1,4 +1,4 @@
-# Gängige Linux-Distributionen
+### Gängige Linux-Distributionen
 
 * **Debian / Ubuntu / LinuxMint**
   * Stable-Version von Debian hat hohe Stabilität, ist damit allerdings nicht up-to-date
