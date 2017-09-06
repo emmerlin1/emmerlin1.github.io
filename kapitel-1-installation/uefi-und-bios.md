@@ -1,4 +1,4 @@
-# UEFI- und BIOS-Besonderheiten
+## UEFI- und BIOS-Besonderheiten
 
 * **Hauptvorteile von UEFI** \(Unified Extensible Firmware Interface\) neben der höheren Initialisierungsgeschwindigkeit gegenüber dem BIOS-Start:
 
