@@ -9,8 +9,9 @@
 ## Vorgehen bei installiertem Windows und gewünschtem Dual-Boot
 
 1. Windows-Partition sichern
-2. Installations-Medium im Live-Modus starten und über gparted die Windows-Partition verkleinern oder zweite Festplatte einbauen
-3. Wenn
+2. Installations-Medium im Live-Modus starten und über gparted die Windows- bzw. Daten-Partition verkleinern oder zweite Festplatte einbauen
+3. Installationsvorgang normal starten, Windows wird in der Regel erkannt und Linux in der freien Partition installiert
+4. Ist noch kein Betriebssystem auf dem Rechner installiert wird dringend empfohlen, zuerst Windows und anschließend Linux zu installieren
 
 ## 
 
