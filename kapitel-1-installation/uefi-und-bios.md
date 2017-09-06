@@ -8,5 +8,7 @@
 
   * Erleichterung der Parallelinstallation von Windows und Linux
 
+* mittlerweile kommen die Linux-Distributionen auch mit EFI Secure Boot zurecht
+
 
 
