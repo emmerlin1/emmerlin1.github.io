@@ -26,7 +26,7 @@
 
   * Basissystem von Android-Smartphones und -Tablets \(&gt;86%\)
 
-  * Router, Switches
+  * Router, managed Switches
 
   * Embedded Devices \(Roboter, NAS, Raspberry Pi, Receiver, Fernseher, Radios, GPS-Geräte, SmartHome...\)
 

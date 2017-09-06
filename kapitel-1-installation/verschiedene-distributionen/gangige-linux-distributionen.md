@@ -1,0 +1,7 @@
+# Gängige Linux-Distributionen
+
+* Debian
+  * 
+* 
+
+
