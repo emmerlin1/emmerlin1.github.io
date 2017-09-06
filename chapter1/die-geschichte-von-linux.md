@@ -15,7 +15,7 @@
 * in Folge der zunehmenden Kommerzialisierung von UNIX startete Richard Stallman **1984** das GNU-Projekt, gründete **1985** die Free Software Foundation \(FSF\) und schrieb die GNU General Public License \(GPL\). Ab diesem Zeitpunkt entstanden viele GNU-Programmpakete.  
   Parallel dazu entstand während der **1980er** Jahre das Betriebssystem BSD \(Berkeley Software Distribution\), dessen Entwicklung allerdings wegen eines Rechtsstreits stark verlangsamt wurde.
 
-* **1991** begann Linus Torvalds mit der Entwicklung des Linux-Kernels, der später auf die GPL-Lizenz umgestellt wurde:  
+* **1991** begann Linus Torvalds inspiriert von Tanenbaums MINIX mit der Entwicklung des Linux-Kernels, der später auf die von Tanenbaum kreierte GPL-Lizenz umgestellt wurde:  
   "Making Linux GPL'd was definitely the best thing I ever did."
 
 * [Überblick über die Linux-Distributionen](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
