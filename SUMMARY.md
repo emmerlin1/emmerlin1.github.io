@@ -11,6 +11,8 @@
     * [Gängige Linux-Distributionen](kapitel-1-installation/verschiedene-distributionen/gangige-linux-distributionen.md)
     * [Graphische Übersicht über die verschiedenen Distributionen](kapitel-1-installation/verschiedene-distributionen/graphische-ubersicht-uber-die-verschiedenen-distributionen.md)
   * [Installationsvarianten](kapitel-1-installation/installationsvarianten.md)
+    * Desktop- / Serverbereich
+    * Embedded Bereich
   * [UEFI und BIOS](kapitel-1-installation/uefi-und-bios.md)
 * [Kapitel 2 - Dateisysteme](kapitel-2-dateisysteme.md)
 * [Kapitel 3 - Standardprogramme](kapitel-3-standardprogramme.md)
