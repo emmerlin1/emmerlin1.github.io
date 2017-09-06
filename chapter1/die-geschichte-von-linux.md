@@ -1,10 +1,10 @@
 ## Die Geschichte von Linux
 
-* Schon lange vor Windows, Linux oder OS X gab es Unix \(seit **1972**\) . Dieses Betriebssystem war technisch gesehen seiner Zeit voraus:
+* Schon lange vor Windows, Linux und MacOS gab es Unix \(seit **1972**\) . Dieses Betriebssystem war technisch gesehen seiner Zeit voraus:
 
   * echtes Multitasking,
 
-  * eine Trennung der Prozesse voneinander,
+  * Trennung der Prozesse voneinander,
 
   * klar definierte Zugriffsrechte für Dateien,
 
@@ -12,7 +12,8 @@
 
   Allerdings bot Unix anfänglich nur eine spartanische Benutzeroberfläche und stellte hohe Hardware-Anforderungen.
 
-* in Folge der zunehmenden Kommerzialisierung von UNIX startete Richard Stallman **1984** das GNU-Projekt, gründete **1985** die Free Software Foundation \(FSF\) und schrieb die GNU General Public License \(GPL\). Parallel dazu entstand während der **1980er** Jahre das Betriebssystem BSD \(Berkeley Software Distribution\), dessen Entwicklung allerdings wegen eines Rechtsstreits stark verlangsamt wurde.
+* in Folge der zunehmenden Kommerzialisierung von UNIX startete Richard Stallman **1984** das GNU-Projekt, gründete **1985** die Free Software Foundation \(FSF\) und schrieb die GNU General Public License \(GPL\). Ab diesem Zeitpunkt entstanden viele GNU-Programmpakete.  
+  Parallel dazu entstand während der **1980er** Jahre das Betriebssystem BSD \(Berkeley Software Distribution\), dessen Entwicklung allerdings wegen eines Rechtsstreits stark verlangsamt wurde.
 
 * **1991** begann Linus Torvalds mit der Entwicklung des Linux-Kernels, der später auf die GPL-Lizenz umgestellt wurde:  
   "Making Linux GPL'd was definitely the best thing I ever did."
