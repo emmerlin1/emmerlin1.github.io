@@ -28,7 +28,7 @@
 
   * Router, Switches
 
-  * Embedded Devices \(NAS, Raspberry Pi, Receiver, Fernseher, Radios, GPS-Geräte, SmartHome...\)
+  * Embedded Devices \(Roboter, NAS, Raspberry Pi, Receiver, Fernseher, Radios, GPS-Geräte, SmartHome...\)
 
   * Supercomputer \(Anteil 98%\)
 
