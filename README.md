@@ -1,4 +1,4 @@
 # Sinn und Zweck
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Dieses GitBook soll für Einsteiger einen Überblick über die Funktionsweise und Leistungsfähigkeit des Betriebssystems Linux bieten. Die vielfältigen Themenbereiche sind oftmals nur angeschnitten und sollen zur Eigenrecherche anregen.
 
