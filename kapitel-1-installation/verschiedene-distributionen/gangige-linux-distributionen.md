@@ -6,7 +6,7 @@
   * Ubuntu in zweijähriger LTS-Version \(5 Jahre maintained\) verfügbar
   * LinuxMint ist vermeintlich attraktivste Distribution für Umsteiger
 * **Red Hat / Fedora / CentOS**
-  * Red Hat ist Marktführer im Bereich Linux-Distribution für Server
+  * Red Hat ist Marktführer im Bereich Linux-Distribution für Server \(Banken, Versicherungen, Großrechner\)
   * Fedora ist freie Red Hat Variante, geeignet sowohl für Einsteiger als auch erfahrene Benutzer
   * CentOS wird gerne als langzeitunterstützte Server-Distribution verwendet \(10 Jahre\)
 * **Arch**
