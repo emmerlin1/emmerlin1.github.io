@@ -5,10 +5,7 @@
 			"asciinema-local", 
 			"asciinema", 
 			"html5-video", 
-			"expand-active-chapter",
-		       	"theme-faq",
-	       		"-fontsettings",
-			"-sharing"	       
+			"expand-active-chapter"
 		]
 
 }
