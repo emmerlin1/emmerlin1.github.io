@@ -11,7 +11,6 @@
   * Verbesserte Datensicherheit
   * Zeitstempel im Nanosekunden-Bereich statt nur im Sekundenbereich
   * Unlimitierte Anzahl an Unterverzeichnissen
-
   * Integrierte Verschlüsselung ab Kernel 4.1...
 
 * Btrfs
