@@ -17,7 +17,7 @@
   * [UEFI und BIOS](kapitel-1-installation/uefi-und-bios.md)
 * [Kapitel 2 - Das Linux-Dateisystem](kapitel-2-dateisysteme.md)
   * [Dateisystemtypen](kapitel-2-dateisysteme/linux-dateisystemtypen.md)
-  * [Dateibaumstruktur unter Linux](kapitel-2-dateisysteme/dateibaumstruktur.md)
+  * [Verzeichnisstruktur unter Linux](kapitel-2-dateisysteme/dateibaumstruktur.md)
     * [Übersicht](kapitel-2-dateisysteme/ubersicht.md)
     * [Beschreibung](kapitel-2-dateisysteme/beschreibung.md)
   * [Zugriffsrechte](kapitel-2-dateisysteme/zugriffsrechte.md)
