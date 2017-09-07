@@ -45,7 +45,7 @@
 			/* Sidebar Title */
 			.book .book-summary ul.summary li a.custom-link {
 				  color: rgba(0, 0, 0, 0);
-				    background-image: url('http://feathersjs.com/img/feathers-logo-wide.png');
+				    background-image: url('../images/linuxguide_me.png');
 				      background-size: 90%;
 				        background-repeat: no-repeat;
 					  margin: 10px;
@@ -109,7 +109,7 @@
 															    /* Sepia and dark themes */
 															    .book.color-theme-1 .book-summary ul.summary li a.custom-link,
 															    .book.color-theme-2 .book-summary ul.summary li a.custom-link {
-																      background-image: url('http://feathersjs.com/img/feathers-wide-logo-white.png');
+																      background-image: url('../images/linuxguide_me.png');
 															      }
 
 															      /* Title Links that pop up on hover */
