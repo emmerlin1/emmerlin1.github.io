@@ -1,2 +1,4 @@
-![](/assets/linuxguide_me.png)
+## Verzeichnisstruktur unter Linux
+
+
 
