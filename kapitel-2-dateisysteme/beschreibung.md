@@ -17,3 +17,5 @@ enthält alle Geräte-Dateien. Auf fast alle Hardware-Komponenten - etwa die ser
 
 Die Geräte werden dynamisch durch das **udev**-System eingerichtet. Das /dev-Verzeichnis befindet sich bei den meisten Distributionen in einer RAM-Disk, d. h., der Inhalt des Verzeichnisses wird bei jedem Neustart des Rechners neu generiert.
 
+Das NULL-Device \(/dev/null\) wirkt als 'Mülleimer', in dem dort abgelegte Daten entsorgt werden, der Rückgabewert allerdings 
+
