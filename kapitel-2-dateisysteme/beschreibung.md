@@ -15,10 +15,13 @@ enthält alle Geräte-Dateien. Auf fast alle Hardware-Komponenten - etwa die ser
 Die Geräte werden dynamisch durch das **udev**-System eingerichtet. Das /dev-Verzeichnis befindet sich bei den meisten Distributionen in einer RAM-Disk, d. h., der Inhalt des Verzeichnisses wird bei jedem Neustart des Rechners neu generiert.
 
 Das NULL-Device \(/dev/null\) wirkt als 'Mülleimer', in dem dort abgelegte Daten entsorgt werden können, wie z.B. Standard- und Fehlerausgaben \(2=stderr,1=stdout\):  
+
 {% asciinema_local %}../asciinema/findredirect.json{% endasciinema_local %}
 <!--endsec-->
+<!--sec data-title="/etc" data-id="section3" data-collapse=true data-show=true ces-->
 
-### /etc
+**/etc** enthält Konfigurationsdateien für das ganze System. Innerhalb von /etc gibt es eine Menge Unterverzeichnisse, die die Konfigurationsdateien in einzelne Gruppen unterteilen - z.B. /etc/systemd für den Startup-Dienst systemd.
 
+<!--endsec-->
 
 
