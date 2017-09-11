@@ -10,7 +10,12 @@
 			"fontsettings",
 			"sharing",
 			"sectionx"
-		]
+		],
+		"pluginsConfig": {
+			"sectionx": {
+				"tag": "h3"
+			}
+		}
 
 }
 
