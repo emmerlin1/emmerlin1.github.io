@@ -26,8 +26,10 @@
   <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 3.2; stroke: #000000" x1="194.031" y1="480.972" x2="429.969" y2="739.028"/>
   <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 3.2; stroke: #000000" x1="192.781" y1="480.977" x2="431.219" y2="779.023"/>
   <g>
-    <rect style="fill: #ffffff" x="380" y="140" width="120" height="20"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="140" width="120" height="20"/>
+    <a xlink:href="/kapitel-2-dateisysteme/beschreibung.md#dev">
+		<rect style="fill: #ffffff" x="380" y="140" width="120" height="20"/>
+		<rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="140" width="120" height="20"/>
+	</a>
   </g>
   <text font-size="12.8016" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="429.336" y="155.074">
     <tspan x="429.336" y="155.074">bin</tspan>
