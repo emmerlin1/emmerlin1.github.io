@@ -1,5 +1,9 @@
 /* CSS for website */
 
+.panel-heading {
+	padding: 3px 15px;
+}
+
 /* Sidebar background */
 .book .book-summary {
 	  background: #FFFFFF;
