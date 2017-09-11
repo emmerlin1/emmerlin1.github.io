@@ -1,5 +1,5 @@
 ## Beschreibung der Verzeichnisstruktur unter Linux
-<!--sec data-title="/bin" data-id="section0" data-collapse=true data-show=true ces-->
+<!--sec data-title="/bin" data-id="section0" data-collapse=true data-show=true show="Read" hide="Hide" ces-->
 **/bin** enthält elementare Linux-Kommandos zur Systemverwaltung, die von allen Benutzern ausgeführt werden können. Weitere Programme befinden sich in **/usr/bin**.  
 **/bin** kann auch einfach ein Link auf **/usr/bin** sein, womit die Trennung zwischen** /bin** und **/usr/bin** aufgehoben ist.
 <!--endsec-->
