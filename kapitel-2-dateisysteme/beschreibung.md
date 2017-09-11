@@ -20,6 +20,8 @@ Die Geräte werden dynamisch durch das **udev**-System eingerichtet. Das /dev-Ve
 Das NULL-Device \(/dev/null\) wirkt als 'Mülleimer', in dem dort abgelegte Daten entsorgt werden können, wie z.B. Standard- und Fehlerausgaben \(2=stderr,1=stdout\):  
 `script.sh >/dev/null 2>&1`
 
+{% asciinema_local %}../asciinema/findredirect.json{% endasciinema_local %}
+
 ### /etc
 
 
