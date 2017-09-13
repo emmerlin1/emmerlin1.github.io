@@ -67,14 +67,17 @@ Das root-Userverzeichnis
 Dieses Verzeichnis enthält wichtige Systemkommandos, die dem superuser 'root' vorbehalten sind.
 <!--endsec-->
 
-<!--sec data-title="/tmp" data-id="section13" data-collapse=true data-show=true ces-->
+<!--sec data-title="/srv" data-id="section13" data-collapse=true data-show=true ces-->
 <!--endsec-->
 
-<!--sec data-title="/usr" data-id="section14" data-collapse=true data-show=true ces-->
+<!--sec data-title="/sys" data-id="section14" data-collapse=true data-show=true ces-->
 <!--endsec-->
 
-<!--sec data-title="/var" data-id="section15" data-collapse=true data-show=true ces-->
+<!--sec data-title="/tmp" data-id="section15" data-collapse=true data-show=true ces-->
 <!--endsec-->
 
-<!--sec data-title="/srv" data-id="section16" data-collapse=true data-show=true ces-->
+<!--sec data-title="/usr" data-id="section16" data-collapse=true data-show=true ces-->
+<!--endsec-->
+
+<!--sec data-title="/var" data-id="section17" data-collapse=true data-show=true ces-->
 <!--endsec-->
