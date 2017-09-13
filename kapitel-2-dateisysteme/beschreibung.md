@@ -43,6 +43,7 @@ Das Verzeichnis **/mnt** sollte mittlerweile nur noch für die vorübergehende E
 <!--endsec-->
 
 <!--sec data-title="/opt" data-id="section8" data-collapse=true data-show=true ces-->
+**/opt** ist für Zusatzpakete vorgesehen, wird allerdings selten von Programmpaketen der installierten Distribution verwendet. Öfter kommt es vor, dass über Installationsskripte installierte Software in diesem Verzeichnis seinen Platz findet (wie z.B. eagle, android-studio, arduino, skypeforlinux etc.)
 <!--endsec-->
 
 <!--sec data-title="/proc" data-id="section9" data-collapse=true data-show=true ces-->
