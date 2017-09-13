@@ -23,12 +23,11 @@ Das NULL-Device \(/dev/null\) wirkt als 'Mülleimer', in dem dort abgelegte Date
 
 <!--sec data-title="/etc" data-id="section3" data-collapse=true data-show=true ces-->
 **/etc** enthält Konfigurationsdateien der über den Paketmanager der jeweiligen Distribution installierten Programmpakete. Innerhalb von /etc gibt es eine Menge an Unterverzeichnissen, über die die Konfigurationsdateien in einzelne Gruppen unterteilt werden - z.B. /etc/systemd für den Startup-Dienst systemd.
-
 <!--endsec-->
 
 <!--sec data-title="/home" data-id="section4" data-collapse=true data-show=true ces-->
 Unter **/home** wird vom System das jeweilige Arbeitsverzeichnis eines neu erstellten Users angelegt. Das Heimatverzeichnis ist das Verzeichnis, in dem sich der Anwender nach dem Einloggen automatisch befindet und auf dessen Dateien er uneingeschränkten Zugriff hat. Ausgenommen ist der User 'root', dessen Heimatverzeichnis **/root** lautet.
-Der Inhalt eines neu angelegten Arbeitsverzeichnisses kann durch den Inhalt des Template-Verzeichnisses **/etc/skel** automatisiert erweitert/ergänzt werden. Im Arbeitsverzeichnis eines Users werden auch userbezogene Konfigurationsordner und -dateien angelegt, denen ein Punkt vorangestellt ist (z.B. .config oder .local)
+Der Inhalt eines neu angelegten Arbeitsverzeichnisses kann durch den Inhalt des Template-Verzeichnisses **/etc/skel** automatisiert erweitert/ergänzt werden. Im Arbeitsverzeichnis eines Users werden auch userbezogene Ordner und Dateien angelegt, denen ein Punkt vorangestellt ist (z.B. .config, .cache oder .local). Hierdurch können insbesondere userbezogene Konfigurationseinstellungen gespeichert werden.
 
 
 <!--endsec-->
