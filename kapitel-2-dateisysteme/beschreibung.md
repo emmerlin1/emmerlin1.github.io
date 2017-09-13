@@ -74,13 +74,17 @@ Das Verzeichnis **/srv** enthält Daten für Serveranwendungen wie beispielsweis
 <!--sec data-title="/sys" data-id="section14" data-collapse=true data-show=true ces-->
 enthält ab Kernel 2.6 das sysfs-Dateisystem. Es liefert ähnlich wie das proc-Dateisystem Laufzeit-Informationen, deren Inhalt jedoch auf Informationen von Kernelstrukturen und deren Transport in den Userspace fokussiert ist.
 
-Dabei werden so gut wie alle Ressourcen abgedeckt.
+Dabei werden so gut wie alle verfügbaren Ressourcen abgedeckt.
 <!--endsec-->
 
 <!--sec data-title="/tmp" data-id="section15" data-collapse=true data-show=true ces-->
+**/tmp** enthält temporäre Dateien. Oft werden temporäre Dateien aber auch in /var/tmp gespeichert.
 <!--endsec-->
 
 <!--sec data-title="/usr" data-id="section16" data-collapse=true data-show=true ces-->
+In **/usr** (unix system ressources) findet man alle Anwendungsprogramme, das X-System, installierten Kernel-Quellcode ...
+
+Der Inhalt verändert sich in der Regel nur bei Paket-(De)installationen und Updates.
 <!--endsec-->
 
 <!--sec data-title="/var" data-id="section17" data-collapse=true data-show=true ces-->
