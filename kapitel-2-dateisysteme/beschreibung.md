@@ -35,6 +35,7 @@ Der Inhalt eines neu angelegten Arbeitsverzeichnisses kann durch den Inhalt des 
 <!--endsec-->
 
 <!--sec data-title="/media" data-id="section6" data-collapse=true data-show=true ces-->
+Unter **/media** werden externe Medien wie USB-Sticks/-Festplatten, SD-Karten etc. eingebunden, deren Gerätezuordnung und Partitionierung über 'cat /proc/partitions' und nach der Einbindung der Partition über 'df' einsehbar ist.
 <!--endsec-->
 
 <!--sec data-title="/mnt" data-id="section7" data-collapse=true data-show=true ces-->
