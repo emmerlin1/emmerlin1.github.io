@@ -68,6 +68,7 @@ Dieses Verzeichnis enthält wichtige Systemkommandos, die dem superuser 'root' v
 <!--endsec-->
 
 <!--sec data-title="/srv" data-id="section13" data-collapse=true data-show=true ces-->
+Das Verzeichnis **/srv** enthält Daten für Serveranwendungen wie beispielsweise Web- und FTP-Server
 <!--endsec-->
 
 <!--sec data-title="/sys" data-id="section14" data-collapse=true data-show=true ces-->
