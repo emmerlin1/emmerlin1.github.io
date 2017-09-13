@@ -30,10 +30,22 @@
   * [Linux Kommandos](kapitel-4-arbeiten-im-terminal/linux-kommandos.md)
   * Der vi\(m\)
   * Reguläre Ausdrücke
+  * Shellskripte
+  * sed und awk
 * [Kaptiel 5 - Systemkonfiguration und Administration](kaptiel-5-systemkonfiguration-und-administration.md)
   * Linux Bootvorgang
   * Das Hilfesystem
   * Benutzerverwaltung
   * Prozessverwaltung
+  * Systemd
+  * Paketverwaltung
+  * Zeitgesteuerte Vorgänge
+  * Lokalisierung und Internationalisierung
 * [Kapitel 6 - Einbindung ins Netzwerk](kapitel-6-einbindung-ins-netzwerk.md)
+  * Grundlagen von TCP/IP
+  * Linux - Netzkonfiguration
+  * Fehlersuche und Fehlerbehebung im Netz
+  * Die Secure Shell ssh
+  * Grundlagen von GnuPG
+  * Linux und Sicherheit
 
