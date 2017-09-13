@@ -39,7 +39,7 @@ Unter **/media** werden externe Medien wie USB-Sticks/-Festplatten, SD-Karten et
 <!--endsec-->
 
 <!--sec data-title="/mnt" data-id="section7" data-collapse=true data-show=true ces-->
-Das Verzeichnis **/mnt** wird mittlerweile nur noch für die vorübergehende Einbindung von Dateisystemen durch den User 'root' verwendet. ('sudo mount /dev/sdc3 /mnt')
+Das Verzeichnis **/mnt** sollte mittlerweile nur noch für die vorübergehende Einbindung von Dateisystemen durch den User 'root' verwendet werden. ('sudo mount /dev/sdc3 /mnt')
 <!--endsec-->
 
 <!--sec data-title="/opt" data-id="section8" data-collapse=true data-show=true ces-->
