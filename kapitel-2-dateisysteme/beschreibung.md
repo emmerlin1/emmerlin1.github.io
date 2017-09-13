@@ -85,6 +85,7 @@ Dabei werden so gut wie alle verfügbaren Ressourcen abgedeckt.
 In **/usr** (unix system ressources) findet man alle Anwendungsprogramme, das X-System, installierten Kernel-Quellcode ...
 
 Der Inhalt verändert sich in der Regel nur bei Paket-(De)installationen und Updates.
+
 <!--endsec-->
 
 <!--sec data-title="/var" data-id="section17" data-collapse=true data-show=true ces-->
