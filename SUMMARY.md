@@ -21,8 +21,8 @@
     * [Übersicht](kapitel-2-dateisysteme/ubersicht.md)
     * [Beschreibung](kapitel-2-dateisysteme/beschreibung.md)
   * [Zugriffsrechte](kapitel-2-dateisysteme/zugriffsrechte.md)
-  * Umgang mit Verzeichnissen und Dateien
-  * Archivierung und Komprimierung
+  * [Umgang mit Verzeichnissen und Dateien](kapitel-2-dateisysteme/umgang-mit-verzeichnissen-und-dateien.md)
+  * [Archivierung und Komprimierung](kapitel-2-dateisysteme/archivierung-und-komprimierung.md)
 * [Kapitel 3 - Standardprogramme](kapitel-3-standardprogramme.md)
   * Systemutilies
   * Anwendungsprogramme
