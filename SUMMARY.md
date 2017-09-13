@@ -21,9 +21,19 @@
     * [Übersicht](kapitel-2-dateisysteme/ubersicht.md)
     * [Beschreibung](kapitel-2-dateisysteme/beschreibung.md)
   * [Zugriffsrechte](kapitel-2-dateisysteme/zugriffsrechte.md)
+  * Umgang mit Verzeichnissen und Dateien
+  * Archivierung und Komprimierung
 * [Kapitel 3 - Standardprogramme](kapitel-3-standardprogramme.md)
+  * Systemutilies
+  * Anwendungsprogramme
 * [Kapitel 4 - Arbeiten im Terminal](kapitel-4-arbeiten-im-terminal.md)
   * [Linux Kommandos](kapitel-4-arbeiten-im-terminal/linux-kommandos.md)
+  * Der vi\(m\)
+  * Reguläre Ausdrücke
 * [Kaptiel 5 - Systemkonfiguration und Administration](kaptiel-5-systemkonfiguration-und-administration.md)
+  * Linux Bootvorgang
+  * Das Hilfesystem
+  * Benutzerverwaltung
+  * Prozessverwaltung
 * [Kapitel 6 - Einbindung ins Netzwerk](kapitel-6-einbindung-ins-netzwerk.md)
 
