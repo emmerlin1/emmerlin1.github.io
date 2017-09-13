@@ -88,7 +88,7 @@ Der Inhalt verändert sich in der Regel nur bei Paket-(De)installationen und Upd
 | Verzeichnis | Inhalt |
 | ------------- | ------------- |
 | /usr/bin | ausführbare Programme |
-|||
+| /usr/include | C-Include-Dateien |
 <!--endsec-->
 
 <!--sec data-title="/var" data-id="section17" data-collapse=true data-show=true ces-->
