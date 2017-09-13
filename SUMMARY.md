@@ -48,4 +48,5 @@
   * Die Secure Shell ssh
   * Grundlagen von GnuPG
   * Linux und Sicherheit
+* Kapitel 7 - Raspberry Pi und andere ARM-Gerätschaften
 
