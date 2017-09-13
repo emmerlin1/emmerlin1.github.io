@@ -22,7 +22,7 @@ Das NULL-Device \(/dev/null\) wirkt als 'Mülleimer', in dem dort abgelegte Date
 <!--endsec-->
 
 <!--sec data-title="/etc" data-id="section3" data-collapse=true data-show=true ces-->
-**/etc** enthält Konfigurationsdateien für das ganze System. Innerhalb von /etc gibt es eine Menge Unterverzeichnisse, die die Konfigurationsdateien in einzelne Gruppen unterteilen - z.B. /etc/systemd für den Startup-Dienst systemd.
+**/etc** enthält Konfigurationsdateien der über den Paketmanager der jeweiligen Distribution installierten Programmpakete. Innerhalb von /etc gibt es eine Menge an Unterverzeichnissen, über die die Konfigurationsdateien in einzelne Gruppen unterteilt werden - z.B. /etc/systemd für den Startup-Dienst systemd.
 
 <!--endsec-->
 
