@@ -39,6 +39,7 @@ Unter **/media** werden externe Medien wie USB-Sticks/-Festplatten, SD-Karten et
 <!--endsec-->
 
 <!--sec data-title="/mnt" data-id="section7" data-collapse=true data-show=true ces-->
+Das Verzeichnis **/mnt** wird mittlerweile nur noch für die vorübergehende Einbindung von 
 <!--endsec-->
 
 <!--sec data-title="/opt" data-id="section8" data-collapse=true data-show=true ces-->
