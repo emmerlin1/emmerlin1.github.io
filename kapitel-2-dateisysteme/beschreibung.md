@@ -74,6 +74,8 @@ Das Verzeichnis **/srv** enthält Daten für Serveranwendungen wie beispielsweis
 <!--sec data-title="/sys" data-id="section14" data-collapse=true data-show=true ces-->
 enthält ab Kernel 2.6 das sysfs-Dateisystem. Es liefert ähnlich wie das proc-Dateisystem Laufzeit-Informationen, deren Inhalt jedoch auf Informationen von Kernelstrukturen und deren Transport in den Userspace fokussiert ist.
 
+Dabei werden so gut wie alle Ressourcen abgedeckt.
+
 <!--endsec-->
 
 <!--sec data-title="/tmp" data-id="section15" data-collapse=true data-show=true ces-->
