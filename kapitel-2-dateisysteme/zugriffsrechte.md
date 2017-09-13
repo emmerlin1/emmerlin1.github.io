@@ -11,7 +11,11 @@
   * **l** symbolic link file
   * **s** socket file
 
-* * * ![](/images/file_permissions.png)
 
 
+
+
+
+
+![](/images/file_permissions.png)
 
