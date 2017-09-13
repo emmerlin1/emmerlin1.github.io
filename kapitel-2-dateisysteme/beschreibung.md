@@ -28,8 +28,38 @@ Das NULL-Device \(/dev/null\) wirkt als 'Mülleimer', in dem dort abgelegte Date
 <!--sec data-title="/home" data-id="section4" data-collapse=true data-show=true ces-->
 Unter **/home** wird vom System das jeweilige Arbeitsverzeichnis eines neu erstellten Users angelegt. Das Heimatverzeichnis ist das Verzeichnis, in dem sich der Anwender nach dem Einloggen automatisch befindet und auf dessen Dateien er uneingeschränkten Zugriff hat. Ausgenommen ist der User 'root', dessen Heimatverzeichnis **/root** lautet.
 Der Inhalt eines neu angelegten Arbeitsverzeichnisses kann durch den Inhalt des Template-Verzeichnisses **/etc/skel** automatisiert erweitert/ergänzt werden. Im Arbeitsverzeichnis eines Users werden auch userbezogene Ordner und Dateien angelegt, denen ein Punkt vorangestellt ist (z.B. .config, .cache oder .local). Hierdurch können insbesondere userbezogene Konfigurationseinstellungen gespeichert werden.
-
-
 <!--endsec-->
 
+<!--sec data-title="/lib[64]" data-id="section5" data-collapse=true data-show=true ces-->
+**/lib** enthält Kernel-Bibliotheken und diejenigen Shared Libraries, die für das Booten des Systems und die Ausführung der in /bin und /sbin liegenden Programme notwendig sind. Die Endung von Bibliotheken lautet auf .so. Kernelmodule befinden sich im Unterverzeichnis /lib/modules/'kernel-version'.
+<!--endsec-->
 
+<!--sec data-title="/media" data-id="section6" data-collapse=true data-show=true ces-->
+<!--endsec-->
+
+<!--sec data-title="/mnt" data-id="section7" data-collapse=true data-show=true ces-->
+<!--endsec-->
+
+<!--sec data-title="/opt" data-id="section8" data-collapse=true data-show=true ces-->
+<!--endsec-->
+
+<!--sec data-title="/proc" data-id="section9" data-collapse=true data-show=true ces-->
+<!--endsec-->
+
+<!--sec data-title="/run" data-id="section10" data-collapse=true data-show=true ces-->
+<!--endsec-->
+
+<!--sec data-title="/sbin" data-id="section11" data-collapse=true data-show=true ces-->
+<!--endsec-->
+
+<!--sec data-title="/tmp" data-id="section12" data-collapse=true data-show=true ces-->
+<!--endsec-->
+
+<!--sec data-title="/usr" data-id="section13" data-collapse=true data-show=true ces-->
+<!--endsec-->
+
+<!--sec data-title="/var" data-id="section14" data-collapse=true data-show=true ces-->
+<!--endsec-->
+
+<!--sec data-title="/srv" data-id="section15" data-collapse=true data-show=true ces-->
+<!--endsec-->
