@@ -48,7 +48,7 @@ Das Verzeichnis **/mnt** sollte mittlerweile nur noch für die vorübergehende E
 
 <!--sec data-title="/proc" data-id="section9" data-collapse=true data-show=true ces-->
 **/proc** ist ein Pseudo Prozess-Informations-Dateisystem und enthält Laufzeit-Informationen des Systems (Prozesse, RAM-Verteilung, Hardwarekonfiguration etc.). Es dient somit als Kontroll- und Informationszentrum bezogen auf den Kernel.
-Viele Systemaufrufe (z.B. lsmod) rufen einfach nur Dateiinhalte dieses Verzeichnisses ab. Auch Kernelparameter können über hier vorhandene Dateien abgerufen/verändert werden. Ein wesentliches Merkmal der hier vorhandenen Dateien ist, dass sie die Größe 0 aufweisen.
+Viele Systemaufrufe (z.B. lsmod) rufen einfach nur Dateiinhalte dieses Verzeichnisses ab. Auch Kernelparameter können über hier vorhandene Dateien abgerufen/verändert werden. Ein wesentliches Merkmal der hier vorhandenen Dateien ist, dass sie (abgesehen von kcore und weniger anderer) die Größe 0 aufweisen.
 <!--endsec-->
 
 <!--sec data-title="/run" data-id="section10" data-collapse=true data-show=true ces-->
