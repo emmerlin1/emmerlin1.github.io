@@ -82,13 +82,22 @@ Dabei werden so gut wie alle verfügbaren Ressourcen abgedeckt.
 <!--endsec-->
 
 <!--sec data-title="/usr" data-id="section16" data-collapse=true data-show=true ces-->
-In **/usr** (unix system ressources) findet man alle Anwendungsprogramme, Bibliotheken, das X-System, installierten Quellcode ...
-
+In **/usr** (unix system ressources) findet man alle Anwendungsprogramme, Bibliotheken, das X-System, installierten Quellcode 
 Der Inhalt verändert sich in der Regel nur bei Paket-(De)installationen und Updates.
+
 | Verzeichnis | Inhalt |
-| ------------- | ------------- |
+| :--- | :--- |
 | /usr/bin | ausführbare Programme |
 | /usr/include | C-Include-Dateien |
+| /usr/lib[64] |  diverse Libraries, außerdem zahllose Unterverzeichnisse für C-Compiler, diverse andere Programmiersprachen, große Programmpakete wie emacs oder LATEX etc. |
+| /usr/local |  Anwendungen und Dateien, die nicht unmittelbar zur Linux-Distribution- gehören oder später installiert wurden |
+| /usr/sbin | nur von 'root' ausführbare Programme |
+| /usr/share | architekturunabhängige Daten, Dokumentation |
+| /usr/src | Quellcode zum Linux-Kernel und anderen Programmen |
+
+
+
+
 <!--endsec-->
 
 <!--sec data-title="/var" data-id="section17" data-collapse=true data-show=true ces-->
