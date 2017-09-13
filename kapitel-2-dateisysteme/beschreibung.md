@@ -27,7 +27,7 @@ Das NULL-Device \(/dev/null\) wirkt als 'Mülleimer', in dem dort abgelegte Date
 <!--endsec-->
 
 <!--sec data-title="/home" data-id="section4" data-collapse=true data-show=true ces-->
-Unter **/home** wird vom System das jeweilige Arbeitsverzeichnis eines Users angelegt. Das Heimatverzeichnis ist jenes Verzeichnis, in dem sich der Anwender nach dem Einloggen automatisch befindet und auf dessen Dateien er uneingeschränkte Zugriffsrechte hat. Ausgenommen ist der User 'root', dessen Heimatverzeichnis **/root** lautet.
+Unter **/home** wird vom System das jeweilige Arbeitsverzeichnis eines Users angelegt. Das Heimatverzeichnis ist das Verzeichnis, in dem sich der Anwender nach dem Einloggen automatisch befindet und auf dessen Dateien er uneingeschränkte Zugriffsrechte hat. Ausgenommen ist der User 'root', dessen Heimatverzeichnis **/root** lautet.
 Der Inhalt eines neu angelegten Arbeitsverzeichnisses kann durch den Inhalt des Template-Verzeichnisses **/etc/skel** automatisiert erweitert/ergänzt werden.
 
 
