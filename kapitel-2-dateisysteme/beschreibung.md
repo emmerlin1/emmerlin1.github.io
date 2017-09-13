@@ -68,10 +68,12 @@ Dieses Verzeichnis enthält wichtige Systemkommandos, die dem superuser 'root' v
 <!--endsec-->
 
 <!--sec data-title="/srv" data-id="section13" data-collapse=true data-show=true ces-->
-Das Verzeichnis **/srv** enthält Daten für Serveranwendungen wie beispielsweise Web- und FTP-Server
+Das Verzeichnis **/srv** enthält Daten für Serveranwendungen wie beispielsweise Web- und FTP-Server.
 <!--endsec-->
 
 <!--sec data-title="/sys" data-id="section14" data-collapse=true data-show=true ces-->
+enthält ab Kernel 2.6 das sysfs-Dateisystem. Es liefert ähnlich wie das proc-Dateisystem Laufzeit-Informationen, deren Inhalt jedoch auf Informationen von Kernelstrukturen und deren Transport in den Userspace fokussiert ist.
+
 <!--endsec-->
 
 <!--sec data-title="/tmp" data-id="section15" data-collapse=true data-show=true ces-->
