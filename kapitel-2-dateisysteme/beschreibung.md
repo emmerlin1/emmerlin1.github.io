@@ -60,12 +60,11 @@ Das root-Userverzeichnis
 <!--endsec-->
 
 <!--sec data-title="/run" data-id="section11" data-collapse=true data-show=true ces-->
-
+**/run** ist ein temporäres Dateisystem, dessen Inhalt beim Neustart verloren geht und flüchtige Prozesslaufzeitinformationen enthält, die frühzeitig im Booprozess verfügbar sind.
 <!--endsec-->
 
-
-
 <!--sec data-title="/sbin" data-id="section12" data-collapse=true data-show=true ces-->
+Dieses Verzeichnis enthält wichtige Systemkommandos, die dem superuser 'root' vorbehalten sind.
 <!--endsec-->
 
 <!--sec data-title="/tmp" data-id="section13" data-collapse=true data-show=true ces-->
