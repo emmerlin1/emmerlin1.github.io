@@ -9,7 +9,7 @@
 | cmp Datei1 Datei2 | Vergleich zweier Dateien auf Übereinstimmung |
 | cp Datei neue\_Datei | Kopieren einer Datei |
 | dirname Dateiname | Gibt nur den Pfad zu einer Datei aus |
-| file Datei | Zeigt die Dateiart einer Datei an \(binär, text, executable, arm, 64bit, 32bit\). |
+| file Datei | Zeigt die Dateiart einer Datei an binär, text, executable, arm, 64bit, 32bit |
 | rename alte\_Dateiendung neue\_Dateiendung Dateien | Umbenennung der Dateiendung von Dateien, z.B. rename .xml .xsd \*.xml |
 |  |  |
 |  |  |
