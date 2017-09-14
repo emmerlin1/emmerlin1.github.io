@@ -23,6 +23,7 @@
   | mv verzeichnispfad neuer_Pfad; | bewege Verzeichnis zu neuem Pfad oder benenne es um |
   | ls -lah | Zeige kompletten Inhalt des aktuellen Verzeichnisses in ausführlicher Form |
   | du -sh verzeichnispfad; | Zeige Gesamtgröße des Verzeichnisinhalts (rekursiv) |
+  | tree; | Zeige die Verzeichnishierachie in einer Baumansicht |
   
   
 
