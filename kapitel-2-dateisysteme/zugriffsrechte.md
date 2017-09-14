@@ -13,10 +13,7 @@
 
 * Über [ACL's](https://wiki.ubuntuusers.de/ACL/) \(Access Control List\) lassen sich granularere Zugriffsrechte zuweisen
 
- 
-  
-    
-      
+---
 
 ![](/images/file_permissions.png)
 
