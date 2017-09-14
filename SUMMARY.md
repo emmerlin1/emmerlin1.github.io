@@ -22,6 +22,7 @@
     * [Beschreibung](kapitel-2-dateisysteme/beschreibung.md)
   * [Zugriffsrechte und Dateiart](kapitel-2-dateisysteme/zugriffsrechte.md)
   * [Umgang mit Verzeichnissen und Dateien](kapitel-2-dateisysteme/umgang-mit-verzeichnissen-und-dateien.md)
+    * [Verzeichnisse](kapitel-2-dateisysteme/umgang-mit-verzeichnissen-und-dateien/verzeichnisse.md)
     * [Dateinamen](kapitel-2-dateisysteme/umgang-mit-verzeichnissen-und-dateien/dateinamen.md)
   * [Archivierung und Komprimierung](kapitel-2-dateisysteme/archivierung-und-komprimierung.md)
 * [Kapitel 3 - Standardprogramme](kapitel-3-standardprogramme.md)
