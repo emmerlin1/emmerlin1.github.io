@@ -1,6 +1,6 @@
 ### Verzeichnisse
 
-* Der Verzeichnisbaum von Linux **beginnt** im Wurzelverzeichnis **/ **\(Wurzel\).
+* Der Verzeichnisbaum von Linux **beginnt** im Wurzelverzeichnis **/** \(Wurzel\).
 * Besondere Verzeichnisse: 
 <table>
 <thead>
@@ -12,7 +12,7 @@
 <tbody>
 <tr>
 <td style="text-align:left">~</td>
-<td style="text-align:left">Homeverzeichnis des aktuell angemeldeten Benutzers</td>
+<td style="text-align:left">Homeverzeichnis des aktuell angemeldeten Benutzers (z.B. /home/username)</td>
 </tr>
 <tr>
 <td style="text-align:left">.</td>
@@ -73,4 +73,5 @@
 </tr>
 </tbody>
 </table>
+
 
