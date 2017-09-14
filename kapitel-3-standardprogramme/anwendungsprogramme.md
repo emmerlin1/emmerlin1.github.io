@@ -27,8 +27,10 @@
 | qcreator |  |
 | shutter, gtk-recordmydesktop |  |
 | scribus |  |
-| **thunderbird** |  |
+| **thunderbird, claws mail** |  |
+| kvm, virtualbox |  |
 | kvim |  |
+| ufw |  |
 | virsh |  |
 | virt-manager |  |
 | vlc, mplayer |  |
