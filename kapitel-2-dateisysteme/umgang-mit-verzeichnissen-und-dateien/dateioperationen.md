@@ -13,12 +13,12 @@
 | head Textdatei | Erste Zeilen einer ASCII-Datei anzeigen |
 | less Textdatei | seitenweise Anzeige einer ASCII-Datei, durchscrollbar mittels vi-Tastaturbefehlen |
 | ln -s Quelle Ziel | Erstellen eines Softlinks zu einer Quelldatei |
-| more Dateiname | seitenweises Durchscrollen einer Textdatei nach unten |
+| more Dateiname | Seitenweises Durchscrollen einer Textdatei nach unten |
 | mv Datei neue\_Datei | Verschiebe Datei an Stelle neue\_Datei |
+| rm Dateiname | Lösche Datei |
 | rename alte\_Dateiendung neue\_Dateiendung Dateien | Umbenennung der Dateiendung von Dateien, z.B. rename .xml .xsd \*.xml |
-|  |  |
-|  |  |
-|  |  |
+| tail Textdatei | Ende einer Textdatei ausgeben |
+| touch Datei | Ändert den Zeitstempel von Dateien. Wenn eine Datei nicht existiert, wird sie mit einer Groesse von 0 Byte angelegt |
 
 
 
