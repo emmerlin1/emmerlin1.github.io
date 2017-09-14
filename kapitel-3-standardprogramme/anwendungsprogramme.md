@@ -4,6 +4,7 @@
 | :--- | :--- |
 | amarok |  |
 | ark |  |
+| audacity |  |
 | blender |  |
 | bluefish |  |
 | cheese |  |
@@ -27,6 +28,7 @@
 | shutter, gtk-recordmydesktop |  |
 | scribus |  |
 | **thunderbird** |  |
+| kvim |  |
 | virsh |  |
 | virt-manager |  |
 | vlc, mplayer |  |
