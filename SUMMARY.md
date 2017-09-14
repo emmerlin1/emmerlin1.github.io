@@ -28,7 +28,7 @@
   * [Archivierung und Komprimierung](kapitel-2-dateisysteme/archivierung-und-komprimierung.md)
 * [Kapitel 3 - Standardprogramme](kapitel-3-standardprogramme.md)
   * [Systemutilies](kapitel-3-standardprogramme/systemutilies.md)
-  * Anwendungsprogramme
+  * [Anwendungsprogramme](kapitel-3-standardprogramme/anwendungsprogramme.md)
 * [Kapitel 4 - Arbeiten im Terminal](kapitel-4-arbeiten-im-terminal.md)
   * [Linux Kommandos](kapitel-4-arbeiten-im-terminal/linux-kommandos.md)
   * Der vi\(m\)
