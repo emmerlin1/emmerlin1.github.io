@@ -6,6 +6,7 @@
 | ark |  |
 | blender |  |
 | bluefish |  |
+| cheese |  |
 | clonezilla |  |
 | dolphin |  |
 | eclipse |  |
