@@ -2,6 +2,7 @@
 
 | Programm | Funktionalität |
 | :--- | :--- |
+| amarok |  |
 | ark |  |
 | bluefish |  |
 | clonezilla |  |
@@ -12,7 +13,7 @@
 | gftp |  |
 | gimp |  |
 | gparted |  |
-| k3b |  |
+| k3b, brasero |  |
 | keepassx |  |
 | librecad |  |
 | **libreoffice** |  |
@@ -23,6 +24,7 @@
 | **thunderbird** |  |
 | virsh |  |
 | virt-manager |  |
+| vlc |  |
 | wireshark |  |
 
 
