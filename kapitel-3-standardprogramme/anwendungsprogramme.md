@@ -4,12 +4,13 @@
 | :--- | :--- |
 | amarok |  |
 | ark |  |
+| blender |  |
 | bluefish |  |
 | clonezilla |  |
 | dolphin |  |
 | eclipse |  |
 | filezilla |  |
-| firefox, chromium-browser |  |
+| firefox, chromium-browser, opera |  |
 | **geany, kate, gedit** |  |
 | gftp |  |
 | gimp |  |
