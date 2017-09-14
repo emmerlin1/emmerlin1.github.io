@@ -27,7 +27,7 @@
     * [Dateioperationen](kapitel-2-dateisysteme/umgang-mit-verzeichnissen-und-dateien/dateioperationen.md)
   * [Archivierung und Komprimierung](kapitel-2-dateisysteme/archivierung-und-komprimierung.md)
 * [Kapitel 3 - Standardprogramme](kapitel-3-standardprogramme.md)
-  * Systemutilies
+  * [Systemutilies](kapitel-3-standardprogramme/systemutilies.md)
   * Anwendungsprogramme
 * [Kapitel 4 - Arbeiten im Terminal](kapitel-4-arbeiten-im-terminal.md)
   * [Linux Kommandos](kapitel-4-arbeiten-im-terminal/linux-kommandos.md)
