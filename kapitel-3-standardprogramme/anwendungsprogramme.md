@@ -21,6 +21,7 @@
 | librecad |  |
 | **libreoffice** |  |
 | okular |  |
+| pidgin |  |
 | qcreator |  |
 | shutter, gtk-recordmydesktop |  |
 | scribus |  |
