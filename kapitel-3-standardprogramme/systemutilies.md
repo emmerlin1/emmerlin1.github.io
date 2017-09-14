@@ -26,6 +26,7 @@
 | make |  |
 | man |  |
 | mkfifo |  |
+| mknod |  |
 | nano |  |
 | nice |  |
 | read |  |
