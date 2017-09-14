@@ -29,6 +29,7 @@
 | vlc, mplayer |  |
 | wine, playonlinux |  |
 | wireshark |  |
+| xnview |  |
 
 
 
