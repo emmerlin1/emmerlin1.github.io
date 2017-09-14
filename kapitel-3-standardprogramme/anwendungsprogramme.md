@@ -8,6 +8,7 @@
 | clonezilla |  |
 | dolphin |  |
 | eclipse |  |
+| filezilla |  |
 | firefox, chromium-browser |  |
 | **geany, kate, gedit** |  |
 | gftp |  |
