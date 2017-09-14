@@ -24,7 +24,7 @@
 | **thunderbird** |  |
 | virsh |  |
 | virt-manager |  |
-| vlc |  |
+| vlc, mplayer |  |
 | wireshark |  |
 
 
