@@ -26,6 +26,7 @@
 | virsh |  |
 | virt-manager |  |
 | vlc, mplayer |  |
+| wine, playonlinux |  |
 | wireshark |  |
 
 
