@@ -10,6 +10,7 @@
 | cp Datei neue\_Datei | Kopieren einer Datei |
 | dirname Dateiname | Gibt nur den Pfad zu einer Datei aus |
 | file Datei | Zeigt die Dateiart einer Datei an \(Binär, Text, Executable, Architektur, 64bit, 32bit\) |
+| find / -name "\*.txt" -print | Suche alle Dateien mit Endung txt im gesamten Dateibaum |
 | head Textdatei | Erste Zeilen einer ASCII-Datei anzeigen |
 | less Textdatei | seitenweise Anzeige einer ASCII-Datei, durchscrollbar mittels vi-Tastaturbefehlen |
 | ln -s Quelle Ziel | Erstellen eines Softlinks zu einer Quelldatei |
