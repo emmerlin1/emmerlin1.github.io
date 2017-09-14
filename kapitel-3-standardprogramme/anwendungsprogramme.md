@@ -20,6 +20,7 @@
 | keepassx |  |
 | librecad |  |
 | **libreoffice** |  |
+| limewire |  |
 | okular |  |
 | pidgin |  |
 | qcreator |  |
