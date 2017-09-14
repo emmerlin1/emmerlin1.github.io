@@ -3,11 +3,13 @@
 * Der Verzeichnisbaum von Linux **beginnt** im Wurzelverzeichnis **/ **\(Wurzel\).
 * Besondere Verzeichnisse:
 
+
   | Zeichen | Bedeutung |
   | :--- | :--- |
   | ~ | Homeverzeichnis des aktuell angemeldeten Benutzers |
   | . | aktuelles Verzeichnis |
   | .. | übergeordnetes Verzeichnis zum aktuellen Verzeichnis |
+  
   
 * Verzeichnis - Befehle: 
 
