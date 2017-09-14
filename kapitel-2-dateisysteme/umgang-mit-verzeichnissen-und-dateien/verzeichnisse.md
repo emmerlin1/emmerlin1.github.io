@@ -19,6 +19,7 @@
 | rmdir verzeichnispfad; | lösche leeres Verzeichnis |
 | rm -r verzeichnispfad; | lösche Verzeichnis rekursiv |
 | mv verzeichnispfad neuer\_Pfad; | bewege Verzeichnis zu neuem Pfad oder benenne es um |
+| cp -r verzeichnispfad neuer\_Pfad; | kopiere Verzeichnis rekursiv |
 | ls -lah | Zeige kompletten Inhalt des aktuellen Verzeichnisses in ausführlicher Form |
 | du -sh verzeichnispfad; | Zeige Gesamtgröße des Verzeichnisinhalts \(rekursiv\) |
 | tree; | Zeige die Verzeichnishierachie in einer Baumansicht |
