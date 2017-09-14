@@ -11,8 +11,10 @@
   | Befehl | Bedeutung |
   | :--- | :--- |
   | mkdir verzeichnispfad; | erzeuge neues Verzeichnis |
-  | ls -lah | Zeige kompletten Inhalt |
-  | du -sh verzeichnispfad; | übergeordnetes Verzeichnis zum aktuellen Verzeichnis |
+  | rmdir verzeichnispfad; | lösche leeres Verzeichnis |
+  | ls -lah | Zeige kompletten Inhalt des aktuellen Verzeichnisses in ausführlicher Form |
+  | du -sh verzeichnispfad; | Zeige Gesamtgröße des Verzeichnisinhalts (rekursiv) |
+  
   
 
 
