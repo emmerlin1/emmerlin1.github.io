@@ -27,13 +27,17 @@
 
   * b=block devices
 
-* find /** -size +50M** -iname "filename"
+* find /** -size +50M** -iname "filename"  
+  Suche Dateien größer als 50MByte
 
-* find /travelphotos -type f -size +200k** -not** -iname "\*2015\*"
+* find /travelphotos -type f -size +200k** -not** -iname "\*2015\*"  
+  Suche Dateien größer als 200kB, deren Name den Substring 2015 nicht enthalten
 
-* find /** -user** username / **-group** users  **-perm** 777 -iname "\*"
+* find /** -user** username / **-group** users  **-perm** 777 -iname "\*"  
+  Suche Dateien, die dem Benutzer username, der Gruppe users angehören und die Zugriffsrechte rwx aufweisen.
 
-* find . -type f -perm 777** -exec** chmod 755 **{} \**;
+* find . -type f -perm 777** -exec** chmod 755 **{} \**;  
+  Suche reguläre Dateien mit den Zugriffsrechten rwxrwxrwx und ändere deren Rechte über 'chmod 755' zu r-xr-xr-x
 
 #### locate
 
@@ -45,8 +49,6 @@
 * grep -r -i "search query" /path/to/directory/
 * grep -r -i "search query" /path/to/directory/ \| cut -d: -f1
 * grep -r -i "search query" /path/to/directory/ 2&gt;/dev/null
-
-
 
 
 

@@ -32,7 +32,7 @@
 * [Kapitel 4 - Arbeiten im Terminal](kapitel-4-arbeiten-im-terminal.md)
   * [Linux Kommandos](kapitel-4-arbeiten-im-terminal/linux-kommandos.md)
     * [Dateien und Inhalte suchen](kapitel-4-arbeiten-im-terminal/linux-kommandos/dateien-und-inhalte-suchen.md)
-  * Der vi\(m\)
+  * [Der vi\(m\)](kapitel-4-arbeiten-im-terminal/der-vim.md)
   * Reguläre Ausdrücke
   * Shellskripte
   * sed und awk
