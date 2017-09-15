@@ -8,10 +8,10 @@
 | **cat** | Füge mehrere Dateien zusammen, auch kann der Befehl für die Anzeige von Dateiinhalten genutzt werden |  |
 | **chroot** | Mit chroot kann ein programm sein Wurzelverzeichnis wechseln |  |
 | **crontab** | Steuerung von zeitlich geplanten Vorgängen \(Skripte, Programme, Backups etc.\) |  |
-| **cut** | Extrahiert spaltenweise Ausschnitte aus Textzeilen mittels angegebenem Trennzeichen |  |
-| **date** |  |  |
-| **dd** |  |  |
-| **df** |  |  |
+| **cut** | Extrahiert spaltenweise Ausschnitte aus Textzeilen mittels angegebenem Trennzeichen/Zeichenposition |  |
+| **date** | Ausgabe von Datum/Zeit |  |
+| **dd** | dd dient zum bit-genauen Kopieren von Festplatten, Partitionen oder Dateien |  |
+| **df** | diskfree, zeige den freien Festplattenplatz von eingehängten Partitionen an |  |
 | **diff** |  |  |
 | **echo** |  |  |
 | **env** |  |  |
