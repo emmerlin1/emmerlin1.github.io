@@ -18,10 +18,10 @@
 | **fg** | Holen eines Prozesses in den Vordergrund |  |
 | **grep** | Durchsuchen von Dateien nach Textstücken |  |
 | **jobs** | Zeigt die Hintergrundprozesse an |  |
-| **join** | Verbinde Inhalte zweier Dateien zeilenweise  |  |
+| **join** | Verbinde Inhalte zweier Dateien zeilenweise |  |
 | **kill/killall** | Beende Prozesse |  |
 | **locale** | Informationen über Gebietsschema |  |
-| **logger** |  |  |
+| **logger** | Vollführt Einträge im System-Log-Mechanismus |  |
 | **logname** |  |  |
 | **lp** |  |  |
 | **make** |  |  |
