@@ -16,11 +16,11 @@
 | **echo** | Zeilenweise Anzeige von Zeichenketten/Variablen auf dem Standardausgabegerät |  |
 | **env** | Steuerung/Anzeige der Umgebungsvariablen |  |
 | **fg** | Holen eines Prozesses in den Vordergrund |  |
-| **grep** |  |  |
-| **jobs** |  |  |
-| **join** |  |  |
-| **kill** |  |  |
-| **locale** |  |  |
+| **grep** | Durchsuchen von Dateien nach Textstücken |  |
+| **jobs** | Zeigt die Hintergrundprozesse an |  |
+| **join** | Verbinde Inhalte zweier Dateien zeilenweise  |  |
+| **kill/killall** | Beende Prozesse |  |
+| **locale** | Informationen über Gebietsschema |  |
 | **logger** |  |  |
 | **logname** |  |  |
 | **lp** |  |  |
