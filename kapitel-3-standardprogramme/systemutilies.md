@@ -12,10 +12,10 @@
 | **date** | Ausgabe von Datum/Zeit |  |
 | **dd** | dd dient zum bit-genauen Kopieren von Festplatten, Partitionen oder Dateien |  |
 | **df** | diskfree, zeige den freien Festplattenplatz von eingehängten Partitionen an |  |
-| **diff** |  |  |
-| **echo** |  |  |
-| **env** |  |  |
-| **fg** |  |  |
+| **diff** | Vergleich der Inhalte zweier Dateien/Ordner |  |
+| **echo** | Zeilenweise Anzeige von Zeichenketten/Variablen auf dem Standardausgabegerät |  |
+| **env** | Steuerung/Anzeige der Umgebungsvariablen |  |
+| **fg** | Holen eines Prozesses in den Vordergrund |  |
 | **grep** |  |  |
 | **jobs** |  |  |
 | **join** |  |  |
