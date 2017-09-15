@@ -25,8 +25,8 @@
 | **logname** | Anzeige des aktuellen Loginnamens |  |
 | **lp** | Druckbefehl in Warteschlange einreihen |  |
 | **make** | Tool zum Übersetzen von C-Quellcode |  |
-| **man** |  |  |
-| **mkfifo** |  |  |
+| **man** | Manual-Seiten für Linux-Befehle und C-Funktionen |  |
+| **mkfifo** | Erzeugung einer FIFO-Pipe |  |
 | **mknod** |  |  |
 | **nano** |  |  |
 | **nice** |  |  |
