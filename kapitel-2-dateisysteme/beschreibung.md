@@ -56,7 +56,7 @@ Jeder Prozessordner wird durch seine Prozess-ID abgebildet und enthält Informat
 <!--endsec-->
 
 <!--sec data-title="/root" data-id="section10" data-collapse=true data-show=true ces-->
-Das root-Userverzeichnis
+Das root-Userverzeichnis wird getrennt von allen anderen Userverzeichnissen direkt unter der Wurzel des Dateisystems verwaltet
 <!--endsec-->
 
 <!--sec data-title="/run" data-id="section11" data-collapse=true data-show=true ces-->
