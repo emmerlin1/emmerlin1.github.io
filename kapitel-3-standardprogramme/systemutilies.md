@@ -24,7 +24,7 @@
 | **logger** | Vollführt Einträge im System-Log-Mechanismus |  |
 | **logname** | Anzeige des aktuellen Loginnamens |  |
 | **lp** | Druckbefehl in Warteschlange einreihen |  |
-| **make** |  |  |
+| **make** | Tool zum Übersetzen von C-Quellcode |  |
 | **man** |  |  |
 | **mkfifo** |  |  |
 | **mknod** |  |  |
