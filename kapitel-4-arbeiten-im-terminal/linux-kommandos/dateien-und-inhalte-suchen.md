@@ -1,29 +1,31 @@
 ### Dateien und Inhalte suchen
 
-* **find** -iname "filename"  
+* **find -iname "filename"**  
   Finde Datei mit Namen filename, Groß-/Kleinschreibung wird nicht beachtet.
 
-* **find** / -iname "filename"  
+* find** / **-iname "filename"  
   Finde Datei ausgehend vom Wurzelverzeichnis.
 
-* **find** /home/user -iname "\*.conf"  
+* find /home/user -iname "**\***.conf"  
   Finde alle Dateien mit Endung .conf im Homeverzeichnis von user.
 
 * find /home/pat -iname "\*.conf"** \| less**  
   Füttere das Kommando less mit dem Ergebnis der Dateisuche. Dadurch kann das Suchergebnis selbst durchgescrollt und durchsucht werden.
 
 * find /** -type f** -iname "filename"  
-  Durchsuche nur bestimmte Dateiarten 
+  Durchsuche nur bestimmte Dateiarten
 
-  * f=regular files, 
+  * f=regular files,
 
   * d=directories,
 
   * l=symb. links,
 
-  *  c=char. devices, 
+  * c=char. devices,
 
   * b=block devices
+
+* find /** -size +50M** -iname "filename"
 
 
 
