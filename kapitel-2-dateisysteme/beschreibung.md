@@ -82,7 +82,8 @@ Dabei werden so gut wie alle verfügbaren Ressourcen abgedeckt.
 <!--endsec-->
 
 <!--sec data-title="/usr" data-id="section16" data-collapse=true data-show=true ces-->
-In **/usr** (unix system ressources) findet man alle Anwendungsprogramme, Bibliotheken, das X-System, installierten Quellcode 
+In **/usr** (unix system ressources) findet man alle Anwendungsprogramme, Bibliotheken, das X-System, installierten Quellcode etc..
+
 Der Inhalt verändert sich in der Regel nur bei Paket-(De)installationen und Updates.
 
 | Verzeichnis | Inhalt |
