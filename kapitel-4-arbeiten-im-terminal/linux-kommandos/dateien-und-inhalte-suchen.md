@@ -1,5 +1,7 @@
 ### Dateien und Inhalte suchen
 
+#### find
+
 * **find -iname "filename"**  
   Finde Datei mit Namen filename, Groß-/Kleinschreibung wird nicht beachtet.
 
@@ -33,6 +35,12 @@
 
 * find . -type f -perm 777** -exec** chmod 755 **{} \**;
 
+
+
+#### locate
+
+* sudo apt install mlocate; sudo updatedb;
+* **locate** -i "\*.jpg"
 * 
 
 
