@@ -27,5 +27,12 @@
 
 * find /** -size +50M** -iname "filename"
 
+* find /travelphotos -type f -size +200k** -not** -iname "\*2015\*"
+
+* find /** -user** username / **-group** users  **-perm** 777 -iname "\*"
+
+* find . -type f -perm 777** -exec** chmod 755 **{} \**;
+
+* 
 
 
