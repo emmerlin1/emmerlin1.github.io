@@ -35,12 +35,18 @@
 
 * find . -type f -perm 777** -exec** chmod 755 **{} \**;
 
-
-
 #### locate
 
 * sudo apt install mlocate; sudo updatedb;
 * **locate** -i "\*.jpg"
-* 
+
+#### grep
+
+* grep -r -i "search query" /path/to/directory/
+* grep -r -i "search query" /path/to/directory/ \| cut -d: -f1
+* grep -r -i "search query" /path/to/directory/ 2&gt;/dev/null
+
+
+
 
 
