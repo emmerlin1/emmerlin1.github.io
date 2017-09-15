@@ -14,7 +14,7 @@
 
 > Everything is a File \(-Descriptor\)
 
-Die Geräte werden dynamisch durch das **udev**-System eingerichtet. Das /dev-Verzeichnis befindet sich bei den meisten Distributionen in einer RAM-Disk, d. h., der Inhalt des Verzeichnisses wird bei jedem Neustart des Rechners neu generiert.
+Die Geräte werden dynamisch durch das **udev**-Subsystem eingerichtet. Der Inhalt des /dev-Verzeichnisses wird in der Regel bei jedem Neustart des Rechners neu generiert.
 
 Das NULL-Device \(/dev/null\) wirkt als 'Mülleimer', in dem dort abgelegte Daten entsorgt werden können, wie z.B. Standard- und Fehlerausgaben \(2=stderr,1=stdout\):  
 
