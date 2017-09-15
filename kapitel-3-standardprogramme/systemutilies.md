@@ -43,6 +43,7 @@
 | **tee** |  |  |
 | **top** |  |  |
 | **truncate** |  |  |
+| **type** |  |  |
 | **umask** |  |  |
 | **unalias** |  |  |
 | **uname** |  |  |
@@ -51,6 +52,8 @@
 | **vim** |  |  |
 | **vnc** |  |  |
 | **wc** |  |  |
+| **whereis** |  |  |
+| **which** |  |  |
 | **who** |  |  |
 | **whoami** |  |  |
 | **write** |  |  |
