@@ -6,9 +6,9 @@
 | **awk** | Utility für Bearbeitung/Auswertung von Textdateien |  |
 | **bg** | Verlagere einen per CTRL-Z gestoppten Prozess in den Hintergrund, der dort dann weiter läuft |  |
 | **cat** | Füge mehrere Dateien zusammen, auch kann der Befehl für die Anzeige von Dateiinhalten genutzt werden |  |
-| **chroot** |  |  |
-| **crontab** |  |  |
-| **cut** |  |  |
+| **chroot** | Mit chroot kann ein programm sein Wurzelverzeichnis wechseln |  |
+| **crontab** | Steuerung von zeitlich geplanten Vorgängen \(Skripte, Programme, Backups etc.\) |  |
+| **cut** | Extrahiert spaltenweise Ausschnitte aus Textzeilen mittels angegebenem Trennzeichen |  |
 | **date** |  |  |
 | **dd** |  |  |
 | **df** |  |  |
