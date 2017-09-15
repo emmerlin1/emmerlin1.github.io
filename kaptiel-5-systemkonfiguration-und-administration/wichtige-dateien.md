@@ -12,6 +12,7 @@
 
 ## Wichtige Verzeichnisse
 
+* /app/armor
 * /etc/cron.d
 * /etc/default
 * /etc/hosts
