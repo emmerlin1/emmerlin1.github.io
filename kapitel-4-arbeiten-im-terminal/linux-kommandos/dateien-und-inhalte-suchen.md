@@ -49,6 +49,8 @@
 * grep -r -i "search query" /path/to/directory/
   Suche rekursiv nach dem Inhalt 'search query' im Pfad '/path/to/directory/'
 * grep -r -i "search query" /path/to/directory/ \| cut -d: -f1
+  Zeige nur den ersten Teil der jeweiligen Ergebniszeile \(Trennzeichen ist hier der Doppelpunkt\)
+
 * grep -r -i "search query" /path/to/directory/ 2&gt;/dev/null
 
 
