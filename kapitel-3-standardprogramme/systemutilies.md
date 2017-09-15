@@ -29,8 +29,8 @@
 | **mkfifo** | Erzeugung einer FIFO-Pipe |  |
 | **mknod** | Erzeugung von Block- und Zeichengeräten |  |
 | **nano** | Angenehmer Terminal-Editor |  |
-| **nice** |  |  |
-| **nl** |  |  |
+| **nice** | Veränderung der Priorität eines laufenden Prozesses |  |
+| **nl** | Ausgabe von Dateien mit Zeilennummerierung |  |
 | **nohup** |  |  |
 | **ps** |  |  |
 | **read** |  |  |
@@ -59,5 +59,5 @@
 | **write** |  |  |
 | **zcat** |  |  |
 
-
+Ver
 
