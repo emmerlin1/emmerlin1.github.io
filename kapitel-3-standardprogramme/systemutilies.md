@@ -27,8 +27,8 @@
 | **make** | Tool zum Übersetzen von C-Quellcode |  |
 | **man** | Manual-Seiten für Linux-Befehle und C-Funktionen |  |
 | **mkfifo** | Erzeugung einer FIFO-Pipe |  |
-| **mknod** |  |  |
-| **nano** |  |  |
+| **mknod** | Erzeugung von Block- und Zeichengeräten |  |
+| **nano** | Angenehmer Terminal-Editor |  |
 | **nice** |  |  |
 | **nl** |  |  |
 | **nohup** |  |  |
