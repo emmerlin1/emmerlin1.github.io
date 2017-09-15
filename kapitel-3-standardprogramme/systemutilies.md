@@ -5,7 +5,7 @@
 | **alias** | Aliasname für ein Kommando vergeben |  |
 | **awk** | Utility für Bearbeitung/Auswertung von Textdateien |  |
 | **bg** | Verlagere einen per CTRL-Z gestoppten Prozess in den Hintergrund, der dort dann weiter läuft |  |
-| **cat** |  |  |
+| **cat** | Füge mehrere Dateien zusammen, auch kann der Befehl für die Anzeige von Dateiinhalten genutzt werden |  |
 | **chroot** |  |  |
 | **crontab** |  |  |
 | **cut** |  |  |
