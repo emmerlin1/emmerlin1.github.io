@@ -31,7 +31,7 @@
   * [Anwendungsprogramme](kapitel-3-standardprogramme/anwendungsprogramme.md)
 * [Kapitel 4 - Arbeiten im Terminal](kapitel-4-arbeiten-im-terminal.md)
   * [Linux Kommandos](kapitel-4-arbeiten-im-terminal/linux-kommandos.md)
-    * Dateien und Inhalte suchen
+    * [Dateien und Inhalte suchen](kapitel-4-arbeiten-im-terminal/linux-kommandos/dateien-und-inhalte-suchen.md)
   * Der vi\(m\)
   * Reguläre Ausdrücke
   * Shellskripte
