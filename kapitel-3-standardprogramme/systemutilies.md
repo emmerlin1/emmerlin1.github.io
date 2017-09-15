@@ -22,8 +22,8 @@
 | **kill/killall** | Beende Prozesse |  |
 | **locale** | Informationen über Gebietsschema |  |
 | **logger** | Vollführt Einträge im System-Log-Mechanismus |  |
-| **logname** |  |  |
-| **lp** |  |  |
+| **logname** | Anzeige des aktuellen Loginnamens |  |
+| **lp** | Druckbefehl in Warteschlange einreihen |  |
 | **make** |  |  |
 | **man** |  |  |
 | **mkfifo** |  |  |
