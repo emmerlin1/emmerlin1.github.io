@@ -47,6 +47,7 @@
 | **uptime** |  |
 | **users** |  |
 | **vim** |  |
+| **vnc** |  |
 | **wc** |  |
 | **who** |  |
 | **whoami** |  |

@@ -20,7 +20,7 @@
 | _k3b_, _brasero_ |  |
 | _keepassx_ |  |
 | _librecad_ |  |
-| _**libreoffice**_ |  |
+| _libreoffice_ |  |
 | _limewire_ |  |
 | _okular_ |  |
 | _pidgin_ |  |
