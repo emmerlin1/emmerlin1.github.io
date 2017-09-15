@@ -1,0 +1,162 @@
+{
+  "width": 80,
+  "version": 1,
+  "duration": 15.499903,
+  "title": null,
+  "command": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "height": 23,
+  "stdout": [
+    [
+      1.526792,
+      "\u001b]0;emmerlin@xub1704: ~/GitBook/Library/Import/linux_einfuehrung/asciinema\u0007\u001b[01;32memmerlin@xub1704\u001b[00m:\u001b[01;34m~/GitBook/Library/Import/linux_einfuehrung/asciinema\u001b[00m$ "
+    ],
+    [
+      2.020743,
+      "l"
+    ],
+    [
+      0.807474,
+      "s"
+    ],
+    [
+      0.216088,
+      " "
+    ],
+    [
+      0.259995,
+      "-"
+    ],
+    [
+      0.403761,
+      "l"
+    ],
+    [
+      0.85053,
+      "\r\n"
+    ],
+    [
+      0.001859,
+      "insgesamt 8"
+    ],
+    [
+      7.7e-05,
+      "\r\n"
+    ],
+    [
+      0.000179,
+      "-rw-rw-r-- 1 emmerlin emmerlin    0 Sep 15 09:52 commands.json"
+    ],
+    [
+      7.2e-05,
+      "\r\n"
+    ],
+    [
+      0.000114,
+      "-rw-rw-r-- 1 emmerlin emmerlin 1593 Sep  5 15:25 demo.json"
+    ],
+    [
+      7.8e-05,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "-rw-rw-r-- 1 emmerlin emmerlin 3778 Sep 11 12:44 findredirect.json"
+    ],
+    [
+      7.4e-05,
+      "\r\n"
+    ],
+    [
+      0.001716,
+      "\u001b]0;emmerlin@xub1704: ~/GitBook/Library/Import/linux_einfuehrung/asciinema\u0007\u001b[01;32memmerlin@xub1704\u001b[00m:\u001b[01;34m~/GitBook/Library/Import/linux_einfuehrung/asciinema\u001b[00m$ "
+    ],
+    [
+      2.361305,
+      "d"
+    ],
+    [
+      0.191775,
+      "f"
+    ],
+    [
+      0.512072,
+      " "
+    ],
+    [
+      0.191634,
+      "-"
+    ],
+    [
+      0.296245,
+      "h"
+    ],
+    [
+      0.736112,
+      "\r\n"
+    ],
+    [
+      0.023532,
+      "Dateisystem    Größe Benutzt Verf. Verw% Eingehängt auf\r\nudev            977M       0  977M    0% /dev\r\ntmpfs           200M    6,1M  194M    4% /run\r\n/dev/vda1        20G    9,0G  9,7G   49% /\r\ntmpfs           999M     37M  963M    4% /dev/shm\r\ntmpfs           5,0M    4,0K  5,0M    1% /run/lock\r\ntmpfs           999M       0  999M    0% /sys/fs/cgroup\r\ntmpfs           200M     20K  200M    1% /run/user/1000\r\n\u001b]0;emmerlin@xub1704: ~/GitBook/Library/Import/linux_einfuehrung/asciinema\u0007\u001b[01;32memmerlin@xub1704\u001b[00m:\u001b[01;34m~/GitBook/Library/Import/linux_einfuehrung/asciinema\u001b[00m$ "
+    ],
+    [
+      1.952591,
+      "u"
+    ],
+    [
+      0.223481,
+      "n"
+    ],
+    [
+      0.208191,
+      "a"
+    ],
+    [
+      0.143854,
+      "m"
+    ],
+    [
+      0.728116,
+      "a"
+    ],
+    [
+      0.52812,
+      "\b\u001b[K"
+    ],
+    [
+      0.147598,
+      "e"
+    ],
+    [
+      0.444373,
+      " "
+    ],
+    [
+      0.225558,
+      "-"
+    ],
+    [
+      0.150354,
+      "a"
+    ],
+    [
+      0.336828,
+      "\r\n"
+    ],
+    [
+      0.005508,
+      "Linux xub1704 4.10.0-33-generic #37-Ubuntu SMP Fri Aug 11 10:55:28 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux"
+    ],
+    [
+      7.9e-05,
+      "\r\n"
+    ],
+    [
+      0.001379,
+      "\u001b]0;emmerlin@xub1704: ~/GitBook/Library/Import/linux_einfuehrung/asciinema\u0007\u001b[01;32memmerlin@xub1704\u001b[00m:\u001b[01;34m~/GitBook/Library/Import/linux_einfuehrung/asciinema\u001b[00m$ "
+    ]
+  ]
+}
