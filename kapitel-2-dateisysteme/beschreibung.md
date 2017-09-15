@@ -104,6 +104,6 @@ Der Inhalt verändert sich in der Regel nur bei Paket-(De)installationen und Upd
 <!--sec data-title="/var" data-id="section17" data-collapse=true data-show=true ces-->
 Sich systembedingt verändernde Anwendungsdaten befinden sich im Verzeichnis **/var**.
 
-Wichtige Unterverzeichnisse sind **adm** _(distributionsabhängige Administrationsdateien)_, **lock** _(Locking-Dateien zum Zugriffsschutz auf Devices)_, **log** _(Logging-Dateien), mail (E-Mail-Dateien, oft auch in /var/spool/mail)_, **run** _(Dateien mit Prozess-IDs von manchen Systemdiensten)_ und **spool** _(zwischengespeicherte Druckdateien, News-Dateien etc.)_.
+Wichtige Unterverzeichnisse sind **adm** _(distributionsabhängige Administrationsdateien)_, **lock** _(Locking-Dateien zum Zugriffsschutz auf Devices)_, **log** _(Logging-Dateien), mail (E-Mail-Dateien)_, **run** _(Laufzeit-Dateien mit Prozess-IDs von manchen Systemdiensten)_ und **spool** _(zwischengespeicherte Druckdateien, News-Dateien etc.)_.
 
 <!--endsec-->
