@@ -32,7 +32,7 @@
 | **nice** | Veränderung der Priorität eines laufenden Prozesses |  |
 | **nl** | Ausgabe von Dateien mit Zeilennummerierung |  |
 | **nohup** |  |  |
-| **ps** |  |  |
+| **ps** | Ausgabe der aktuellen Prozessliste |  |
 | **read** |  |  |
 | **renice** |  |  |
 | **sed** |  |  |
