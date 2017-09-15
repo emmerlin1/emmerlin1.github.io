@@ -2,9 +2,9 @@
 
 | Befehl | Bedeutung | Beispiel |
 | :--- | :--- | :--- |
-| **alias** |  |  |
-| **awk** |  |  |
-| **bg** |  |  |
+| **alias** | Aliasname für ein Kommando vergeben |  |
+| **awk** | Utility für Bearbeitung/Auswertung von Textdateien |  |
+| **bg** | Verlagere einen per CTRL-Z gestoppten Prozess in den Hintergrund, der dort dann weiter läuft |  |
 | **cat** |  |  |
 | **chroot** |  |  |
 | **crontab** |  |  |
