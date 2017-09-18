@@ -1,24 +1,18 @@
 ## Systemkonfiguration und -administration
 
-Linux Bootvorgang
+[Linux Bootvorgang](/kaptiel-5-systemkonfiguration-und-administration/linux-bootvorgang.md)
 
-Das Hilfesystem
+[Das Hilfesystem](/kaptiel-5-systemkonfiguration-und-administration/das-hilfesystem.md)
 
-Benutzerverwaltung
+[Benutzerverwaltung](/kaptiel-5-systemkonfiguration-und-administration/benutzerverwaltung.md)
 
-Prozessverwaltung
+[Prozessverwaltung](/kaptiel-5-systemkonfiguration-und-administration/prozessverwaltung.md)
 
-Remote Administration
+[Remote Administration](/kaptiel-5-systemkonfiguration-und-administration/remote-administration.md)
 
-Systemd
+[Paketverwaltung](/kaptiel-5-systemkonfiguration-und-administration/paketverwaltung.md)
 
-Paketverwaltung
+[Zeigesteuerte Vorgänge](/kaptiel-5-systemkonfiguration-und-administration/zeitgesteuerte-vorgange.md)
 
-Zeigesteuerte Vorgänge
-
-Lokalisierung und Internationalisierung
-
-Remote Administration
-
-
+[Lokalisierung und Internationalisierung](/kaptiel-5-systemkonfiguration-und-administration/lokalisierung-und-internationalisierung.md)
 
