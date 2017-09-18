@@ -5,15 +5,14 @@
 | _amarok_ | Audiostreams komfortabel abspielen |
 | _ark_ | Archivformate verwalten \(tar, gzip, bzip2, zip, 7z, rar, lha |
 | _audacity_ | Audio-Editor/-Recorder |
-| _blender_ |  |
-| _bluefish_ |  |
+| _blender_ | 3D-Renderings, Videoschnitt |
+| _bluefish, geany, kate, gedit_ | Editor für Programmierer |
 | _cheese_ |  |
 | _clonezilla_ |  |
 | _dolphin_ |  |
 | _eclipse_ |  |
 | _filezilla_ |  |
 | _firefox_, _chromium-browser_, _opera_ |  |
-| _geany_, _kate_, _gedit_ |  |
 | _gftp_ |  |
 | _gimp_ |  |
 | _gparted_ |  |
