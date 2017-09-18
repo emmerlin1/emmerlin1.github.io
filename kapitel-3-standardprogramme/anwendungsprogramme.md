@@ -10,8 +10,8 @@
 | _cheese_ | Webcam-Anwendung für Bild-/Videoaufnahme |
 | _clonezilla_ | Klonen von Festplatten/Partitionen |
 | _dolphin, thunar, pcmanfm_ | Dateimanager |
-| _eclipse, netbeans, qtcreator_ | IDE für verschiedene Programmiersprachen |
-| _filezilla_ |  |
+| _eclipse, netbeans, qtcreator, kdevelop_ | IDE für verschiedene Programmiersprachen |
+| _filezilla, gftp_ | FTP- und SFTP-Client |
 | _firefox_, _chromium-browser_, _opera_ |  |
 | _gftp_ |  |
 | _gimp_ |  |
