@@ -46,11 +46,11 @@
   * [Zeitgesteuerte Vorgänge](kaptiel-5-systemkonfiguration-und-administration/zeitgesteuerte-vorgange.md)
   * [Lokalisierung und Internationalisierung](kaptiel-5-systemkonfiguration-und-administration/lokalisierung-und-internationalisierung.md)
 * [Kapitel 6 - Einbindung ins Netzwerk](kapitel-6-einbindung-ins-netzwerk.md)
-  * Grundlagen von TCP/IP
-  * Linux - Netzkonfiguration
-  * Fehlersuche und Fehlerbehebung im Netz
-  * Die Secure Shell ssh
-  * Grundlagen von GnuPG
-  * Linux und Sicherheit
+  * [Grundlagen von TCP/IP](kapitel-6-einbindung-ins-netzwerk/grundlagen-von-tcpip.md)
+  * [Linux - Netzkonfiguration](kapitel-6-einbindung-ins-netzwerk/linux-netzkonfiguration.md)
+  * [Fehlersuche und Fehlerbehebung im Netz](kapitel-6-einbindung-ins-netzwerk/fehlersuche-und-fehlerbehebung-im-netz.md)
+  * [Die Secure Shell ssh](kapitel-6-einbindung-ins-netzwerk/die-secure-shell-ssh.md)
+  * [Grundlagen von GnuPG](kapitel-6-einbindung-ins-netzwerk/grundlagen-von-gnupg.md)
+  * [Linux und Sicherheit](kapitel-6-einbindung-ins-netzwerk/linux-und-sicherheit.md)
 * Kapitel 7 - Raspberry Pi und andere ARM-Gerätschaften
 
