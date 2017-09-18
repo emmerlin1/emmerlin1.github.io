@@ -15,6 +15,7 @@
 | **diff** | Vergleich der Inhalte zweier Dateien/Ordner | diff file1 file2 |
 | **echo** | Zeilenweise Anzeige von Zeichenketten/Variablen auf dem Standardausgabegerät | echo 'Hello Linux World!' |
 | **env** | Steuerung/Anzeige der Umgebungsvariablen | env VAR1="blahblah" command\_to\_run command\_options |
+| **export** | Definiert und verwaltet Umgebungsvariable | export var="myvalue" |
 | **fg** | Holen eines Prozesses in den Vordergrund | fg %1 |
 | **grep** | Durchsuchen von Dateien nach Textstücken | grep -r -i "include" ./ |
 | **jobs** | Zeigt die Hintergrundprozesse an | jobs |
@@ -47,6 +48,7 @@
 | **umask** | Anzeige/Änderung der aktuellen Maskierung der Zugriffsrechte einer neuen Datei | touch 0022 |
 | **unalias** | Aliasnamen löschen | unalias ll |
 | **uname** | Ausgabe bestimmter Systeminfos wie Kernelversion/-Variante, Hostname, Prozessortyp, Betriebssystem | uname -a |
+| **unset** | löscht Shell- oder Umgebungsvariable | unset var |
 | **uptime** | Ausgabe der aktuellen Laufzeit des Systems | uptime -s |
 | **users** | Anzeige der aktuell am System angemeldeten Benutzer | users |
 | **vim** | Konsolentexteditor | vim |
