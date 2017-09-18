@@ -43,8 +43,7 @@
 | **tee** | Verdopplung der Ausgabe - in Textdatei und auf Standardausgabe | ls -la \| tee alle\_dateien.txt |
 | **top** | Dynamische Anzeige der aktuell auf dem System laufenden Prozesse \(Alternative htop\) und des Ressourcenverbrauchs | top |
 | **truncate** | Die Größe einer Datei auf die angegebene Größe verkleinern/-größern; abgeschnittene Daten gehen verloren; nicht existierende Dateien werden erstellt | truncate -s 100g /tmp/SWAPDATEI |
-| **type** |  |  |
-| **umask** |  |  |
+| **umask** | Anzeige/Änderung der aktuellen Maskierung der Zugriffsrechte einer neuen Datei | touch 0022 |
 | **unalias** |  |  |
 | **uname** |  |  |
 | **uptime** |  |  |
