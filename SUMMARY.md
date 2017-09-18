@@ -38,15 +38,13 @@
   * [sed und awk](kapitel-4-arbeiten-im-terminal/sed-und-awk.md)
 * [Kaptiel 5 - Systemkonfiguration und Administration](kaptiel-5-systemkonfiguration-und-administration.md)
   * [Linux Bootvorgang](kaptiel-5-systemkonfiguration-und-administration/linux-bootvorgang.md)
-  * Das Hilfesystem
-  * Benutzerverwaltung
-  * Prozessverwaltung
+  * [Das Hilfesystem](kaptiel-5-systemkonfiguration-und-administration/das-hilfesystem.md)
+  * [Benutzerverwaltung](kaptiel-5-systemkonfiguration-und-administration/benutzerverwaltung.md)
+  * [Prozessverwaltung](kaptiel-5-systemkonfiguration-und-administration/prozessverwaltung.md)
   * [Remote Administration](kaptiel-5-systemkonfiguration-und-administration/remote-administration.md)
-  * Systemd
-  * Paketverwaltung
-  * Zeitgesteuerte Vorgänge
-  * Lokalisierung und Internationalisierung
-  * Remote Administration
+  * [Paketverwaltung](kaptiel-5-systemkonfiguration-und-administration/paketverwaltung.md)
+  * [Zeitgesteuerte Vorgänge](kaptiel-5-systemkonfiguration-und-administration/zeitgesteuerte-vorgange.md)
+  * [Lokalisierung und Internationalisierung](kaptiel-5-systemkonfiguration-und-administration/lokalisierung-und-internationalisierung.md)
 * [Kapitel 6 - Einbindung ins Netzwerk](kapitel-6-einbindung-ins-netzwerk.md)
   * Grundlagen von TCP/IP
   * Linux - Netzkonfiguration
