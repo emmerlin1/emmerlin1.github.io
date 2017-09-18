@@ -5,7 +5,7 @@
 | _amarok_ | Audiostreams komfortabel abspielen |
 | _ark_ | Archivformate verwalten \(tar, gzip, bzip2, zip, 7z, rar, lha |
 | _audacity_ | Audio-Editor/-Recorder |
-| _blender_ | 3D-Renderings, Videoschnitt |
+| _blender_ | 3D-Renderings, Animierte Filme, Visuelle Effekte, Videoschnitt |
 | _bluefish, geany, kate, gedit_ | Editor für Programmierer |
 | _cheese_ | Webcam-Anwendung für Bild-/Videoaufnahme |
 | _clonezilla_ | Klonen von Festplatten/Partitionen |
@@ -24,9 +24,9 @@
 | _okular_ | Dokumentbetrachter |
 | _pidgin_ | Chat-Client |
 | _shutter_, _gtk-recordmydesktop_ | Screencast-Anwendung |
-| _scribus_ |  |
-| _thunderbird_**, **_claws mail_ |  |
-| _kino_ |  |
+| _scribus_ | Desktop-Publishing-Programm |
+| _thunderbird_**, **_claws mail_ | Mail-Programm |
+| _kino_ | Videoschnittprogramm |
 | _kvm_, _virtualbox_ |  |
 | _kvim_ |  |
 | _ufw_ |  |
