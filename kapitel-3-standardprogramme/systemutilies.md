@@ -18,6 +18,7 @@
 | **export** | Definiert und verwaltet Umgebungsvariable | export var="myvalue" |
 | **fg** | Holen eines Prozesses in den Vordergrund | fg %1 |
 | **grep** | Durchsuchen von Dateien nach Textstücken | grep -r -i "include" ./ |
+| **hash** | Zeigt und verwaltet verwendete Bash-Kommandos | hash |
 | **jobs** | Zeigt die Hintergrundprozesse an | jobs |
 | **join** | Verbinde Inhalte zweier Dateien zeilenweise | join -1 2 -2 1 &lt;\(sort -k 2 wine.txt\) &lt;\(sort reviews.txt\) |
 | **kill/killall** | Beende Prozesse | kill -9 2345 |
