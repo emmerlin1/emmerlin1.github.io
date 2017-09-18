@@ -10,8 +10,8 @@
 | **crontab** | Steuerung von zeitlich geplanten Vorgängen \(Skripte, Programme, Backups etc.\) | crontab -e |
 | **cut** | Extrahiert spaltenweise Ausschnitte aus Textzeilen mittels angegebenem Trennzeichen/Zeichenposition | grep -r -i "include" ./ \| cut -d: -f1 |
 | **date** | Ausgabe von Datum/Zeit | date +%d.%m.%Y |
-| **dd** | dd dient zum bit-genauen Kopieren von Festplatten, Partitionen oder Dateien |  |
-| **df** | diskfree, zeige den freien Festplattenplatz von eingehängten Partitionen an |  |
+| **dd** | dd dient zum bit-genauen Kopieren von Festplatten, Partitionen oder Dateien | sudo dd if=2017-08-16-raspbian-stretch.img of=/dev/sdg status=progress bs=16M |
+| **df** | diskfree, zeige den freien Festplattenplatz von eingehängten Partitionen an | df -h |
 | **diff** | Vergleich der Inhalte zweier Dateien/Ordner |  |
 | **echo** | Zeilenweise Anzeige von Zeichenketten/Variablen auf dem Standardausgabegerät |  |
 | **env** | Steuerung/Anzeige der Umgebungsvariablen |  |

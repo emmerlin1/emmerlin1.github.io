@@ -41,11 +41,12 @@
   * Das Hilfesystem
   * Benutzerverwaltung
   * Prozessverwaltung
+  * Remote Administration
   * Systemd
   * Paketverwaltung
   * Zeitgesteuerte Vorgänge
   * Lokalisierung und Internationalisierung
-  * [Wichtige Dateien und Verzeichnisse](kaptiel-5-systemkonfiguration-und-administration/wichtige-dateien.md)
+  * Remote Administration
 * [Kapitel 6 - Einbindung ins Netzwerk](kapitel-6-einbindung-ins-netzwerk.md)
   * Grundlagen von TCP/IP
   * Linux - Netzkonfiguration
