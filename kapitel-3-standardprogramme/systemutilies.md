@@ -58,5 +58,5 @@
 | **write** | Schreibe Nachricht an am System eingeloggten Benutzer \(mesg y muss bei diesem aktiviert sein\) | write username |
 | **zcat** | Gib den Inhalt gzip-komprimierter Dateien aus | zcat gezippt.gz |
 
-Ver
+
 
