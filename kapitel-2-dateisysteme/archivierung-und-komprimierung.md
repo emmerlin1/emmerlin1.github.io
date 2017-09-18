@@ -12,7 +12,7 @@
 | **tar** xzf myarchive.tgz | Entpacken eines gzip-gezippten Tar-Archivs |
 | **tar** tzf myarchive.tgz | Anzeigen des Inhalts eines gzip-gezippten Tar-Archivs |
 |  |  |
-| **find** . -name "\*.txt" \| cpio -ov &gt;archive.cpio | Archiviere gefundene .txt-Dateien mit cpio in archive.cpio |
+| **find** . -name "\*.txt" &#124; cpio -ov &gt;archive.cpio | Archiviere gefundene .txt-Dateien mit cpio in archive.cpio |
 | **cpio** -iv &lt;archive.cpio | Entpacke cpio-Archiv |
 
 
