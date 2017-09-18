@@ -27,15 +27,15 @@
 | _scribus_ | Desktop-Publishing-Programm |
 | _thunderbird_**, **_claws mail_ | Mail-Programm |
 | _kino_ | Videoschnittprogramm |
-| _kvm_, _virtualbox_ |  |
-| _kvim_ |  |
-| _ufw_ |  |
-| _virsh_ |  |
-| _virt-manager_ |  |
-| _vlc_, _mplayer_ |  |
-| _wine_, _playonlinux_ |  |
-| _wireshark_ |  |
-| _xnview_ |  |
+| kvim, gvim | GUI für VIM |
+| _kvm_, _virtualbox_ | Virtualisierungssoftware |
+| _ufw_ | Firewall |
+| _virsh_ | Konsole für kvm |
+| _virt-manager_ | GUI für kvm |
+| _vlc_, _mplayer_ | Videoplayer |
+| _wine_, _playonlinux_ | Emulatoren, windows-kompatible Laufzeitumgebung |
+| _wireshark_ | Netzwerkanalysator |
+| _digiKam, F-Spot, Shotwell, xnview_ | Bildverwaltungssoftware |
 
 
 
