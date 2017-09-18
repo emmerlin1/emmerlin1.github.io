@@ -7,9 +7,9 @@
 | _audacity_ | Audio-Editor/-Recorder |
 | _blender_ | 3D-Renderings, Videoschnitt |
 | _bluefish, geany, kate, gedit_ | Editor für Programmierer |
-| _cheese_ |  |
-| _clonezilla_ |  |
-| _dolphin_ |  |
+| _cheese_ | Webcam-Anwendung für Bild-/Videoaufnahme |
+| _clonezilla_ | Klonen von Festplatten/Partitionen |
+| _dolphin, thunar, pcmanfm_ | Dateimanager |
 | _eclipse_ |  |
 | _filezilla_ |  |
 | _firefox_, _chromium-browser_, _opera_ |  |
