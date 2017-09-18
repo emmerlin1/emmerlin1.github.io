@@ -20,7 +20,7 @@
 | **jobs** | Zeigt die Hintergrundprozesse an | jobs |
 | **join** | Verbinde Inhalte zweier Dateien zeilenweise | join -1 2 -2 1 &lt;\(sort -k 2 wine.txt\) &lt;\(sort reviews.txt\) |
 | **kill/killall** | Beende Prozesse | kill -9 2345 |
-| **locale** | Informationen über Gebietsschema |  |
+| **locale** | Informationen über Gebietsschema | locale -a |
 | **logger** | Vollführt Einträge im System-Log-Mechanismus |  |
 | **logname** | Anzeige des aktuellen Loginnamens |  |
 | **lp** | Druckbefehl in Warteschlange einreihen |  |
