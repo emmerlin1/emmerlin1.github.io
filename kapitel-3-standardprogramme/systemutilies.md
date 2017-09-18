@@ -17,9 +17,9 @@
 | **env** | Steuerung/Anzeige der Umgebungsvariablen | env VAR1="blahblah" command\_to\_run command\_options |
 | **fg** | Holen eines Prozesses in den Vordergrund | fg %1 |
 | **grep** | Durchsuchen von Dateien nach Textstücken | grep -r -i "include" ./ |
-| **jobs** | Zeigt die Hintergrundprozesse an |  |
-| **join** | Verbinde Inhalte zweier Dateien zeilenweise |  |
-| **kill/killall** | Beende Prozesse |  |
+| **jobs** | Zeigt die Hintergrundprozesse an | jobs |
+| **join** | Verbinde Inhalte zweier Dateien zeilenweise | join -1 2 -2 1 &lt;\(sort -k 2 wine.txt\) &lt;\(sort reviews.txt\) |
+| **kill/killall** | Beende Prozesse | kill -9 2345 |
 | **locale** | Informationen über Gebietsschema |  |
 | **logger** | Vollführt Einträge im System-Log-Mechanismus |  |
 | **logname** | Anzeige des aktuellen Loginnamens |  |
