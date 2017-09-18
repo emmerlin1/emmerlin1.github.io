@@ -3,7 +3,7 @@
 | Befehl | Bedeutung | Beispiel |
 | :--- | :--- | :--- |
 | **alias** | Aliasname für ein Kommando vergeben | alias ll='ls -l' |
-| **awk** | Utility für Bearbeitung/Auswertung von Textdateien |  |
+| **awk** | Utility für Bearbeitung/Auswertung von Textdateien | awk '$2 == "localhost" { print $1 }' /etc/hosts |
 | **bg** | Verlagere einen per CTRL-Z gestoppten Prozess in den Hintergrund, der dort dann weiter läuft |  |
 | **cat** | Füge mehrere Dateien zusammen, auch kann der Befehl für die Anzeige von Dateiinhalten genutzt werden |  |
 | **chroot** | Mit chroot kann ein programm sein Wurzelverzeichnis wechseln |  |
