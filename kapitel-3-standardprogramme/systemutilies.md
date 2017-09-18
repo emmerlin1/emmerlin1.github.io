@@ -28,10 +28,10 @@
 | **man** | Manual-Seiten für Linux-Befehle und C-Funktionen | man -k printf |
 | mesg | Erlaube Anzeige von Nachrichten anderer User | mesg y |
 | **mkfifo** | Erzeugung einer FIFO-Pipe | mkfifo my\_pipe; gzip -9 -c &lt; my\_pipe &gt; out.gz &; cat file &gt; my\_pipe |
-| **mknod** | Erzeugung von Block- und Zeichengeräten |  |
-| **nano** | Angenehmer Terminal-Editor |  |
-| **nice** | Veränderung der Priorität eines laufenden Prozesses |  |
-| **nl** | Ausgabe von Dateien mit Zeilennummerierung |  |
+| **mknod** | Erzeugung von Block- und Zeichengeräten | sudo mknod /dev/myrandom c 1 8 |
+| **nano** | Angenehmer Terminal-Editor | nano |
+| **nice** | Veränderung der Priorität eines zu startenden Prozesses \(negativ = höhere Priorität\) | sudo nice -11 gedit |
+| **nl** | Ausgabe von Dateien mit Zeilennummerierung | nl textfile.txt |
 | **nohup** | Starten eines Kommandos mit unterdrücktem HUP-Signal, Prozess läuft nach Ausloggen/Beendigung der Konsole weiter | nohup gedit & |
 | **ps** | Ausgabe der aktuellen Prozessliste |  |
 | **read** | Lesen von Standard Input | read first middle last |
