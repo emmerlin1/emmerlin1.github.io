@@ -15,16 +15,15 @@
 | _filezilla, gftp_ | FTP- und SFTP-Client |
 | _firefox_, _chromium-browser_, _opera_ | Browser |
 | _gimp, inkscape_ | Bildbearbeitungsprogramm |
-| _gparted_ |  |
-| _k3b_, _brasero_ |  |
-| _keepassx_ |  |
-| _librecad_ |  |
-| _libreoffice_ |  |
-| _limewire_ |  |
-| _okular_ |  |
-| _pidgin_ |  |
-| _qcreator_ |  |
-| _shutter_, _gtk-recordmydesktop_ |  |
+| _gparted_ | Partitionierungsprogramm |
+| _k3b_, _brasero_ | CD-/DVD-Brennprogramm |
+| _keepassx_ | Password-Safe |
+| _librecad_ | CAD-Programm |
+| _libreoffice_ | Office-Suite |
+| _limewire_ | Software-Client für das Gnutella-Netzwerk |
+| _okular_ | Dokumentbetrachter |
+| _pidgin_ | Chat-Client |
+| _shutter_, _gtk-recordmydesktop_ | Screencast-Anwendung |
 | _scribus_ |  |
 | _thunderbird_**, **_claws mail_ |  |
 | _kino_ |  |
