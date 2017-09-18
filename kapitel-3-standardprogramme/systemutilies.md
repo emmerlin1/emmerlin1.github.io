@@ -31,11 +31,11 @@
 | **nano** | Angenehmer Terminal-Editor |  |
 | **nice** | Veränderung der Priorität eines laufenden Prozesses |  |
 | **nl** | Ausgabe von Dateien mit Zeilennummerierung |  |
-| **nohup** |  |  |
+| **nohup** | Starten eines Kommandos mit unterdrücktem HUP-Signal, Prozess läuft nach Ausloggen/Beendigung der Konsole weiter | nohup gedit & |
 | **ps** | Ausgabe der aktuellen Prozessliste |  |
-| **read** |  |  |
-| **renice** |  |  |
-| **sed** |  |  |
+| **read** | Lesen von Standard Input | rea first middle last |
+| **renice** | Änderung der Priorität eines laufenden Prozesses, Höherstufung nur als root | sudo renice -10 \`pidof nano\` |
+| **sed** | Nicht-interaktiver Texteditor für Konsole oder Shell-Skripte |  |
 | **sleep** |  |  |
 | **sort** |  |  |
 | **split** |  |  |
