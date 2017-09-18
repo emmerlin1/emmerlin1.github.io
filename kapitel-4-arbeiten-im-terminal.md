@@ -4,11 +4,9 @@
 
 [Der vi\(m\)](/kapitel-4-arbeiten-im-terminal/der-vim.md)
 
-Reguläre Ausdrücke
+[Reguläre Ausdrücke](/kapitel-4-arbeiten-im-terminal/regulare-ausdrucke.md)
 
-Shellskripte
+[Shellskripte](/kapitel-4-arbeiten-im-terminal/shellskripte.md)
 
-sed und awk
-
-
+[sed und awk](/kapitel-4-arbeiten-im-terminal/sed-und-awk.md)
 
