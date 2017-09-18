@@ -39,8 +39,8 @@
 | **sleep** | Pausieren eines Prozesses | sleep 10 |
 | **sort** | Zeilenweise Sortierung von Standardausgaben/Textdateien | ls -s \| sort -n |
 | **split** | Aufteilung von großen Dateien auf mehrere kleinere | split -b 700M archiv.tar split-archiv.tar. |
-| **sync** |  |  |
-| **tee** |  |  |
+| **sync** | Explizites Schreiben von im Speicher gehaltenen Daten auf die Platte | sync |
+| **tee** | Verdopplung der Ausgabe - in Textdatei und auf Standardausgabe | ls -la \| tee alle\_dateien.txt |
 | **top** |  |  |
 | **truncate** |  |  |
 | **type** |  |  |
