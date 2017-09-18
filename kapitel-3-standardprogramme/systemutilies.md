@@ -21,13 +21,13 @@
 | **join** | Verbinde Inhalte zweier Dateien zeilenweise | join -1 2 -2 1 &lt;\(sort -k 2 wine.txt\) &lt;\(sort reviews.txt\) |
 | **kill/killall** | Beende Prozesse | kill -9 2345 |
 | **locale** | Informationen über Gebietsschema | locale -a |
-| **logger** | Vollführt Einträge im System-Log-Mechanismus |  |
-| **logname** | Anzeige des aktuellen Loginnamens |  |
-| **lp** | Druckbefehl in Warteschlange einreihen |  |
-| **make** | Tool zum Übersetzen von C-Quellcode |  |
-| **man** | Manual-Seiten für Linux-Befehle und C-Funktionen |  |
+| **logger** | Vollführt Einträge im System-Log-Mechanismus \(/var/log/syslog\) | logger 'mymessage' |
+| **logname** | Anzeige des aktuellen Loginnamens | logname |
+| **lp** | Druckbefehl in Warteschlange einreihen | lp textfile.txt |
+| **make** | Tool zum Übersetzen von C-Quellcode | make -f mymakefile |
+| **man** | Manual-Seiten für Linux-Befehle und C-Funktionen | man -k printf |
 | mesg | Erlaube Anzeige von Nachrichten anderer User | mesg y |
-| **mkfifo** | Erzeugung einer FIFO-Pipe |  |
+| **mkfifo** | Erzeugung einer FIFO-Pipe | mkfifo my\_pipe; gzip -9 -c &lt; my\_pipe &gt; out.gz &; cat file &gt; my\_pipe |
 | **mknod** | Erzeugung von Block- und Zeichengeräten |  |
 | **nano** | Angenehmer Terminal-Editor |  |
 | **nice** | Veränderung der Priorität eines laufenden Prozesses |  |
