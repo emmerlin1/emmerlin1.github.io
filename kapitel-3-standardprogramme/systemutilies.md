@@ -8,8 +8,8 @@
 | **cat** | Füge mehrere Dateien zusammen, auch kann der Befehl für die Anzeige von Dateiinhalten genutzt werden | cat file1.txt file2.txt &gt;file3.txt |
 | **chroot** | Mit chroot kann ein programm sein Wurzelverzeichnis wechseln | z.B. [Linux-Reparatur](https://wiki.ubuntuusers.de/chroot/Live-CD/) |
 | **crontab** | Steuerung von zeitlich geplanten Vorgängen \(Skripte, Programme, Backups etc.\) | crontab -e |
-| **cut** | Extrahiert spaltenweise Ausschnitte aus Textzeilen mittels angegebenem Trennzeichen/Zeichenposition |  |
-| **date** | Ausgabe von Datum/Zeit |  |
+| **cut** | Extrahiert spaltenweise Ausschnitte aus Textzeilen mittels angegebenem Trennzeichen/Zeichenposition | grep -r -i "include" ./ \| cut -d: -f1 |
+| **date** | Ausgabe von Datum/Zeit | date +%d.%m.%Y |
 | **dd** | dd dient zum bit-genauen Kopieren von Festplatten, Partitionen oder Dateien |  |
 | **df** | diskfree, zeige den freien Festplattenplatz von eingehängten Partitionen an |  |
 | **diff** | Vergleich der Inhalte zweier Dateien/Ordner |  |
