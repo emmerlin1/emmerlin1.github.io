@@ -35,6 +35,7 @@
 | **nice** | Veränderung der Priorität eines zu startenden Prozesses \(negativ = höhere Priorität\) | sudo nice -11 gedit |
 | **nl** | Ausgabe von Dateien mit Zeilennummerierung | nl textfile.txt |
 | **nohup** | Starten eines Kommandos mit unterdrücktem HUP-Signal, Prozess läuft nach Ausloggen/Beendigung der Konsole weiter | nohup gedit & |
+| **passwd** | Änderung des Passworts | passwd username |
 | **ps** | Ausgabe der aktuellen Prozessliste |  |
 | **read** | Lesen von Standard Input | read first middle last |
 | **renice** | Änderung der Priorität eines laufenden Prozesses, Höherstufung nur als root | sudo renice -10 \`pidof nano\` |
