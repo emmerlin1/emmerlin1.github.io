@@ -52,5 +52,5 @@
   * [Die Secure Shell ssh](kapitel-6-einbindung-ins-netzwerk/die-secure-shell-ssh.md)
   * [Grundlagen von GnuPG](kapitel-6-einbindung-ins-netzwerk/grundlagen-von-gnupg.md)
   * [Linux und Sicherheit](kapitel-6-einbindung-ins-netzwerk/linux-und-sicherheit.md)
-* Kapitel 7 - Raspberry Pi und andere ARM-Gerätschaften
+* [Kapitel 7 - Raspberry Pi und andere ARM-Gerätschaften](kapitel-7-raspberry-pi-und-andere-arm-geratschaften.md)
 
