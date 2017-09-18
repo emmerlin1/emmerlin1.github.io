@@ -26,6 +26,7 @@
 | **lp** | Druckbefehl in Warteschlange einreihen |  |
 | **make** | Tool zum Übersetzen von C-Quellcode |  |
 | **man** | Manual-Seiten für Linux-Befehle und C-Funktionen |  |
+| mesg | Erlaube Anzeige von Nachrichten anderer User | mesg y |
 | **mkfifo** | Erzeugung einer FIFO-Pipe |  |
 | **mknod** | Erzeugung von Block- und Zeichengeräten |  |
 | **nano** | Angenehmer Terminal-Editor |  |
@@ -50,12 +51,12 @@
 | **users** | Anzeige der aktuell am System angemeldeten Benutzer | users |
 | **vim** | Konsolentexteditor | vim |
 | **wc** | Anzeige der Wort-/Zeilen-/Byteanzahl, einer Datei | wc -w textdatei.txt |
-| **whereis** |  |  |
-| **which** |  |  |
-| **who** |  |  |
-| **whoami** |  |  |
-| **write** |  |  |
-| **zcat** |  |  |
+| **whereis** | Lokalisiere die Binärdatei, Quelldateien und Manpages für das Dateiargument | whereis ls |
+| **which** | Zeige den Pfad des Kommandos | which ls |
+| **who** | Zeige die angemeldeten Benutzer und weitere Informationen | who -b |
+| **whoami** | Wer bin ich? | whoami |
+| **write** | Schreibe Nachricht an am System eingeloggten Benutzer \(mesg y muss bei diesem aktiviert sein\) | write username  |
+| **zcat** | Gib den Inhalt gzip-komprimierter Dateien aus | zcat gezippt.gz |
 
 Ver
 
