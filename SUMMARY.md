@@ -33,11 +33,11 @@
   * [Linux Kommandos](kapitel-4-arbeiten-im-terminal/linux-kommandos.md)
     * [Dateien und Inhalte suchen](kapitel-4-arbeiten-im-terminal/linux-kommandos/dateien-und-inhalte-suchen.md)
   * [Der vi\(m\)](kapitel-4-arbeiten-im-terminal/der-vim.md)
-  * Reguläre Ausdrücke
-  * Shellskripte
-  * sed und awk
+  * [Reguläre Ausdrücke](kapitel-4-arbeiten-im-terminal/regulare-ausdrucke.md)
+  * [Shellskripte](kapitel-4-arbeiten-im-terminal/shellskripte.md)
+  * [sed und awk](kapitel-4-arbeiten-im-terminal/sed-und-awk.md)
 * [Kaptiel 5 - Systemkonfiguration und Administration](kaptiel-5-systemkonfiguration-und-administration.md)
-  * Linux Bootvorgang
+  * [Linux Bootvorgang](kaptiel-5-systemkonfiguration-und-administration/linux-bootvorgang.md)
   * Das Hilfesystem
   * Benutzerverwaltung
   * Prozessverwaltung
