@@ -46,11 +46,10 @@
 | **umask** | Anzeige/Änderung der aktuellen Maskierung der Zugriffsrechte einer neuen Datei | touch 0022 |
 | **unalias** | Aliasnamen löschen | unalias ll |
 | **uname** | Ausgabe bestimmter Systeminfos wie Kernelversion/-Variante, Hostname, Prozessortyp, Betriebssystem | uname -a |
-| **uptime** |  |  |
-| **users** |  |  |
-| **vim** |  |  |
-| **vnc** |  |  |
-| **wc** |  |  |
+| **uptime** | Ausgabe der aktuellen Laufzeit des Systems | uptime -s |
+| **users** | Anzeige der aktuell am System angemeldeten Benutzer | users |
+| **vim** | Konsolentexteditor | vim |
+| **wc** | Anzeige der Wort-/Zeilen-/Byteanzahl, einer Datei | wc -w textdatei.txt |
 | **whereis** |  |  |
 | **which** |  |  |
 | **who** |  |  |
