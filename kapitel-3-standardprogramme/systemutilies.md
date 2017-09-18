@@ -35,10 +35,10 @@
 | **ps** | Ausgabe der aktuellen Prozessliste |  |
 | **read** | Lesen von Standard Input | rea first middle last |
 | **renice** | Änderung der Priorität eines laufenden Prozesses, Höherstufung nur als root | sudo renice -10 \`pidof nano\` |
-| **sed** | Nicht-interaktiver Texteditor für Konsole oder Shell-Skripte |  |
-| **sleep** |  |  |
-| **sort** |  |  |
-| **split** |  |  |
+| **sed** | Nicht-interaktiver Texteditor für Konsole oder Shell-Skripte | sed -e '/debug/d'  log |
+| **sleep** | Pausieren eines Prozesses | sleep 10 |
+| **sort** | Zeilenweise Sortierung von Standardausgaben/Textdateien | ls -s \| sort -n |
+| **split** | Aufteilung von großen Dateien auf mehrere kleinere | split -b 700M archiv.tar split-archiv.tar. |
 | **sync** |  |  |
 | **tee** |  |  |
 | **top** |  |  |
