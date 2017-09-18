@@ -11,6 +11,7 @@
 | _clonezilla_ | Klonen von Festplatten/Partitionen |
 | dia, umbrello, ditaa, kivio | Erstellung von Diagrammen |
 | digiKam, F-Spot, Shotwell, xnview | Bildverwaltungssoftware |
+| _docker, lxc_ | Container-Virtualisierung |
 | _dolphin, thunar, pcmanfm_ | Dateimanager |
 | _eclipse, netbeans, qtcreator, kdevelop_ | IDE für verschiedene Programmiersprachen |
 | _filezilla, gftp_ | FTP- und SFTP-Client |
