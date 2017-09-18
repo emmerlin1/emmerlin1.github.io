@@ -2,7 +2,7 @@
 
 | Befehl | Bedeutung | Beispiel |
 | :--- | :--- | :--- |
-| **alias** | Aliasname für ein Kommando vergeben |  |
+| **alias** | Aliasname für ein Kommando vergeben | alias ll='ls -l' |
 | **awk** | Utility für Bearbeitung/Auswertung von Textdateien |  |
 | **bg** | Verlagere einen per CTRL-Z gestoppten Prozess in den Hintergrund, der dort dann weiter läuft |  |
 | **cat** | Füge mehrere Dateien zusammen, auch kann der Befehl für die Anzeige von Dateiinhalten genutzt werden |  |
