@@ -13,10 +13,10 @@
 | **dd** | dd dient zum bit-genauen Kopieren von Festplatten, Partitionen oder Dateien | sudo dd if=2017-08-16-raspbian-stretch.img of=/dev/sdg status=progress bs=16M |
 | **df** | diskfree, zeige den freien Festplattenplatz von eingehängten Partitionen an | df -h |
 | **diff** | Vergleich der Inhalte zweier Dateien/Ordner | diff file1 file2 |
-| **echo** | Zeilenweise Anzeige von Zeichenketten/Variablen auf dem Standardausgabegerät |  |
-| **env** | Steuerung/Anzeige der Umgebungsvariablen |  |
-| **fg** | Holen eines Prozesses in den Vordergrund |  |
-| **grep** | Durchsuchen von Dateien nach Textstücken |  |
+| **echo** | Zeilenweise Anzeige von Zeichenketten/Variablen auf dem Standardausgabegerät | echo 'Hello Linux World!' |
+| **env** | Steuerung/Anzeige der Umgebungsvariablen | env VAR1="blahblah" command\_to\_run command\_options |
+| **fg** | Holen eines Prozesses in den Vordergrund | fg %1 |
+| **grep** | Durchsuchen von Dateien nach Textstücken | grep -r -i "include" ./ |
 | **jobs** | Zeigt die Hintergrundprozesse an |  |
 | **join** | Verbinde Inhalte zweier Dateien zeilenweise |  |
 | **kill/killall** | Beende Prozesse |  |
