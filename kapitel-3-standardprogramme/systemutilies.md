@@ -12,7 +12,7 @@
 | **date** | Ausgabe von Datum/Zeit | date +%d.%m.%Y |
 | **dd** | dd dient zum bit-genauen Kopieren von Festplatten, Partitionen oder Dateien | sudo dd if=2017-08-16-raspbian-stretch.img of=/dev/sdg status=progress bs=16M |
 | **df** | diskfree, zeige den freien Festplattenplatz von eingehängten Partitionen an | df -h |
-| **diff** | Vergleich der Inhalte zweier Dateien/Ordner |  |
+| **diff** | Vergleich der Inhalte zweier Dateien/Ordner | diff file1 file2 |
 | **echo** | Zeilenweise Anzeige von Zeichenketten/Variablen auf dem Standardausgabegerät |  |
 | **env** | Steuerung/Anzeige der Umgebungsvariablen |  |
 | **fg** | Holen eines Prozesses in den Vordergrund |  |
