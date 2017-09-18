@@ -10,6 +10,7 @@
 | _cheese_ | Webcam-Anwendung für Bild-/Videoaufnahme |
 | _clonezilla_ | Klonen von Festplatten/Partitionen |
 | dia, umbrello, ditaa, kivio | Erstellung von Diagrammen |
+| digiKam, F-Spot, Shotwell, xnview | Bildverwaltungssoftware |
 | _dolphin, thunar, pcmanfm_ | Dateimanager |
 | _eclipse, netbeans, qtcreator, kdevelop_ | IDE für verschiedene Programmiersprachen |
 | _filezilla, gftp_ | FTP- und SFTP-Client |
@@ -35,7 +36,6 @@
 | _vlc_, _mplayer_ | Videoplayer |
 | _wine_, _playonlinux_ | Emulatoren, windows-kompatible Laufzeitumgebung |
 | _wireshark_ | Netzwerkanalysator |
-| _digiKam, F-Spot, Shotwell, xnview_ | Bildverwaltungssoftware |
 
 
 
