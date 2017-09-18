@@ -41,7 +41,7 @@
   * Das Hilfesystem
   * Benutzerverwaltung
   * Prozessverwaltung
-  * Remote Administration
+  * [Remote Administration](kaptiel-5-systemkonfiguration-und-administration/remote-administration.md)
   * Systemd
   * Paketverwaltung
   * Zeitgesteuerte Vorgänge
