@@ -37,10 +37,10 @@
 | **renice** | Änderung der Priorität eines laufenden Prozesses, Höherstufung nur als root | sudo renice -10 \`pidof nano\` |
 | **sed** | Nicht-interaktiver Texteditor für Konsole oder Shell-Skripte | sed -e '/debug/d'  log |
 | **sleep** | Pausieren eines Prozesses | sleep 10 |
-| **sort** | Zeilenweise Sortierung von Standardausgaben/Textdateien | ls -s \| sort -n |
+| **sort** | Zeilenweise Sortierung von Standardausgaben/Textdateien | ls -s &#124; sort -n |
 | **split** | Aufteilung von großen Dateien auf mehrere kleinere | split -b 700M archiv.tar split-archiv.tar. |
 | **sync** | Explizites Schreiben von im Speicher gehaltenen Daten auf die Platte | sync |
-| **tee** | Verdopplung der Ausgabe - in Textdatei und auf Standardausgabe | ls -la \| tee alle\_dateien.txt |
+| **tee** | Verdopplung der Ausgabe - in Textdatei und auf Standardausgabe | ls -la &#124; tee alle\_dateien.txt |
 | **top** | Dynamische Anzeige der aktuell auf dem System laufenden Prozesse \(Alternative htop\) | top |
 | **truncate** |  |  |
 | **type** |  |  |
