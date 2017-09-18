@@ -41,7 +41,7 @@
 | **split** | Aufteilung von großen Dateien auf mehrere kleinere | split -b 700M archiv.tar split-archiv.tar. |
 | **sync** | Explizites Schreiben von im Speicher gehaltenen Daten auf die Platte | sync |
 | **tee** | Verdopplung der Ausgabe - in Textdatei und auf Standardausgabe | ls -la \| tee alle\_dateien.txt |
-| **top** |  |  |
+| **top** | Dynamische Anzeige der aktuell auf dem System laufenden Prozesse \(Alternative htop\) | top |
 | **truncate** |  |  |
 | **type** |  |  |
 | **umask** |  |  |
