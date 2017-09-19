@@ -11,12 +11,12 @@
   * CentOS wird gerne als langzeitunterstützte Server-Distribution verwendet \(10 Jahre\)
 * **Arch**
   * Distribution für erfahrene Benutzer
-  * sehr einfach gehaltene \(ohne GUI-Werkzeuge zur Konfiguration, [KISS-Prinzip](https://de.wikipedia.org/wiki/KISS-Prinzip)\) und somit flexibel auf die Bedürfnisse des Benutzers abstimmbare Distribution
+  * sehr einfach gehaltene \(ohne GUI-Werkzeuge zur Konfiguration, [KISS-Prinzip&uarr;](https://de.wikipedia.org/wiki/KISS-Prinzip)\) und somit flexibel auf die Bedürfnisse des Benutzers abstimmbare Distribution
 * **Gentoo**
   * quellbasierte Distribution für erfahrene Benutzer
 * **Slackware / openSUSE**
   * älteste aktive Linux-Distribution
-  * Verzicht auf unnötigen Ballast \([KISS-Prinzip](https://de.wikipedia.org/wiki/KISS-Prinzip)\)
+  * Verzicht auf unnötigen Ballast \([KISS-Prinzip&uarr;](https://de.wikipedia.org/wiki/KISS-Prinzip)\)
   * Hauptanwendung im professionellen Umfeld
 
 
