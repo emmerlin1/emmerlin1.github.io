@@ -5,7 +5,7 @@
 
 * **EXT4 **  
   seit Kernelversion 2.6.28 als stabil eingestuft;  
-    im Vergleich zu EXT3:
+  im Vergleich zu EXT3:
 
   * Verbesserte Performance 
   * Verbesserte Datensicherheit
