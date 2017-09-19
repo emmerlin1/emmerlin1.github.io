@@ -18,7 +18,7 @@
 * **1991** [begann](https://groups.google.com/forum/#!topic/comp.os.minix/dlNtH7RRrGA[1-25]) Linus Torvalds während seines Studiums und inspiriert von Tanenbaums MINIX mit der Entwicklung des Linux-Kernels, der später auch von einer proprietären auf die von Tanenbaum kreierte GPL-Lizenz umgestellt wurde:  
   "Making Linux GPL'd was definitely the best thing I ever did."
 
-* [Überblick über die Linux-Distributionen](/kapitel-1-installation/verschiedene-distributionen/graphische-ubersicht-uber-die-verschiedenen-distributionen.md)
+* [Überblick über die Linux-Distributionen (&#x25BC;)](/kapitel-1-installation/verschiedene-distributionen/graphische-ubersicht-uber-die-verschiedenen-distributionen.md)
 
 * Linux ist abgesehen vom Desktop-Bereich \(&lt;5%\) sehr weit verbreitet in folgenden Marktsegmenten vertreten:
 
