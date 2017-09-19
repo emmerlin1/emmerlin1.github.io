@@ -28,7 +28,7 @@
 | **lp** | Druckbefehl in Warteschlange einreihen | lp textfile.txt |
 | **make** | Tool zum Übersetzen von C-Quellcode | make -f mymakefile |
 | **man** | Manual-Seiten für Linux-Befehle und C-Funktionen | man -k printf |
-| mesg | Erlaube Anzeige von Nachrichten anderer User | mesg y |
+| **mesg** | Erlaube Anzeige von Nachrichten anderer User | mesg y |
 | **mkfifo** | Erzeugung einer FIFO-Pipe | mkfifo my\_pipe; gzip -9 -c &lt; my\_pipe &gt; out.gz &; cat file &gt; my\_pipe |
 | **mknod** | Erzeugung von Block- und Zeichengeräten | sudo mknod /dev/myrandom c 1 8 |
 | **nano** | Angenehmer Terminal-Editor | nano |
