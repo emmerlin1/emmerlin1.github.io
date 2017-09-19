@@ -11,7 +11,7 @@
   * unter if \(input-file\) wird der Name des Installations-Images angegeben
 
 * **unter Windows:  **
-  [win32diskmanager](https://sourceforge.net/projects/win32diskimager/)
+  [win32diskmanager&uarr;](https://sourceforge.net/projects/win32diskimager/)
 
 
 
