@@ -16,7 +16,5 @@ Unter Linux gibt es verschiedene Shells, die sich in ihrem Funktionsumfang unter
 * C-Shell \(angelehnt an C\) →csh
 * Korn Shell →ksh
 
-Daraus entstanden weitere Shells wie die sehr häufig verwendete bash \(Bourne Again Shell\), die ähnliche Funktionen wie die ksh hat oder die tcsh als Variante der csh.
-
-
+Daraus entstanden weitere Shells wie die sehr häufig verwendete bash \(Bourne Again Shell\), die ähnliche Funktionen wie die ksh aufweist oder die tcsh als Variante der csh.
 
