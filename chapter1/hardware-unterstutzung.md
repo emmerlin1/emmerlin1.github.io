@@ -6,7 +6,7 @@
   * Hybrid-Grafiksysteme \(auf Kompatibilität achten\)
   * WLAN- und Netzwerk-Adapter \(auf Kompatibilität achten\)
   * HD-Platten mit SSD-Cache \(Empfehlung: reine SSD-/HD-Platten verwenden\)
-* [Liste der unterstützten CPU-Architekturen](https://en.wikipedia.org/wiki/List_of_Linux-supported_computer_architectures)
+* [Liste der unterstützten CPU-Architekturen&uarr;](https://en.wikipedia.org/wiki/List_of_Linux-supported_computer_architectures)
 
 
 
