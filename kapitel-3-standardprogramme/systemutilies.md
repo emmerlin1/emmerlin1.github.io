@@ -6,7 +6,7 @@
 | **awk** | Utility für Bearbeitung/Auswertung von Textdateien | awk '$2 == "localhost" { print $1 }' /etc/hosts |
 | **bg** | Verlagere einen per CTRL-Z gestoppten Prozess in den Hintergrund, der dort dann weiter läuft | bg %1 |
 | **cat** | Füge mehrere Dateien zusammen, auch kann der Befehl für die Anzeige von Dateiinhalten genutzt werden | cat file1.txt file2.txt &gt;file3.txt |
-| **chroot** | Mit chroot kann ein programm sein Wurzelverzeichnis wechseln | z.B. [Linux-Reparatur&uarr;](https://wiki.ubuntuusers.de/chroot/Live-CD/) |
+| **chroot** | Mit chroot kann ein programm sein Wurzelverzeichnis wechseln | z.B. [Linux-Reparatur↑](https://wiki.ubuntuusers.de/chroot/Live-CD/) |
 | **crontab** | Steuerung von zeitlich geplanten Vorgängen \(Skripte, Programme, Backups etc.\) | crontab -e |
 | **cut** | Extrahiert spaltenweise Ausschnitte aus Textzeilen mittels angegebenem Trennzeichen/Zeichenposition | grep -r -i "include" ./ \| cut -d: -f1 |
 | **date** | Ausgabe von Datum/Zeit | date +%d.%m.%Y |
@@ -16,6 +16,7 @@
 | **echo** | Zeilenweise Anzeige von Zeichenketten/Variablen auf dem Standardausgabegerät | echo 'Hello Linux World!' |
 | **env** | Steuerung/Anzeige der Umgebungsvariablen | env VAR1="blahblah" command\_to\_run command\_options |
 | **export** | Definiert und verwaltet Umgebungsvariable | export var="myvalue" |
+| **fdisk** | Plattenpartitionierungstool | fdisk /dev/sda |
 | **fg** | Holen eines Prozesses in den Vordergrund | fg %1 |
 | **grep** | Durchsuchen von Dateien nach Textstücken | grep -r -i "include" ./ |
 | **hash** | Zeigt und verwaltet verwendete Bash-Kommandos | hash |
@@ -26,6 +27,7 @@
 | **logger** | Vollführt Einträge im System-Log-Mechanismus \(/var/log/syslog\) | logger 'mymessage' |
 | **logname** | Anzeige des aktuellen Loginnamens | logname |
 | **lp** | Druckbefehl in Warteschlange einreihen | lp textfile.txt |
+| **lsusb** | Zeige USB-Busse des Systems und die angschlossenen USB-Geräte | lsusb |
 | **make** | Tool zum Übersetzen von C-Quellcode | make -f mymakefile |
 | **man** | Manual-Seiten für Linux-Befehle und C-Funktionen | man -k printf |
 | **mesg** | Erlaube Anzeige von Nachrichten anderer User | mesg y |
