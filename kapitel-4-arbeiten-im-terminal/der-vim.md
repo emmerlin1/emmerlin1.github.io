@@ -36,6 +36,17 @@ Der Editor vim \("vi" steht für "visual", improved vi\) ist ein bildschirmorien
 | R | Ersetzungseingabemodus |
 | x | Lösche Zeichen unter dem Cursor |
 | 5X | Lösche 5 Zeichen vor dem Cursor |
+| /Wort | Suche Wort im aktuellen Buffer |
+| n | Suche nächstes Wort im aktuellen Buffer |
+| p | Füge Text der 'Zwischenablage' nach dem Cursor \(der Zeile\) ein |
+| P | Füge Text der 'Zwischenablage' vor dem Cursor \(der Zeile\) ein |
+
+#### Arbeiten im Visual Mode \(Copy/Cut/Delete\)
+
+| Zeichen | Bedeutung |
+| :--- | :--- |
+| v | Beginne, mittels Pfeil-/Bewegungstasten Zeichen zu markieren |
+| V | Beginne, mittels Pfeil-/Bewegungstasten Zeilen zu markieren, Ende durch Drücken von y \(copy\), d \(cut/delete\) |
 
 
 
