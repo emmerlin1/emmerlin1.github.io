@@ -33,6 +33,8 @@ Der Editor vim \("vi" steht für "visual", improved vi\) ist ein bildschirmorien
 | O | Eingabe in der vorhergehenden Zeile, Spalte 1 |
 | r | Ersetzung eines Zeichens |
 | 5r | Ersetzung von 5 Zeichen mit dem einzugebenden Zeichen |
+| R | Ersetzungseingabemodus |
+| x | Lösche Zeichen unter dem Modus |
 
 
 
