@@ -1,10 +1,10 @@
 ## Umgang mit Verzeichnissen und Dateien
 
-[Verzeichnisse&darr;](/kapitel-2-dateisysteme/umgang-mit-verzeichnissen-und-dateien/verzeichnisse.md)
+[Verzeichnisse↓](/kapitel-2-dateisysteme/umgang-mit-verzeichnissen-und-dateien/verzeichnisse.md)
 
-[Dateinamen&darr;](/kapitel-2-dateisysteme/umgang-mit-verzeichnissen-und-dateien/dateinamen.md)
+[Dateinamen↓](/kapitel-2-dateisysteme/umgang-mit-verzeichnissen-und-dateien/dateinamen.md)
 
-[Dateioperationen &darr;](/kapitel-2-dateisysteme/umgang-mit-verzeichnissen-und-dateien/dateioperationen.md)
+[Dateioperationen ↓](/kapitel-2-dateisysteme/umgang-mit-verzeichnissen-und-dateien/dateioperationen.md)
 
-
+hh
 
