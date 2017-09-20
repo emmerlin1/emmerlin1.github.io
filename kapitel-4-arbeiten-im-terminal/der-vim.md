@@ -21,5 +21,16 @@ Der Editor vim \("vi" steht für "visual", improved vi\) ist ein bildschirmorien
 | :bn | Zeige nächsten offenen Buffer an |
 | :vs | Halbiere Fenster vertikal |
 
+#### Umschalten in den  Eingabemodus
+
+| Zeichen | Bedeutung |
+| :--- | :--- |
+| a | Eingabe rechts vom Cursor \(append\) |
+| A | Eingabe am Zeilenende |
+| i | Engabe links vom Cursor \(insert\) |
+| I | Eingaben am Zeilenanfang |
+| o | Eingabe in der folgenden Zeile, Spalte 1 |
+| O | Eingabe in der vorhergehenden Zeile, Spalte 1 |
+
 
 
