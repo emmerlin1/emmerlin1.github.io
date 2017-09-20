@@ -45,7 +45,7 @@ Der Editor vim \("vi" steht für "visual", improved vi\) ist ein bildschirmorien
 
 | Zeichen | Bedeutung |
 | :--- | :--- |
-| v | Beginne, mittels Pfeil-/Bewegungstasten Zeichen zu markieren |
+| v | Beginne, mittels Pfeil-/Bewegungstasten Zeichen zu markieren, Ende durch Drücken von y \(copy\), d \(cut/delete\) |
 | V | Beginne, mittels Pfeil-/Bewegungstasten Zeilen zu markieren, Ende durch Drücken von y \(copy\), d \(cut/delete\) |
 
 
