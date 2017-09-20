@@ -8,11 +8,11 @@ Der Editor vim \("vi" steht für "visual", improved vi\) ist ein bildschirmorien
 
 | Befehl | Bedeutung |
 | :--- | :--- |
-| :w | Schreibe aktuellen Buffer in Datei \(Speichern\) |
-| :w! |  |
-| :wq |  |
-| :w filename |  |
-| w &gt;&gt; Datei |  |
+| :w | Schreibe aktuellen Buffer in aktuelle Datei \(Speichern\) |
+| :w! | Schreibe aktuellen Buffer in akt. Datei, ignoriere Schreibschutz |
+| :wq | Schreibe aktuellen Buffer in aktuelle Datei und beende vim |
+| :w filename | Schreibe aktuellen Buffer in Datei filename |
+| w &gt;&gt; filename | Hänge aktuellen Buffer an Inhalt der Datei filename |
 | :q |  |
 | :q! |  |
 | :r filename |  |
