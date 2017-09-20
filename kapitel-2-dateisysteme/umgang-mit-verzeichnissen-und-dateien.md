@@ -4,7 +4,7 @@
 
 [Dateinamen↓](/kapitel-2-dateisysteme/umgang-mit-verzeichnissen-und-dateien/dateinamen.md)
 
-[Dateioperationen ↓](/kapitel-2-dateisysteme/umgang-mit-verzeichnissen-und-dateien/dateioperationen.md)
+[Dateioperationen↓](/kapitel-2-dateisysteme/umgang-mit-verzeichnissen-und-dateien/dateioperationen.md)
 
-hh
+
 
