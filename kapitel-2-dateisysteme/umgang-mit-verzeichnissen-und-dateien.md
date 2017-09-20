@@ -4,7 +4,7 @@
 
 [Dateinamen&darr;](/kapitel-2-dateisysteme/umgang-mit-verzeichnissen-und-dateien/dateinamen.md)
 
-[Dateioperationen&darr;](/kapitel-2-dateisysteme/umgang-mit-verzeichnissen-und-dateien/dateioperationen.md)
+[Dateioperationen &darr;](/kapitel-2-dateisysteme/umgang-mit-verzeichnissen-und-dateien/dateioperationen.md)
 
 
 
