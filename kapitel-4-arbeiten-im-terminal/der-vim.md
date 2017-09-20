@@ -13,12 +13,13 @@ Der Editor vim \("vi" steht für "visual", improved vi\) ist ein bildschirmorien
 | :wq | Schreibe aktuellen Buffer in aktuelle Datei und beende vim |
 | :w filename | Schreibe aktuellen Buffer in Datei filename |
 | w &gt;&gt; filename | Hänge aktuellen Buffer an Inhalt der Datei filename |
-| :q |  |
-| :q! |  |
-| :r filename |  |
-| :e filename |  |
-| :e! filename |  |
-| :n |  |
+| :q | Beende Buffer, ohne zu speichern, Warnung bei vorhandenen Änderungen |
+| :q! | Beende Buffer zwingend, ohne zu speichern, ignoriere Änderungen |
+| :r filename | Text aus der angegebenen Datei nach der momentanen Zeile einfügen. |
+| :e filename | Lade Datei filename als Buffer, leerer Buffer falls Datei nicht vorhanden |
+| :buffers | Zeige offene Buffer an \(nummerierte Liste\) |
+| :bn | Zeige nächsten offenen Buffer an |
+| :vs | Halbiere Fenster vertikal |
 
 
 
