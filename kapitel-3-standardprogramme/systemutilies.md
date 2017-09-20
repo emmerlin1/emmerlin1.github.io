@@ -27,7 +27,7 @@
 | **logger** | Vollführt Einträge im System-Log-Mechanismus \(/var/log/syslog\) | logger 'mymessage' |
 | **logname** | Anzeige des aktuellen Loginnamens | logname |
 | **lp** | Druckbefehl in Warteschlange einreihen | lp textfile.txt |
-| **lsusb** | Zeige USB-Busse des Systems und die angschlossenen USB-Geräte | lsusb |
+| **lsusb** | Zeige USB-Busse des Systems und die angschlossenen USB-Geräte | lsusb -t |
 | **make** | Tool zum Übersetzen von C-Quellcode | make -f mymakefile |
 | **man** | Manual-Seiten für Linux-Befehle und C-Funktionen | man -k printf |
 | **mesg** | Erlaube Anzeige von Nachrichten anderer User | mesg y |
