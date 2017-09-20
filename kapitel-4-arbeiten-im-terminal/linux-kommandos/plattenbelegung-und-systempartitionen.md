@@ -1,0 +1,6 @@
+### Plattenbelegung und Systempartitionen
+
+
+
+
+

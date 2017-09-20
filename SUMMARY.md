@@ -34,7 +34,7 @@
   * [Der vi\(m\)](kapitel-4-arbeiten-im-terminal/der-vim.md)
   * [Linux Kommandos](kapitel-4-arbeiten-im-terminal/linux-kommandos.md)
     * [Dateien und Inhalte suchen](kapitel-4-arbeiten-im-terminal/linux-kommandos/dateien-und-inhalte-suchen.md)
-    * Plattenbelegung und Systempartitionen
+    * [Plattenbelegung und Systempartitionen](kapitel-4-arbeiten-im-terminal/linux-kommandos/plattenbelegung-und-systempartitionen.md)
     * [grep, sed, awk und regular expressions](kapitel-4-arbeiten-im-terminal/sed-und-awk.md)
   * [Shellskripte](kapitel-4-arbeiten-im-terminal/shellskripte.md)
 * [Kaptiel 5 - Systemkonfiguration und Administration](kaptiel-5-systemkonfiguration-und-administration.md)
