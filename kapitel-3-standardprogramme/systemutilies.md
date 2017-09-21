@@ -33,6 +33,7 @@
 | **mesg** | Erlaube Anzeige von Nachrichten anderer User | mesg y |
 | **mkfifo** | Erzeugung einer FIFO-Pipe | mkfifo my\_pipe; gzip -9 -c &lt; my\_pipe &gt; out.gz &; cat file &gt; my\_pipe |
 | **mknod** | Erzeugung von Block- und Zeichengeräten | sudo mknod /dev/myrandom c 1 8 |
+| **mount** | Zeigt die eingehängten Dateisysteme wie Festplatten, USB-Sticks und SD-Karten aber auch temporäre an; es können auch Medien manuell eingehängt werden | sudo mount /dev/sda1 /mnt |
 | **nano** | Angenehmer Terminal-Editor | nano |
 | **nice** | Veränderung der Priorität eines zu startenden Prozesses \(negativ = höhere Priorität\) | sudo nice -11 gedit |
 | **nl** | Ausgabe von Dateien mit Zeilennummerierung | nl textfile.txt |
