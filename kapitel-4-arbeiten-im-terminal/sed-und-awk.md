@@ -11,6 +11,8 @@ Im Folgenden sind wichtige Ausdrücke ausgeführt:
 | Ausdruck | Bedeutung | Beispiel |
 | :--- | :--- | :--- |
 | {n,m} | Zeichen/Ausdruck davor ist n bis m mal vorhanden | 'C{2,4}' ist zutreffend für "CCabc" und C"CCCabc", aber nicht für "Cabc" |
+| {,m} | Zeichen/Ausdruck davor ist m oder weniger mal vorhanden | 'C{,4}' ist zutreffend für "CCabc" und C"CCCabc", und auch für "Cabc" oder "abc" |
+|  |  |  |
 
 #### grep
 
