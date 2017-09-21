@@ -4,6 +4,8 @@ Mittels grep, sed, awk, sort, cut und regulären Ausdrücken können Textausgabe
 
 #### regular expressions
 
+Eine kurze Zusammenfassung regulärer Ausdrücke ist beispielsweise [hier↑](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/pdf_bw/) zu finden. Eine vollständige Referenz ist ebenfalls [verfügbar&uarr;](https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf).
+
 #### grep
 
 #### sed
@@ -11,10 +13,10 @@ Mittels grep, sed, awk, sort, cut und regulären Ausdrücken können Textausgabe
 * cat text.txt \| sed '=' \| sed 'N;s/\n/. /'  
   Gib die Datei text.txt zeilenweise aus \(cat text.txt\), füge für jede Zeile die Zeilennummer mit Zeilenumbruch hinzu \( sed '='\)
 
-* sed -e '/\$/N; s/\\n//;' text.txt  
-  Teste Zeilenbedingung /\$/ \(hier Backslash am Ende der Zeile\), wenn ja, dann lies die nächste Zeile ein \(N;\) und ersetze Backslash und Zeilenumbruch mit nichts \(s/\\n//;\)
+* sed -e '/$/N; s/\n//;' text.txt  
+  Teste Zeilenbedingung /$/ \(hier Backslash am Ende der Zeile\), wenn ja, dann lies die nächste Zeile ein \(N;\) und ersetze Backslash und Zeilenumbruch mit nichts \(s/\n//;\)
 
-* Weitere Beispiele sind unter [sourceforge](http://sed.sourceforge.net/sedfaq.html) zu finden.
+* Weitere Beispiele zu häufig auftretenden Anwendungsfällen sind unter [sourceforge](http://sed.sourceforge.net/sedfaq.html) zu finden.
 
 #### awk
 
