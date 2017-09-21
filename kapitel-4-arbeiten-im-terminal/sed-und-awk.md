@@ -32,13 +32,10 @@ Im Folgenden sind wichtige Ausdrücke ausgeführt:
   Gib die Datei text.txt zeilenweise aus \(cat text.txt\), füge für jede Zeile die Zeilennummer mit Zeilenumbruch hinzu \( sed '='\), lies die nächste Zeile \(N;\) und
 
 * sed -e '/$/N; s/\\\n//;' text.txt  
+  ```
+    sed -e '/$/N; s/\\\n//;'
 
-
-
-```
-sed -e '/$/N; s/\\\\n//;'
-
-```
+  ```
 
 
   Teste Zeilenbedingung /$/ \(hier Backslash am Ende der Zeile\), wenn ja, dann lies die nächste Zeile ein \(N;\) und ersetze Backslash und Zeilenumbruch mit nichts \(s/\n//;\)
