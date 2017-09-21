@@ -15,10 +15,10 @@ Im Folgenden sind wichtige Ausdrücke ausgeführt:
 | . | Punkt kann mit **einem** beliebigem Zeichen belegt sein | 'S.m.s.e.' ist zutreffend für "Semester" |
 | **Anzahl** | **Bedeutung** | **Beispiel** |
 | \* | stimmt mit beliebiger Anzahl überein \(0..n\) | 'R\*i\*c\*h\*$' ist zutreffend für "qqRRRiihh" |
-| + |  |  |
+| + | Zeichen/Ausdruck davor ist mindestens einmal vorhanden \(1..n\) | '^K\*e\*s\*d\*e\*n+' ist zutreffend für "nP" |
 | {n,m} | Zeichen/Ausdruck davor ist n bis m mal vorhanden | 'C{2,4}' ist zutreffend für "CCabc" und C"CCCabc", aber nicht für "Cabc" |
 | {,m} oder {m} | Zeichen/Ausdruck davor ist m oder weniger mal vorhanden | 'C{,4}' ist zutreffend für "CCabc" und C"CCCabc", und auch für "Cabc" oder "abc" |
-| C? |  |  |
+| C? | Zeichen/Ausdruck davor ist optional \(0,1\) |  |
 
 #### grep
 
