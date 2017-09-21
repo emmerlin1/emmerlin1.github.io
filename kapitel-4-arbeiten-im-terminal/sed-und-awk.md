@@ -22,7 +22,7 @@ Im Folgenden sind wichtige Ausdrücke ausgeführt:
 | C? | Zeichen/Ausdruck davor ist optional \(0,1\) |  |
 | **Gruppierung** | **Bedeutung** | **Beispiel** |
 | \[\] | eines der beinhalteten Zeichen ist vorhanden | '\[abc\]\[a-c\]\[stu\]' ist zutreffend für "cat" |
-| \(\) | Gruppierung von Zeichen ist vorhanden | 'Das Wetter ist \(toll\|richtig schlecht\)' ist zutreffend für "Das Wetter ist toll"  |
+| \(\) | Gruppierung von Zeichen ist vorhanden | 'Das Wetter ist \(toll\|richtig schlecht\)' ist zutreffend für "Das Wetter ist toll" |
 
 #### grep
 
@@ -31,7 +31,7 @@ Im Folgenden sind wichtige Ausdrücke ausgeführt:
 * cat text.txt \| sed '=' \| sed 'N;s/\n/. /'  
   Gib die Datei text.txt zeilenweise aus \(cat text.txt\), füge für jede Zeile die Zeilennummer mit Zeilenumbruch hinzu \( sed '='\)
 
-* sed -e '/$/N; s/\n//;' text.txt  
+* sed -e '/\\$/N; s/\n//;' text.txt  
   Teste Zeilenbedingung /$/ \(hier Backslash am Ende der Zeile\), wenn ja, dann lies die nächste Zeile ein \(N;\) und ersetze Backslash und Zeilenumbruch mit nichts \(s/\n//;\)
 
 * Weitere Beispiele zu häufig auftretenden Anwendungsfällen sind unter [sourceforge](http://sed.sourceforge.net/sedfaq.html) zu finden.
