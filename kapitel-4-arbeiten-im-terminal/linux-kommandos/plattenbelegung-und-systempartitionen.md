@@ -22,5 +22,11 @@
 * **sudo dmidecode -t0 -t1**  
   zeigt Informationen zum Mainboard an
 
+* **lspci**  
+  zeigt Informationen zu PCI-Karten, Onboard Audio-/Videochips an
+
+* **free -m**  
+  Anzeige des belegten/verfügbaren RAM-Speichers
+
 
 
