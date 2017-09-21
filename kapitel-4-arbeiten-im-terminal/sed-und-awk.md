@@ -17,8 +17,12 @@ Im Folgenden sind wichtige Ausdrücke ausgeführt:
 | \* | stimmt mit beliebiger Anzahl überein \(0..n\) | 'R\*i\*c\*h\*$' ist zutreffend für "qqRRRiihh" |
 | + | Zeichen/Ausdruck davor ist mindestens einmal vorhanden \(1..n\) | '^K\*e\*s\*d\*e\*n+' ist zutreffend für "nP" |
 | {n,m} | Zeichen/Ausdruck davor ist n bis m mal vorhanden | 'C{2,4}' ist zutreffend für "CCabc" und C"CCCabc", aber nicht für "Cabc" |
-| {,m} oder {m} | Zeichen/Ausdruck davor ist m oder weniger mal vorhanden | 'C{,4}' ist zutreffend für "CCabc" und C"CCCabc", und auch für "Cabc" oder "abc" |
+| {,m} | Zeichen/Ausdruck davor ist m oder weniger mal vorhanden | 'C{,4}' ist zutreffend für "CCabc" und C"CCCabc", und auch für "Cabc" oder "abc" |
+| {m} | Zeichen muss exakt m mal vorhanden sein | 'a\[0,9\]{5}b' ist zutreffend für "a12349b", aber nicht für "a123456b" |
 | C? | Zeichen/Ausdruck davor ist optional \(0,1\) |  |
+| **Gruppierung** | **Bedeutung** | **Beispiel** |
+| \[\] | eines der beinhalteten Zeichen ist vorhanden | '\[abc\]\[a-c\]\[stu\]' ist zutreffend für "cat" |
+| \(\) | Gruppierung von Zeichen ist vorhanden |  |
 
 #### grep
 
