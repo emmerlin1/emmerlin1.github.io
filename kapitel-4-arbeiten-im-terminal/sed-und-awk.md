@@ -4,7 +4,13 @@ Mittels grep, sed, awk, sort, cut und regulären Ausdrücken können Textausgabe
 
 #### regular expressions
 
-Eine kurze Zusammenfassung regulärer Ausdrücke ist beispielsweise [hier↑](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/pdf_bw/) zu finden. Eine vollständige Referenz ist ebenfalls [verfügbar&uarr;](https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf).
+Eine kurze Zusammenfassung regulärer Ausdrücke ist beispielsweise [hier↑](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/pdf_bw/) zu finden. Eine vollständige Referenz ist ebenfalls [verfügbar↑](https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf).
+
+Im Folgenden sind wichtige Ausdrücke ausgeführt:
+
+| Ausdruck | Bedeutung | Beispiel |
+| :--- | :--- | :--- |
+| {n,m} | Zeichen/Ausdruck davor ist n bis m mal vorhanden | 'C{2,4}' ist zutreffend für "CCabc" und C"CCCabc", aber nicht für "Cabc" |
 
 #### grep
 
