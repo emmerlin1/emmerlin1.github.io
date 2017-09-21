@@ -3,6 +3,9 @@
 * **sudo blkid -o list -w /dev/null**  
   Liste alle Datenträger inkl. Einhängepunkt und der UUID \(Universally Unique Identifier\) auf
 
+* **sudo lsblk -o NAME,UUID,FSTYPE,SIZE,LABEL,MOUNTPOINT**  
+  Übersichtliche Auflistung der Datenträger inkl. Größe desjenigen
+
 * **df -h** \| grep ^/dev/\[s,h,v\]d  
   Zeige den verfügbaren Plattenplatz der vorhandenen Festplatten und USB-Speicher an
 
