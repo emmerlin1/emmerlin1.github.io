@@ -9,7 +9,8 @@
 			"-theme-faq",
 			"fontsettings",
 			"sharing",
-			"sectionx"
+			"sectionx",
+			"katex"
 		],
 		"pluginsConfig": {
 			"sectionx": {
