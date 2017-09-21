@@ -1,4 +1,4 @@
-### Plattenbelegung und Systempartitionen
+### Systeminformationen
 
 * **df -h** \| grep ^/dev/\[s,h,v\]d  
   Zeige den verfügbaren Plattenplatz der vorhandenen Festplatten und USB-Speicher an
