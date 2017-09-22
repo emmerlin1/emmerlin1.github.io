@@ -1,4 +1,5 @@
-### grep, sed, awk, sort, cut und regular expressions
+#
+## grep, sed, awk, sort, cut und regular expressions
 
 Mittels grep, sed, awk, sort, cut und regulären Ausdrücken können Textausgaben gefiltert, durchsucht und ausgewertet werden. Im Folgenden werden einige Beispiele aufgeführt:
 
@@ -19,23 +20,22 @@ Im Folgenden sind wichtige Ausdrücke ausgeführt:
 | {n,m} | Zeichen/Ausdruck davor ist n bis m mal vorhanden | 'C{2,4}' ist zutreffend für "CCabc" und C"CCCabc", aber nicht für "Cabc" |
 | {,m} | Zeichen/Ausdruck davor ist m oder weniger mal vorhanden | 'C{,4}' ist zutreffend für "CCabc" und C"CCCabc", und auch für "Cabc" oder "abc" |
 | {m} | Zeichen muss exakt m mal vorhanden sein | 'a\[0,9\]{5}b' ist zutreffend für "a12349b", aber nicht für "a123456b" |
-| C? | Zeichen/Ausdruck davor ist optional \(0,1\) |  |
+| C? | Zeichen/Ausdruck davor ist optional \(0,1\) | |
 | **Gruppierung** | **Bedeutung** | **Beispiel** |
 | \[\] | eines der beinhalteten Zeichen ist vorhanden | '\[abc\]\[a-c\]\[stu\]' ist zutreffend für "cat" |
-| \(\) | Gruppierung von Zeichen ist vorhanden | 'Das Wetter ist \(toll\|richtig schlecht\)' ist zutreffend für "Das Wetter ist toll" |
+| \(\) | Gruppierung von Zeichen ist vorhanden | <code>'Das Wetter ist (toll&#124;richtig schlecht)' ist zutreffend für "Das Wetter ist toll"</code> |
 
 #### grep
 
 #### sed
 
-* cat text.txt \| sed '=' \| sed 'N;s/\n/. /'  
-  Gib die Datei text.txt zeilenweise aus \(cat text.txt\), füge für jede Zeile die Zeilennummer mit Zeilenumbruch hinzu \( sed '='\), lies die nächste Zeile \(N;\) und
+* <code>cat text.txt \| sed '=' \| sed 'N;s/\n/. /'</code>
+Gib die Datei text.txt zeilenweise aus \(cat text.txt\), füge für jede Zeile die Zeilennummer mit Zeilenumbruch hinzu \( sed '='\), lies die nächste Zeile \(N;\) und
 
-* sed -e '/$/N; s/\\n//;' text.txt
+* <code>sed -e '/$/N; s/\\\\n//;' text.txt</code>
 
-  ```
-    sed -e '/$/N; s/\\\n//;'
-  ```
+* <code>sed -e '/$/N; s/\\\n//;'</code>
+
 
 Teste Zeilenbedingung /$/ \(hier Backslash am Ende der Zeile\), wenn ja, dann lies die nächste Zeile ein \(N;\) und ersetze Backslash und Zeilenumbruch mit nichts \(s/\n//;\)
 
@@ -43,8 +43,7 @@ Teste Zeilenbedingung /$/ \(hier Backslash am Ende der Zeile\), wenn ja, dann li
 
 #### awk
 
-* ls -l \| awk 'BEGIN {sum=0} {sum=sum+$5} END {print sum}'
-  summiere die 5. Spalte der ausgegebenen Zeilen des Befehls 'ls -l' auf und gebe die Summe am Ende aus
-
+* <code>ls -l \| awk 'BEGIN {sum=0} {sum=sum+$5} END {print sum}</code>'
+summiere die 5. Spalte der ausgegebenen Zeilen des Befehls 'ls -l' auf und gebe die Summe am Ende aus
 
 
