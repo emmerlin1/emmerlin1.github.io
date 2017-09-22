@@ -29,16 +29,19 @@ Im Folgenden sind wichtige Ausdrücke aufgeführt:
 #### sed
 
 * `cat text.txt | sed '=' | sed 'N;s/\n/. /'`
+
   Gib die Datei text.txt zeilenweise aus \(cat text.txt\), füge für jede Zeile die Zeilennummer mit Zeilenumbruch hinzu \( sed '='\), lies die nächste Zeile \(N;\) in die aktuelle Musterbehandlung (Pattern Space) ein und ersetze den Zeilenumbruch zu dieser angehängten Zeile mit '. '.
 
 * `sed -e '/\\$/N; s/\\\n//;' text.txt`
+
   Teste Zeilenbedingung /\\\\$/ \(hier Backslash am Ende der Zeile\), wenn ja, dann lies die nächste Zeile ein \(N;\) und ersetze Backslash und Zeilenumbruch mit nichts \(s/\\\n//;\)
 
 * Weitere Beispiele zu häufig auftretenden Anwendungsfällen sind unter [sourceforge](http://sed.sourceforge.net/sedfaq.html) zu finden.
 
 #### awk
 
-* `ls -l | awk 'BEGIN {sum=0} {sum=sum+$5} END {print sum}`
+* `ls -l | awk 'BEGIN {sum=0} {sum=sum+$5} END {print sum}'`
+
   summiere die 5. Spalte der ausgegebenen Zeilen des Befehls 'ls -l' auf und gebe die Summe am Ende aus
 
 
