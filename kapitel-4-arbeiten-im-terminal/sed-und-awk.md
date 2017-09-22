@@ -26,6 +26,25 @@ Im Folgenden sind wichtige Ausdrücke aufgeführt:
 
 #### grep
 
+* [Beschreibung](https://www.gnu.org/software/grep/manual/grep.html) von grep (global regular expression print) in Form einer HTML-Seite
+
+* grep liest eine Datei/Eingabe oder auch alle Dateien eines Verzeichnisbaums zeilenweise ein und gibt diejenigen Zeilen aus, die einer wählbaren Zeichen-Zusammensetzung entsprechen.
+
+* `grep -n "boo" a_file`
+  
+  Gebe die Zeilen einer Datei a_file und deren Zeilenummer (-n) aus, die die Zeichenfolge "boo" enthalten
+  
+| Option | Bedeutung |
+| :--- | :--- |
+| -n | Gib die entsprechende Zeilennummer mit aus |
+| -v | Gib inverses Ergebnis aus |
+| -c | Gib nur die entsprechende Zeilennummer aus |
+| -l | Gib nur die Dateinamen aus, in denen der Suchtext gefunden wurde |
+| -i | ignoriere Groß-/Kleinschreibung |
+| -x | exakte Übereinstimmung mit der gelesenen Zeile |
+| -A2 | gibt die Zeile mit der Übereinstimmung und die 2 folgenden aus |
+
+
 #### sed
 
 * Ausführliche Beschreibungen und Beispiele zum stream editor sed sind [hier](http://www.grymoire.com/Unix/Sed.html) zu finden; sed wendet eine Folge von anzugebenden Kommandos auf Zeile für Zeile gelesene Daten einer Datei/Eingabe an.
