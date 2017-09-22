@@ -19,7 +19,7 @@ Im Folgenden sind wichtige Ausdrücke ausgeführt:
 | {n,m} | Zeichen/Ausdruck davor ist n bis m mal vorhanden | 'C{2,4}' ist zutreffend für "CCabc" und C"CCCabc", aber nicht für "Cabc" |
 | {,m} | Zeichen/Ausdruck davor ist m oder weniger mal vorhanden | 'C{,4}' ist zutreffend für "CCabc" und C"CCCabc", und auch für "Cabc" oder "abc" |
 | {m} | Zeichen muss exakt m mal vorhanden sein | 'a\[0,9\]{5}b' ist zutreffend für "a12349b", aber nicht für "a123456b" |
-| C? | Zeichen/Ausdruck davor ist optional \(0,1\) | |
+| C? | Zeichen/Ausdruck vor dem Fragezeichen ist optional \(0,1\) | |
 | **Gruppierung** | **Bedeutung** | **Beispiel** |
 | \[\] | eines der beinhalteten Zeichen ist vorhanden | '\[abc\]\[a-c\]\[stu\]' ist zutreffend für "cat" |
 | \(\) | Gruppierung von Zeichen ist vorhanden | <code>'Das Wetter ist (toll&#124;richtig schlecht)'</code> ist zutreffend für "Das Wetter ist toll" |

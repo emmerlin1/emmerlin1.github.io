@@ -8,7 +8,7 @@
 | **cat** | Füge mehrere Dateien zusammen, auch kann der Befehl für die Anzeige von Dateiinhalten genutzt werden | cat file1.txt file2.txt &gt;file3.txt |
 | **chroot** | Mit chroot kann ein programm sein Wurzelverzeichnis wechseln | z.B. [Linux-Reparatur↑](https://wiki.ubuntuusers.de/chroot/Live-CD/) |
 | **crontab** | Steuerung von zeitlich geplanten Vorgängen \(Skripte, Programme, Backups etc.\) | crontab -e |
-| **cut** | Extrahiert spaltenweise Ausschnitte aus Textzeilen mittels angegebenem Trennzeichen/Zeichenposition | grep -r -i "include" ./ \| cut -d: -f1 |
+| **cut** | Extrahiert spaltenweise Ausschnitte aus Textzeilen mittels angegebenem Trennzeichen/Zeichenposition | <code>grep -r -i "include" ./ &#124; cut -d: -f1</code> |
 | **date** | Ausgabe von Datum/Zeit | date +%d.%m.%Y |
 | **dd** | dd dient zum bit-genauen Kopieren von Festplatten, Partitionen oder Dateien | sudo dd if=2017-08-16-raspbian-stretch.img of=/dev/sdg status=progress bs=16M |
 | **df** | diskfree, zeige den freien Festplattenplatz von eingehängten Partitionen an | df -h |
@@ -44,10 +44,10 @@
 | **renice** | Änderung der Priorität eines laufenden Prozesses, Höherstufung nur als root | sudo renice -10 \`pidof nano\` |
 | **sed** | Nicht-interaktiver Texteditor für Konsole oder Shell-Skripte | sed -e '/debug/d'  log |
 | **sleep** | Pausieren eines Prozesses | sleep 10 |
-| **sort** | Zeilenweise Sortierung von Standardausgaben/Textdateien | ls -s \| sort -n |
+| **sort** | Zeilenweise Sortierung von Standardausgaben/Textdateien | <code>ls -s &#124; sort -n</code> |
 | **split** | Aufteilung von großen Dateien auf mehrere kleinere | split -b 700M archiv.tar split-archiv.tar. |
 | **sync** | Explizites Schreiben von im Speicher gehaltenen Daten auf die Platte | sync |
-| **tee** | Verdopplung der Ausgabe - in Textdatei und auf Standardausgabe | ls -la \| tee alle\_dateien.txt |
+| **tee** | Verdopplung der Ausgabe - in Textdatei und auf Standardausgabe | <code>ls -la &#124; tee alle\_dateien.txt</code> |
 | **top** | Dynamische Anzeige der aktuell auf dem System laufenden Prozesse \(Alternative htop\) und des Ressourcenverbrauchs | top |
 | **truncate** | Die Größe einer Datei auf die angegebene Größe verkleinern/-größern; abgeschnittene Daten gehen verloren; nicht existierende Dateien werden erstellt | truncate -s 100g /tmp/SWAPDATEI |
 | **umask** | Anzeige/Änderung der aktuellen Maskierung der Zugriffsrechte einer neuen Datei | touch 0022 |
