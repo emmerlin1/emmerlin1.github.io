@@ -29,7 +29,7 @@ Im Folgenden sind wichtige Ausdrücke ausgeführt:
 #### sed
 
 * <code>cat text.txt \| sed '=' \| sed 'N;s/\n/. /'</code>
-  Gib die Datei text.txt zeilenweise aus \(cat text.txt\), füge für jede Zeile die Zeilennummer mit Zeilenumbruch hinzu \( sed '='\), lies die nächste Zeile \(N;\) und
+  Gib die Datei text.txt zeilenweise aus \(cat text.txt\), füge für jede Zeile die Zeilennummer mit Zeilenumbruch hinzu \( sed '='\), lies die nächste Zeile \(N;\) in die aktuelle Musterbehandlung (Pattern Space) ein und ersetze den Zeilenumbruch zu dieser angehängten Zeile mit '. '.
 
 * <code>sed -e '/\\\\$/N; s/\\\\\\n//;' text.txt</code>
   Teste Zeilenbedingung /\\\\$/ \(hier Backslash am Ende der Zeile\), wenn ja, dann lies die nächste Zeile ein \(N;\) und ersetze Backslash und Zeilenumbruch mit nichts \(s/\n//;\)
