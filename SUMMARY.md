@@ -36,6 +36,7 @@
     * [Dateien und Inhalte suchen](kapitel-4-arbeiten-im-terminal/linux-kommandos/dateien-und-inhalte-suchen.md)
     * [Systeminformationen](kapitel-4-arbeiten-im-terminal/linux-kommandos/plattenbelegung-und-systempartitionen.md)
     * [grep, sed, awk und regular expressions](kapitel-4-arbeiten-im-terminal/sed-und-awk.md)
+    * [Nützliche Oneliner](kapitel-4-arbeiten-im-terminal/linux-kommandos/nutzliche-oneliner.md)
   * [Shellskripte](kapitel-4-arbeiten-im-terminal/shellskripte.md)
 * [Kaptiel 5 - Systemkonfiguration und Administration](kaptiel-5-systemkonfiguration-und-administration.md)
   * [Linux Bootvorgang](kaptiel-5-systemkonfiguration-und-administration/linux-bootvorgang.md)
