@@ -23,7 +23,7 @@ Im Folgenden sind wichtige Ausdrücke ausgeführt:
 | C? | Zeichen/Ausdruck davor ist optional \(0,1\) | |
 | **Gruppierung** | **Bedeutung** | **Beispiel** |
 | \[\] | eines der beinhalteten Zeichen ist vorhanden | '\[abc\]\[a-c\]\[stu\]' ist zutreffend für "cat" |
-| \(\) | Gruppierung von Zeichen ist vorhanden | <code>'Das Wetter ist (toll&#124;richtig schlecht)' ist zutreffend für "Das Wetter ist toll"</code> |
+| \(\) | Gruppierung von Zeichen ist vorhanden | <code>'Das Wetter ist (toll&#124;richtig schlecht)'</code> ist zutreffend für "Das Wetter ist toll" |
 
 #### grep
 
