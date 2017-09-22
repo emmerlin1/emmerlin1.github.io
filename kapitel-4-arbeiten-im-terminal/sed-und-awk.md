@@ -39,6 +39,6 @@ Im Folgenden sind wichtige Ausdrücke ausgeführt:
 #### awk
 
 * <code>ls -l \| awk 'BEGIN {sum=0} {sum=sum+$5} END {print sum}</code>'
-summiere die 5. Spalte der ausgegebenen Zeilen des Befehls 'ls -l' auf und gebe die Summe am Ende aus
+  summiere die 5. Spalte der ausgegebenen Zeilen des Befehls 'ls -l' auf und gebe die Summe am Ende aus
 
 
