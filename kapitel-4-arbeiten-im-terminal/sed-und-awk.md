@@ -31,7 +31,7 @@ Im Folgenden sind wichtige Ausdrücke ausgeführt:
 * <code>cat text.txt \| sed '=' \| sed 'N;s/\n/. /'</code>
   Gib die Datei text.txt zeilenweise aus \(cat text.txt\), füge für jede Zeile die Zeilennummer mit Zeilenumbruch hinzu \( sed '='\), lies die nächste Zeile \(N;\) und
 
-* <code>sed -e '/$/N; s/\\\\\\n//;' text.txt</code>
+* <code>sed -e '/\\\\$/N; s/\\\\\\n//;' text.txt</code>
   Teste Zeilenbedingung /$/ \(hier Backslash am Ende der Zeile\), wenn ja, dann lies die nächste Zeile ein \(N;\) und ersetze Backslash und Zeilenumbruch mit nichts \(s/\n//;\)
 
 * Weitere Beispiele zu häufig auftretenden Anwendungsfällen sind unter [sourceforge](http://sed.sourceforge.net/sedfaq.html) zu finden.
