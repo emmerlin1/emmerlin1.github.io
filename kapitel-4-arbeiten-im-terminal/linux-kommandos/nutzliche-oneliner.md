@@ -1,7 +1,7 @@
 ### Nützliche Oneliner
 
-* `find\bin \usr\bin -type f -exec file {} \; |grep"shell" |wc-l`
-  Durchsuche \(find\) die Verzeichnisse /bin und /usr/bin nach allen Dateien und füttere mit jeder gefundenen Datei den Befehl file;   
+* `find\bin \usr\bin -type f -exec file {} \; |grep"shell" |wc-l`  
+  Durchsuche \(find\) die Verzeichnisse /bin und /usr/bin nach allen Dateien und füttere mit jeder gefundenen Datei den Befehl file;  
   dessen Ausgabe wird nach dem Wort "shell" durchsucht \(grep\), wird es gefunden, dann summiert der Befehl wc diese Zeile auf;  
   d.h. wir erhalten die **Gesamtanzahl** von Shellskripten in den beiden durchsuchten Verzeichnissen
 
@@ -17,11 +17,14 @@
 * ps aux \| awk '{if \($5 != 0 \) print $2,$5,$6,$11}' \| sort -k2n  
   Anzeige der Prozesse und deren Speicheranforderungen
 
-* du -sk /var/log/\* \| sort -r -n \| head -10
+* du -sk /var/log/\* \| sort -r -n \| head -10  
+  Anzeige der Größe von Dateien und Verzeichnisinhalten, sortiert und beschränkt auf die größten 10 Werte
 
-* cat ~/.bash\_history \| tr "\\|\;" "\n" \| sed -e "s/^ //g" \| cut -d " "
+* cat ~/.bash\_history \| tr "\\|\;" "\n" \| sed -e "s/^ //g" \| cut -d " "  
+  Dursuchen der Command-History-Datei und Zählung, wie oft eine Befehl aufgerufen wurde
 
-* find -not -empty -type f -printf "%s\n" \| sort -rn \| uniq -d \| xargs -I{} -n1 find -type f -size {}c -print0 \| xargs -0 md5sum \| sort \| uniq -w32 --all-repeated=separate
+* find -not -empty -type f -printf "%s\n" \| sort -rn \| uniq -d \| xargs -I{} -n1 find -type f -size {}c -print0 \| xargs -0 md5sum \| sort \| uniq -w32 --all-repeated=separate  
+  Finde und beseitige Dateiduplikate in einem Verzeichnisbaum
 
 
 
