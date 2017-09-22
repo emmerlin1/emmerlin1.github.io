@@ -42,7 +42,7 @@ Im Folgenden sind wichtige Ausdrücke aufgeführt:
 
 #### awk
 
-* awk ist ein Akronym der Nachnamen seiner drei Entwickler Aho, Weinberger, Kernighan; im Gegensatz zu sed stehen für awk Variablen, eingebaute Funktionen und eine Art Programmiersprache zur Verfügung. [Hier](https://www.tutorialspoint.com/awk/awk_tutorial.pdf) ist eine ausführliche Beschreibung von awk verfügbar.
+* awk ist ein Akronym der Nachnamen seiner drei Entwickler Aho, Weinberger, Kernighan; im Gegensatz zu sed stehen für awk Variablen, eingebaute Funktionen und eine Art Programmiersprache zur Verfügung. [Hier](https://www.gnu.org/s/gawk/manual/gawk.pdf) ist eine ausführliche Beschreibung von awk verfügbar.
 
 * `ls -l | awk 'BEGIN {sum=0} {sum=sum+$5} END {print sum}'`
 
