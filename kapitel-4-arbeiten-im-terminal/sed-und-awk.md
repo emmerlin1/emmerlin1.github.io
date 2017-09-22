@@ -28,6 +28,8 @@ Im Folgenden sind wichtige Ausdrücke aufgeführt:
 
 #### sed
 
+* Ausführliche Beschreibungen und Beispiele zum stream editor sed sind [hier](http://www.grymoire.com/Unix/Sed.html) zu finden; sed wendet eine Folge von anzugebenden Kommandos auf Zeile für Zeile gelesene Daten einer Datei/Eingabe an.
+
 * `cat text.txt | sed '=' | sed 'N;s/\n/. /'`
 
   Gib die Datei text.txt zeilenweise aus \(cat text.txt\), füge für jede Zeile die Zeilennummer mit Zeilenumbruch hinzu \( sed '='\), lies die nächste Zeile \(N;\) in die aktuelle Musterbehandlung (Pattern Space) ein und ersetze den Zeilenumbruch zu dieser angehängten Zeile mit '. '.
@@ -39,6 +41,8 @@ Im Folgenden sind wichtige Ausdrücke aufgeführt:
 * Weitere Beispiele zu häufig auftretenden Anwendungsfällen sind unter [sourceforge](http://sed.sourceforge.net/sedfaq.html) zu finden.
 
 #### awk
+
+* awk ist ein Akronym der Nachnamen seiner drei Entwickler Aho, Weinberger, Kernighan; im Gegensatz zu sed stehen für awk Variablen, eingebaute Funktionen und eine Art Programmiersprache zur Verfügung. [Hier](https://www.tutorialspoint.com/awk/awk_tutorial.pdf) ist eine ausführliche Beschreibung von awk verfügbar.
 
 * `ls -l | awk 'BEGIN {sum=0} {sum=sum+$5} END {print sum}'`
 
