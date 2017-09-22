@@ -28,7 +28,7 @@ Im Folgenden sind wichtige Ausdrücke aufgeführt:
 
 * [Beschreibung](https://www.gnu.org/software/grep/manual/grep.html) von grep (global regular expression print) in Form einer HTML-Seite
 
-* grep liest eine Datei/Eingabe oder auch alle Dateien eines Verzeichnisbaums zeilenweise ein und gibt diejenigen Zeilen aus, die einer wählbaren Zeichen-Zusammensetzung entsprechen.
+* grep liest eine Datei/Eingabe oder auch alle Dateien eines Verzeichnisbaums zeilenweise ein und gibt diejenigen Zeilen aus, die einer wählbaren Zeichen-Zusammensetzung entsprechen. Die Zeichenfolge kann auch reguläre Ausdrücke enthalten.
 
 * `grep -n "boo" a_file`
   
