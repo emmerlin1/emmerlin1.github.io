@@ -25,7 +25,8 @@
   Ausgabe aller Array-Elemente
 
 
-* <code></code>
+* <code>echo ${#array[*]}</code>
+  **Anzahl** der belegten Elemente anzeigen
 
 
 
