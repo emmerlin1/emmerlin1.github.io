@@ -18,15 +18,17 @@
 * <code>myarray=(null eins zwei drei vier fuenf)</code>
   Array von Werten zuweisen
 
-* <code>echo ${myarray[0]}</code>
+* `echo ${myarray[0]}`
   Ausgabe eines Array-Elements
 
-* <code>echo ${array[*]} #oder echo ${array[@]}</code>
+* `echo ${myarray[*]} #oder echo ${array[@]}`
   Ausgabe aller Array-Elemente
 
-
-* <code>echo ${#array[*]}</code>
+* `echo ${#myarray[*]}`
   **Anzahl** der belegten Elemente anzeigen
+  
+* `unset myarray; unset myarray[2]`
+**Löschung** des gesamten Arrays oder einzelner Elemente
 
 
 
