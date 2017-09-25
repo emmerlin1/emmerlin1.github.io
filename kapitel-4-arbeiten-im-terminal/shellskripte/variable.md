@@ -6,8 +6,7 @@
 * `echo Wert der Variablen \$farbe: $farbe`  
   Verwendung/Ausgabe einer Variablen \(das escape-Zeichen '\' verhindert die Variablenersetzung\)
 
-* <code>echo "$farbe"; echo &#96;date&#96;</code>
- 
+* <code>echo "$farbe"; echo &#96;date&#96;</code> 
   Bei der Verwendung von **doppelten Anführungsstrichen** werden Variablen und bei Verwendung von **Backticks** Befehle ausgewertet!
 
 * `echo "Arbeitsverzeichnis des Users: $HOME"`  
@@ -20,16 +19,16 @@
 
   Array von Werten zuweisen
 
-* `echo ${myarray[0]}`
+* `echo ${myarray[0]}` 
   Ausgabe eines Array-Elements
 
-* `echo ${myarray[*]} #oder echo ${array[@]}`
+* `echo ${myarray[*]} #oder echo ${array[@]}` 
   Ausgabe aller Array-Elemente
 
-* `echo ${#myarray[*]}`
+* `echo ${#myarray[*]}` 
   **Anzahl** der belegten Elemente anzeigen
   
-* `unset myarray; unset myarray[2]`
+* `unset myarray; unset myarray[2]` 
   **Löschung** des gesamten Arrays oder einzelner Elemente
 
 
