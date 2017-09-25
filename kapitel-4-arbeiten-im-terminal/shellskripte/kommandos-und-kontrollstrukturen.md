@@ -51,7 +51,7 @@ if <condition>
 
 * **case-Mehrfachalternative **\(Beispiel sh. Verzeichnis init.d**\)**  
   ```
-case <command> in  
+  case <command> in  
      <pattern1>)  
         ...  
         ;;  
@@ -60,14 +60,14 @@ case <command> in
         ;;  
      ...  
   esac;
-```
+  ```
 * **for-Schleife**  
   ```
-for <variable> in <Liste>  
-  do  
-     <command>  
-  done
-```
+  for <variable> in <Liste>  
+    do  
+       <command>  
+    done
+  ```
 
 
 
