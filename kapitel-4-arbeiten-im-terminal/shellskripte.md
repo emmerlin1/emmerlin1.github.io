@@ -12,5 +12,5 @@ Shellskripte bieten die Möglichkeit, Befehlsketten nacheinander strukturiert ü
 
 Shellskripte können, nachdem sie mittels' chmod +x skriptname.sh' ausführbar gemacht wurden über '.**/skriptname.sh**' als eigener Kindprozess gestartet werden. Eine weitere Möglichkeit wäre, das Skript innerhalb des aktuellen Shellkontextes mittel '**source skriptname.sh**' auszuführen.
 
-
+Shellskripte können komplexe Vorgänge beinhalten, die dann auch entsprechend über das Kommentarzeichen '\#' umfangreich dokumentiert werden sollten. Gröpere Skripte sollten mit einem Kommentarblock anfangen, der beschreibt, wie das Skript heißt, wie es aufgerufen werden muss, was es tun soll
 
