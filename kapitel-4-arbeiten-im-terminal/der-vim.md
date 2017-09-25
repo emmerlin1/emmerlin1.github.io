@@ -1,6 +1,6 @@
 ### Der vi\(m\)
 
-Der Editor vim \("vi" steht für "visual", improved vi\) ist ein bildschirmorientierter Editor, d. h. der Text ist in seiner aktuellen Version auf dem Bildschirm zu sehen. Für eine ausführliche Auflistung der VIM-Befehle stehen zahlreiche [CheatSheets&uarr;](https://gettextbook.download/CS 35L/Final Review/04_VIM.pdf) zur Verfügung.
+Der Editor vim \("vi" steht für "visual", improved vi\) ist ein bildschirmorientierter Editor, d. h. der Text ist in seiner aktuellen Version auf dem Bildschirm zu sehen. Für eine ausführliche Auflistung der VIM-Befehle stehen zahlreiche [CheatSheets↑](https://gettextbook.download/CS 35L/Final Review/04_VIM.pdf) zur Verfügung.
 
 ![](/images/vi.png)
 
@@ -20,6 +20,7 @@ Der Editor vim \("vi" steht für "visual", improved vi\) ist ein bildschirmorien
 | :buffers | Zeige offene Buffer an \(nummerierte Liste\) |
 | :bn | Zeige nächsten offenen Buffer an |
 | :vs | Halbiere Fenster vertikal |
+| :10,100 s/^/\#/ | Kommentiere die Zeilen 10-100 mit \# am Anfang der Zeile aus |
 
 #### Umschalten in den  Eingabemodus
 
