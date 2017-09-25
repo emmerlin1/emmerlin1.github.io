@@ -24,10 +24,13 @@
     die Operatoren -lt \(less\), -gt \(greater\), -ge \(greater/equal\), -le \(less/equal\), -eq \(equal\) oder -ne \(not equal\) wenden den entsprechenden Vergleich auf  das Zahl-Argument \($x\) an.
 
   * **test "$x" \&gt; 10**  
-    Testet, ob das erste Argument \(Zeichenkette $x\) lexikographisch im Wörterbuch hinter der zweiten \(hier die 10\) steht 
+    Testet, ob das erste Argument \(Zeichenkette $x\) lexikographisch im Wörterbuch hinter der zweiten \(hier die 10\) steht
 
   * **test -r "$x"**  
     Prüft, ob die Datei $x existiert und lesbar ist
+
+  * **test -d "$HOME/.config"**  
+    Testet, ob das Verzeichnis \(-d\) .conf im Arbeitsverzeichnis des Benutzers existiert
 
 
 
