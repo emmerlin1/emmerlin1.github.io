@@ -47,8 +47,6 @@ if <condition>
   fi
 ```
 
-
-
 * **case-Mehrfachalternative **\(Beispiel sh. Verzeichnis init.d**\)**  
   ```
   case <command> in  
@@ -61,6 +59,7 @@ if <condition>
      ...  
   esac;
   ```
+  
 * **for-Schleife**  
   ```
   for <variable> in <Liste>  
@@ -68,8 +67,6 @@ if <condition>
        <command>  
     done
   ```
-
-
 
 * **while/until**  
   ```
