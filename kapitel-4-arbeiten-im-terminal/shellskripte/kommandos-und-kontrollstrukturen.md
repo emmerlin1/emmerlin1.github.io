@@ -17,9 +17,17 @@
 | **129-192** | Programmabbruch durch Signal 'Wert'-128, Signalübersicht durch Befehl **kill -l** |
 
 * Der Befehl '**test**' dient zum Vergleich von Zeichenketten/Zahlen und der Überprüfung von Dateieigenschaften
+
   * **test "$x"**
     nur _ein_ Argument → das Argument \(hier $x\) wird auf 'nicht leer' geprüft
-  * 
+  * **test $x -lt 8**  
+    die Operatoren -lt \(less\), -gt \(greater\), -ge \(greater/equal\), -le \(less/equal\), -eq \(equal\) oder -ne \(not equal\) wenden den entsprechenden Vergleich auf  das Zahl-Argument \($x\) an.
+
+  * **test "$x" \&gt; 10**  
+    Testet, ob das erste Argument \(Zeichenkette $x\) lexikographisch im Wörterbuch hinter der zweiten \(hier die 10\) steht 
+
+  * **test -r "$x"**  
+    Prüft, ob die Datei $x existiert und lesbar ist
 
 
 
