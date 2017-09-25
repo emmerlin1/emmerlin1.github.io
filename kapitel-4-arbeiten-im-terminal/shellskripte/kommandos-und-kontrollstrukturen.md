@@ -12,7 +12,7 @@
 | **3-126** | frei wählbar durch den User \(z.B. exit 25\) |
 | **127** | aufgerufener Befehl/Programm wurde nicht gefunden |
 | **128** | Ungültiges Argument für exit verwendet \(z.B. exit 2.5 |
-| **129-192** | Programmabbruch durch Signal 'Wert'-128,<br /> Signalübersicht durch Befehl **kill -l** |
+| **129-192** | Programmabbruch durch Signal 'Wert'-128, Signalübersicht durch Befehl **kill -l** |
 
 
 
