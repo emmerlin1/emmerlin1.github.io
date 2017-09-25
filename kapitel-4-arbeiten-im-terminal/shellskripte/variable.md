@@ -12,7 +12,7 @@
 * `echo "Arbeitsverzeichnis des Users: $HOME"`  
   Verwendung von Umgebungsvariablen
 
-* <code>mydir= &#96;pwd&#96;  </code>
+* `mydir= &#96;pwd&#96;`  
   Zuweisung von ausgewerteten Kommandos zu Variablen
   
 * <code>myarray=(null eins zwei drei vier fuenf)</code>
