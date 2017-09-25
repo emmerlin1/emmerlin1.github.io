@@ -68,7 +68,7 @@
      &lt;command&gt;  
   done
 
-* until/while  
+* **until/while**  
   until &lt;condition&gt;  
   do  
      &lt;command&gt;  
