@@ -41,6 +41,7 @@ Der Editor vim \("vi" steht für "visual", improved vi\) ist ein bildschirmorien
 | n | Suche nächstes Wort im aktuellen Buffer |
 | p | Füge Text der 'Zwischenablage' nach dem Cursor \(der Zeile\) ein |
 | P | Füge Text der 'Zwischenablage' vor dem Cursor \(der Zeile\) ein |
+| y | Kopiere aktuelle Zeile in 'Zwischenablage' |
 
 #### Arbeiten im Visual Mode \(Copy/Cut/Delete\)
 
