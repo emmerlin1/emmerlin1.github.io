@@ -76,14 +76,16 @@ for <variable> in <Liste>
    while <condition>  
   do  
      <command>  
-  done```
+  done
+  ```
 
 * **until/while**  
   ```
-   until <condition>  
+  until <condition>  
   do  
      <command>  
-  done```
+  done
+  ```
 
 
 
