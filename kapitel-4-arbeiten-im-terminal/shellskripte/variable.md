@@ -38,7 +38,7 @@
 | Variable | Bedeutung | 
 | :--- | :--- |
 | $? | Rückgabewert des letzten Kommandos |
-| $$ | Prozessnummer der aktuellen Shell |
+| $$ | Prozessnummer (PID) der aktuellen Shell |
 | $! | PID des zuletzt gestarteten Hintergrundprozesses |
 | $0 | Name des aktuell ausgeführten Skripts |
 | $# | Anzahl der beim Aufruf des Skripts übergebenen Parameter |
