@@ -36,31 +36,42 @@
     Kurzform von 'test "$x"'
 
 * **if-Verzweigung**  
-  if &lt;condition&gt;  
+  
+
+```
+if <condition>  
   then  
      ...  
-  elif &lt;condition&gt;  
+  elif <condition>  
      ...  
   else  
      ...  
   fi
+```
+
+
 
 * **case-Mehrfachalternative **\(Beispiel sh. Verzeichnis init.d**\)**  
-  case &lt;command&gt; in  
-     &lt;pattern1&gt;\)  
+  ```
+case <command> in  
+     <pattern1>)  
         ...  
         ;;  
-     &lt;pattern2&gt;\)  
+     <pattern2>)  
         ...  
         ;;  
      ...  
   esac;
-
+```
 * **for-Schleife**  
-  for &lt;variable&gt; in &lt;Liste&gt;  
+  ```
+for <variable> in <Liste>  
   do  
-     &lt;command&gt;  
+     <command>  
   done
+```
+
+
 
 * **while/until**  
   while &lt;condition&gt;  
