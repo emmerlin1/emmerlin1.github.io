@@ -32,5 +32,8 @@
   * **test -d "$HOME/.config"**  
     Testet, ob das Verzeichnis \(-d\) .conf im Arbeitsverzeichnis des Benutzers existiert
 
+  * **\[ "$x" \]**  
+    Kurzform von 'test "$x"'
+
 
 
