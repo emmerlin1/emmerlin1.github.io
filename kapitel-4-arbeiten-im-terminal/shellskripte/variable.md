@@ -13,7 +13,7 @@
   Verwendung von Umgebungsvariablen
 
 * <code>mydir= &#96;pwd&#96;</code>  
-  Zuweisung von ausgewerteten Kommandos zu Variablen
+  Zuweisung von Kommandoauswertungen zu Variablen
   
 * `myarray=(null eins zwei drei vier fuenf)`  
   Array von Werten zuweisen
@@ -29,6 +29,78 @@
   
 * `unset myarray; unset myarray[2]`  
   **Löschung** des gesamten Arrays oder einzelner Elemente
+  
+* Spezielle Shellvariable:
+
+| Variable | Bedeutung | 
+| :--- | :--- |
+| $? | Rückgabewert des letzten Kommandos |
+| $$ | Rückgabewert des letzten Kommandos |
+| $! | Rückgabewert des letzten Kommandos |
+| $0 | Rückgabewert des letzten Kommandos |
+| $# | Rückgabewert des letzten Kommandos |
+| $* | Rückgabewert des letzten Kommandos |
+| $@ | Rückgabewert des letzten Kommandos |
+| $n | Rückgabewert des letzten Kommandos |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
