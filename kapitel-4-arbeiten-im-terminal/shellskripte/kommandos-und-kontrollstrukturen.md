@@ -46,15 +46,33 @@
   fi
 
 * **case-Mehrfachalternative **\(Beispiel sh. Verzeichnis init.d**\)**  
-  case &lt;Wert&gt; in  
-     &lt;Muster1&gt;\)  
+  case &lt;command&gt; in  
+     &lt;pattern1&gt;\)  
         ...  
         ;;  
-     &lt;Muster2&gt;\)  
+     &lt;pattern2&gt;\)  
         ...  
         ;;  
      ...  
   esac;
+
+* **for-Schleife**  
+  for &lt;variable&gt; in &lt;Liste&gt;  
+  do  
+     &lt;command&gt;  
+  done
+
+* **while/until**  
+  while &lt;condition&gt;  
+  do  
+     &lt;command&gt;  
+  done
+
+* until/while  
+  until &lt;condition&gt;  
+  do  
+     &lt;command&gt;  
+  done
 
 
 

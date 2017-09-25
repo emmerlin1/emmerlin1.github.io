@@ -41,6 +41,7 @@
     * [Variable und arithmetische Ausdrücke](kapitel-4-arbeiten-im-terminal/shellskripte/variable.md)
     * [Kommandos und Kontrollstrukturen](kapitel-4-arbeiten-im-terminal/shellskripte/kommandos-und-kontrollstrukturen.md)
     * [Shellfunktionen](kapitel-4-arbeiten-im-terminal/shellskripte/shellfunktionen.md)
+    * Beispiele
 * [Kaptiel 5 - Systemkonfiguration und Administration](kaptiel-5-systemkonfiguration-und-administration.md)
   * [Linux Bootvorgang](kaptiel-5-systemkonfiguration-und-administration/linux-bootvorgang.md)
   * [Das Hilfesystem](kaptiel-5-systemkonfiguration-und-administration/das-hilfesystem.md)
