@@ -18,14 +18,11 @@
 * <code>myarray=(null eins zwei drei vier fuenf)</code>
   Array von Werten zuweisen
 
-
 * <code>echo ${myarray[0]}</code>
   Ausgabe eines Array-Elements
 
-
-
-* <code></code>
-
+* <code>echo ${array[*]} #oder echo ${array[@]}</code>
+  Ausgabe aller Array-Elemente
 
 
 * <code></code>
