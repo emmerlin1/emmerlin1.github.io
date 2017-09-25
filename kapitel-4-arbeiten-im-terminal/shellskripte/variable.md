@@ -38,13 +38,12 @@
 | Variable | Bedeutung | 
 | :--- | :--- |
 | $? | Rückgabewert des letzten Kommandos |
-| $$ | Rückgabewert des letzten Kommandos |
-| $! | Rückgabewert des letzten Kommandos |
-| $0 | Rückgabewert des letzten Kommandos |
-| $# | Rückgabewert des letzten Kommandos |
-| $* | Rückgabewert des letzten Kommandos |
-| $@ | Rückgabewert des letzten Kommandos |
-| $n | Rückgabewert des letzten Kommandos |
+| $$ | Prozessnummer der aktuellen Shell |
+| $! | PID des zuletzt gestarteten Hintergrundprozesses |
+| $0 | Name des aktuell ausgeführten Skripts |
+| $# | Anzahl der beim Aufruf des Skripts übergebenen Parameter |
+| $* oder $@ | Gesamtheit der beim Aufruf des Skripts übergebenen Parameter in Form eines leerzeichengetrennten Strings |
+| ${n} | Zugriff auf n-ten Parameter des Skripts, Klammern können entfallen, wenn n<10 |
 
 
 
