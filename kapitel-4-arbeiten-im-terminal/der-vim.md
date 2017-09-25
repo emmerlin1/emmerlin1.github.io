@@ -20,7 +20,7 @@ Der Editor vim \("vi" steht für "visual", improved vi\) ist ein bildschirmorien
 | :buffers | Zeige offene Buffer an \(nummerierte Liste\) |
 | :bn | Zeige nächsten offenen Buffer an |
 | :vs | Halbiere Fenster vertikal |
-| :10,100 s/^/\#/ | Kommentiere die Zeilen 10-100 mit \# am Anfang der Zeile aus |
+| :10,100 s/^/\#/ | Füge am Anfang der Zeilen 10-100 eine Raute \# ein \(substitute mit regular expression\) |
 
 #### Umschalten in den  Eingabemodus
 
