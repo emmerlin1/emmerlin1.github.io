@@ -45,13 +45,13 @@
      ...  
   fi
 
-* **case-Mehrfachalternative**  
+* **case-Mehrfachalternative **\(Beispiel sh. Verzeichnis init.d**\)**  
   case &lt;Wert&gt; in  
      \(&lt;Muster1&gt;\)  
         ...  
         ;;  
-     \(&lt;Muster2&gt;\)   
-        ...   
+     \(&lt;Muster2&gt;\)  
+        ...  
         ;;  
      ...  
   esac;
