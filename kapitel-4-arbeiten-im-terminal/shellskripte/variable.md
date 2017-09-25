@@ -13,7 +13,25 @@
   Verwendung von Umgebungsvariablen
 
 * <code>mydir= &#96;pwd&#96;  </code>
-  Zuweisung von ausgewerteten Befehlen zu Variablen
+  Zuweisung von ausgewerteten Kommandos zu Variablen
+  
+* <code>myarray=(null eins zwei drei vier fuenf)</code>
+  Array von Werten zuweisen
+
+
+* <code>echo ${myarray[0]}</code>
+  Ausgabe eines Array-Elements
+
+
+
+* <code></code>
+
+
+
+* <code></code>
+
+
+
 
 
 
