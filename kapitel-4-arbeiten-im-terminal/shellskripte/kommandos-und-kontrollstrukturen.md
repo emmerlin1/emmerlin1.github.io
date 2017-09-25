@@ -37,15 +37,15 @@
 
 * **if-Verzweigung**  
   ```
-if <condition>  
-  then  
-     ...  
-  elif <condition>  
-     ...  
-  else  
-     ...  
-  fi
-```
+  if <condition>  
+    then  
+       ...  
+    elif <condition>  
+       ...  
+    else  
+       ...  
+    fi
+  ```
 
 * **case-Mehrfachalternative **\(Beispiel sh. Verzeichnis init.d**\)**  
   ```
@@ -70,7 +70,7 @@ if <condition>
 
 * **while/until**  
   ```
-   while <condition>  
+  while <condition>  
   do  
      <command>  
   done
