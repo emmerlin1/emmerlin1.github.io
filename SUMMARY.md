@@ -62,4 +62,12 @@
   * [ARM-Board Architekturen](kapitel-7-raspberry-pi-und-andere-arm-geratschaften/arm-board-architekturen.md)
   * [Hardware-Bus-Systeme](kapitel-7-raspberry-pi-und-andere-arm-geratschaften/hardware-bus-systeme.md)
   * [Distributionen](kapitel-7-raspberry-pi-und-andere-arm-geratschaften/distributionen.md)
+* [Kapitel 8 - Übungen](kapitel-8-ubungen.md)
+  * zu Kapitel 1
+  * zu Kapitel 2
+  * zu Kapitel 3
+  * zu Kapitel 4
+  * zu Kapitel 5
+  * zu Kapitel 6
+  * zu Kapitel 7
 
