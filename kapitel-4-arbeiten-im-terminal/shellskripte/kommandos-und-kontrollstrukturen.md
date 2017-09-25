@@ -16,5 +16,10 @@
 | **128** | Ungültiges Argument für exit verwendet \(z.B. exit 2.5 |
 | **129-192** | Programmabbruch durch Signal 'Wert'-128, Signalübersicht durch Befehl **kill -l** |
 
+* Der Befehl '**test**' dient zum Vergleich von Zeichenketten/Zahlen und der Überprüfung von Dateieigenschaften
+  * **test "$x"**
+    nur _ein_ Argument → das Argument \(hier $x\) wird auf 'nicht leer' geprüft
+  * 
+
 
 
