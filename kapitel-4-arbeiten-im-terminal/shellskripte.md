@@ -8,5 +8,5 @@
 
 [Shellfunktionen](/kapitel-4-arbeiten-im-terminal/shellskripte/shellfunktionen.md)
 
-Shellskripte bieten die Möglichkeit, Befehlsketten nacheinander strukturiert über einen Aufruf ausführen zu können. Da die Shell unter Linux eine tragende Rolle spielt, können somit hierüber fast alle Konfigurations- und Administrationsaufgaben automatisiert werden.
+Shellskripte bieten die Möglichkeit, Befehlsketten nacheinander strukturiert über einen Aufruf ausführen und dabei weiterführende Funktionselemente wie Kontrollstrukturen und arithmetische Ausdrücke nutzen zu können. Da die Shell unter Linux eine tragende Rolle spielt, können somit hierüber fast alle Konfigurations- und Administrationsaufgaben automatisiert werden.
 
