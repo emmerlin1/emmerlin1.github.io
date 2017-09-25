@@ -30,6 +30,9 @@
 * `unset myarray; unset myarray[2]`  
   **Löschung** des gesamten Arrays oder einzelner Elemente
   
+* `a=123; echo $((3+4*a))`
+  Arithmetischer Ausdruck: Variable a kann in einem arithmetischen Ausdruck ohne '$' verwendet werden!
+  
 * Spezielle Shellvariable:
 
 | Variable | Bedeutung | 
