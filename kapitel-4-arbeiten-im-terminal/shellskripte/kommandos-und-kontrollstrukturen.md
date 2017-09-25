@@ -36,9 +36,7 @@
     Kurzform von 'test "$x"'
 
 * **if-Verzweigung**  
-  
-
-```
+  ```
 if <condition>  
   then  
      ...  
@@ -74,16 +72,21 @@ for <variable> in <Liste>
 
 
 * **while/until**  
-  while &lt;condition&gt;  
+  ```
+   while <condition>  
   do  
-     &lt;command&gt;  
-  done
+     <command>  
+  done```
 
 * **until/while**  
-  until &lt;condition&gt;  
+  ```
+   until <condition>  
   do  
-     &lt;command&gt;  
-  done
+     <command>  
+  done```
+
+
+
 
 
 
