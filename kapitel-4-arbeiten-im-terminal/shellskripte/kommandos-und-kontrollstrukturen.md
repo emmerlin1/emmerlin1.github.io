@@ -35,5 +35,26 @@
   * **\[ "$x" \]**  
     Kurzform von 'test "$x"'
 
+* **if-Verzweigung**  
+  if &lt;condition&gt;  
+  then  
+     ...  
+  elif &lt;condition&gt;  
+     ...  
+  else  
+     ...  
+  fi
+
+* **case-Mehrfachalternative**  
+  case &lt;Wert&gt; in  
+     \(&lt;Muster1&gt;\)  
+        ...  
+        ;;  
+     \(&lt;Muster2&gt;\)   
+        ...   
+        ;;  
+     ...  
+  esac;
+
 
 
