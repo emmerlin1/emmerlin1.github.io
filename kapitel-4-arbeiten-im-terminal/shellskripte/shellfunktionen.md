@@ -9,7 +9,9 @@ function sortfkt () {
 ls -l | sort-num-rev
 {%endace%}
 
+
 * Shellfunktionen verhalten sich aus Sicht der aufrufenden Stelle wie Standardkommandos; sie besitzen eine Standard-Ein- und Ausgabe, können mit Aufrufparameter umgehen etc.
+* Innerhalb einer Shellfunktion entsprechen die Positionsparameter ($1,$2...,$*) den Argumenten der Shellfunktion und nicht denen des aufrufenden Shellprozesses.
 
 
 
