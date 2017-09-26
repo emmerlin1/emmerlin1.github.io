@@ -8,6 +8,13 @@
 
 * Dienste können auch ohne die bereits aktiven realen Kommunikationskanäle frühzeitig gestartet werden, indem Systemd notwendige Sockets temporär selbst zur Verfügung stellt und den jeweiligen Dienst zu gegebener Zeit dann neu startet.
 
+* Konfiguration der Systemd-Dienste unter **/lib/systemd/system/**
+
+* Systemd-Units:
+
+|asdf|sd|
+ 
+
 * `systemctl`
   Liste der laufenden Systemd-verwalteten Dienste
 
@@ -23,5 +30,3 @@
 * `systemd-cgls`
   Baumübersicht über die Prozessgruppen (cgroups) von gestarteten Diensten
 
-* `systemctl`
-Liste der laufenden Systemd-verwalteten Dienste
