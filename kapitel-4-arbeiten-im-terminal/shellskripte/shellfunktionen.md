@@ -16,7 +16,7 @@ ls -l | sort-num-rev
 
 * Innerhalb einer Shellfunktion kann der Funktionsname über die Variable FUNCNAME ermittelt werden.
 
-+ Über das return-Kommando kann ein Rückgabewert zurück gegeben werden. Ist keines vorhanden, wird der Rückgabewert des letzten Kommandos der Shellfunktion zurück gegeben.
+* Über das return-Kommando kann ein Rückgabewert zurück gegeben werden. Ist keines vorhanden, wird der Rückgabewert des letzten Kommandos der Shellfunktion zurück gegeben.
 
 
 
