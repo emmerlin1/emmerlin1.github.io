@@ -10,31 +10,33 @@
 
 * Konfiguration der Systemd-Dienste unter **/lib/systemd/system/** oder bevorzugt behandelt und bei einem Update nicht überschrieben unter **/etc/systemd/system/**
 
-* Systemd-Units:
+* Konfiguration von sog. Systemd-Units \(über ini-ähnliches Dateiformat\):
 
 | Typ | Beschreibung |
-| :--- | :--- | 
+| :--- | :--- |
 | .device | Legt Gerätedateien an |
-| .mount | 	Ein- und Aushängen von Dateisystemen | 
-| .path | 	Startet die Unit via inotify | 
-| .network | 	Für die Konfiguration von Netzwerken via networkd | 
-| .service | 	Für Dienste | 
-| .socket | 	Stellt Verbindungen zwischen Prozessen her | 
-| .target | 	Definiert eine Gruppe von Units | 
-| .timer | 	Für wiederkehrende Aufgaben, ähnlich cron-Jobs | 
+| .mount | Ein- und Aushängen von Dateisystemen |
+| .path | Startet die Unit via inotify |
+| .network | Für die Konfiguration von Netzwerken via networkd |
+| .service | Für Dienste |
+| .socket | Stellt Verbindungen zwischen Prozessen her |
+| .target | Definiert eine Gruppe von Units |
+| .timer | Für wiederkehrende Aufgaben, ähnlich cron-Jobs |
 
-* `systemctl`
+* `systemctl`  
   Liste der laufenden Systemd-verwalteten Dienste
 
-* `systemctl status cron.service`
+* `systemctl status cron.service`  
   Status des cron-Dienstes
 
-* `systemctl stop cron.service`
+* `systemctl stop cron.service`  
   Stoppen des cron-Dienstes
 
-* `systemctl start cron.service`
+* `systemctl start cron.service`  
   Starten des cron-Dienstes
 
-* `systemd-cgls`
-  Baumübersicht über die Prozessgruppen (cgroups) von gestarteten Diensten
+* `systemd-cgls`  
+  Baumübersicht über die Prozessgruppen \(cgroups\) von gestarteten Diensten
+
+
 
