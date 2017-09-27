@@ -10,18 +10,18 @@
 
 * Konfiguration der Systemd-Dienste unter **/lib/systemd/system/** oder bevorzugt behandelt und bei einem Update nicht überschrieben unter **/etc/systemd/system/**
 
-* Konfiguration von sog. Systemd-Units \(über ini-ähnliches Dateiformat\):
+* Konfiguration von sog. **Systemd-Units** \(über ini-ähnliches Dateiformat\):
 
- | Typ | Beschreibung |
- | :--- | :--- |
- | .device | Legt Gerätedateien an |
- | .mount | Ein- und Aushängen von Dateisystemen |
- | .path | Startet die Unit via inotify |
- | .network | Für die Konfiguration von Netzwerken via networkd |
- | .service | Für Dienste |
- | .socket | Stellt Verbindungen zwischen Prozessen her |
- | .target | Definiert eine Gruppe von Units |
- | .timer | Für wiederkehrende Aufgaben, ähnlich cron-Jobs |
+  | Typ | Beschreibung |
+  | :--- | :--- |
+  | .device | Legt Gerätedateien an |
+  | .mount | Ein- und Aushängen von Dateisystemen |
+  | .path | Startet die Unit via inotify |
+  | .network | Für die Konfiguration von Netzwerken via networkd |
+  | .service | Für Dienste |
+  | .socket | Stellt Verbindungen zwischen Prozessen her |
+  | .target | Definiert eine Gruppe von Units |
+  | .timer | Für wiederkehrende Aufgaben, ähnlich cron-Jobs |
 
 * `systemctl`  
   Liste der laufenden Systemd-verwalteten Dienste
