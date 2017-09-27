@@ -6,14 +6,15 @@
 
 * Systemd erzeugt im wesentlichen zuerst alle zu verwendenden Kommunikationskanäle und anschließend alle Dienste ohne Rücksicht auf Abhängigkeiten. Somit kann der Bootvorgang beschleunigt werden
 
-* Dienste können auch ohne die bereits aktiven realen Kommunikationskanäle frühzeitig gestartet werden, indem Systemd notwendige Sockets temporär selbst zur Verfügung stellt und den jeweiligen Dienst zu gegebener Zeit dann neu startet.
+* Dienste können auch ohne die bereits aktiven realen Kommunikationskanäle frühzeitig gestartet werden, indem Systemd für den Start notwendige Sockets temporär selbst zur Verfügung stellt und den jeweiligen Dienst zu gegebener Zeit dann neu startet.
 
-* Konfiguration der Systemd-Dienste unter **/lib/systemd/system/**
+* Konfiguration der Systemd-Dienste unter **/lib/systemd/system/** oder bevorzugt behandelt und bei einem Update nicht überschrieben unter **/etc/systemd/system/**
 
 * Systemd-Units:
 
-|asdf|sd|
- 
+| Typ | Beschreibung |
+| :--- | :--- | 
+| 
 
 * `systemctl`
   Liste der laufenden Systemd-verwalteten Dienste
