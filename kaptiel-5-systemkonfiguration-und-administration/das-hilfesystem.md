@@ -18,7 +18,8 @@
     | 8 | Kommandos zur Systemadministration |
     | 9 | Kernel-Funktionen |
     | n | Benutzerdefinierte Kommandos |
-  * Über den Befehl 'man -k &lt;Begriff&gt;' erfährt man, in welchen Sektionen etwas zu dem jeweiligen Begriff zu finden ist \(z.B. **man -k printf**\)
+  * Über den Befehl 'man -k &lt;Begriff&gt;' oder **'apropos &lt;Begriff&gt;' **erfährt man, in welchen Sektionen etwas zu dem jeweiligen Begriff zu finden ist \(z.B. **man -k printf**\)
+  * 
 
 
 
