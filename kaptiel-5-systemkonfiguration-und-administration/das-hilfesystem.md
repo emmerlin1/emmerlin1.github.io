@@ -7,12 +7,12 @@
 #### Die Manpages
 
 * Die Handbuchseiten \(**man-pages** \) bieten eine umfangreiche Hilfe zur Beschreibung von System- und anderen Programmen und auch von Bibliotheksfunktionen der glibc-API \(Standard-C-Bibliothek\).
-  * Die man-pages befinden sich unter dem Verzeichnis **/usr/share/man**, man-pages für eigene Programme können in **/usr/local/share/**man platziert werden
-  * Gliederung der Handbuchseiten:
-    * **NAME**         
-      Kommandoname mit knapper Funktionsbeschreibung
-    * x  
-      y
+* Die man-pages befinden sich unter dem Verzeichnis **/usr/share/man**, man-pages für eigene Programme können in **/usr/local/share/**man platziert werden
+* Gliederung der Handbuchseiten:  
+  * **NAME**
+    Kommandoname mit knapper Funktionsbeschreibung
+  * x  
+    y
       
       
 
