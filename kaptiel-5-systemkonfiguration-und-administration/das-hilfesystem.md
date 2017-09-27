@@ -40,7 +40,7 @@
 
 #### Die Info-Seiten
 
-Für zahlreiche Kommandos existieren Info-Seiten, die meist ausführlicher sind und im Stile von Hypertext verfasst sind. Im folgenden Navigationsbefehle des info-Kommandos:
+Für zahlreiche Kommandos existieren Info-Seiten, die meist ausführlicher sind und im Stile von Hypertext verfasst sind \(z.B. **info uname**\). Im folgenden Navigationsbefehle des info-Kommandos:
 
 | Taste | Wirkung |
 | :--- | :--- |
