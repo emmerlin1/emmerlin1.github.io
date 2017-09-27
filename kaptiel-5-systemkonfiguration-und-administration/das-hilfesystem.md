@@ -23,7 +23,7 @@ Die man-pages befinden sich unter dem Verzeichnis **/usr/share/man**, man-pages 
 | EXAMPLES | Beispielung für die Anwendung des Kommandos |
 | SEE ALSO | Verweis auf verwandte man-pages |
 | DIAGNOSTICS | auftretende Fehlermeldungen |
-| COPYRIGHT | Autoren |
+| COPYRIGHT | Autoren | 
 | BUGS | Bekannte auftretende Fehler |
 
 ##### Die man-pages sind in unterschiedliche Sektionen eingeteilt:
