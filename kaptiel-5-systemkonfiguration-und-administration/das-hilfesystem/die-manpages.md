@@ -4,7 +4,7 @@ Die Handbuchseiten \(**man-pages** \) bieten eine umfangreiche Hilfe zur Beschre
 
 Die man-pages befinden sich unter dem Verzeichnis **/usr/share/man**, man-pages für eigene Programme können in **/usr/local/share/**man platziert werden
 
-##### Gliederung der Handbuchseiten:  
+##### Gliederung der Handbuchseiten:
 
 | Abschnitt | Inhalt |
 | :--- | :--- |
@@ -17,10 +17,10 @@ Die man-pages befinden sich unter dem Verzeichnis **/usr/share/man**, man-pages 
 | EXAMPLES | Beispielung für die Anwendung des Kommandos |
 | SEE ALSO | Verweis auf verwandte man-pages |
 | DIAGNOSTICS | auftretende Fehlermeldungen |
-| COPYRIGHT | Autoren | 
+| COPYRIGHT | Autoren |
 | BUGS | Bekannte auftretende Fehler |
 
-##### Die man-pages sind in unterschiedliche Sektionen eingeteilt:
+##### Die man-pages sind in unterschiedliche Sektionen eingeteilt \(Aufruf 'man &lt;Sektion&gt; &lt;Kommando&gt;\):
 
 | Sektions-Nr. | Themenbereich |
 | :--- | :--- |
