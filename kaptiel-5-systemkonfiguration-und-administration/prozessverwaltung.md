@@ -8,6 +8,8 @@
 * Über **'kill -&lt;signal&gt; &lt;PID&gt;'** kann ein bestimmter Prozess mit einem spezifizierbaren Signal beendet werden
 * **'kill -l'** gibt die Liste verfügbarer Signale aus
 * **'htop'** und **'top'** zeigen die Ressourcenbelegung \(CPU, RAM\) der Prozesse in einer wählbaren Sortierung an \(Refresh alle 2 Sekunden\)
+* Die Prozessprioritäten \(nice-Wert\) lassen sich über **'nice'** beim Start des Prozesses und **'renice'** während der Prozess läuft verändern 
+* Der Befehl **'ulimit -a'** zeigt die aktuell eingestellten Grenzen bzgl. der Benutzung von Systemressourcen pro User an
 
 
 
