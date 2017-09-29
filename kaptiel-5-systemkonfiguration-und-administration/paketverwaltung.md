@@ -20,10 +20,15 @@
   * ...
 
 * Beispielhafte Abhandlung von updates mit apt:
+
+  * sudo apt update
+
+  * sudo apt upgrade
+
 * nicht-offizielle Repositories einbinden \(keine Unterstützung durch die Distribution\):
   * sudo add-apt-repository ppa:ubuntu-lxc/lxd-stable
-  * sudo apt-get update
-  * sudo apt-get install golang
+  * sudo apt update
+  * sudo apt install golang
 * 
 
 
