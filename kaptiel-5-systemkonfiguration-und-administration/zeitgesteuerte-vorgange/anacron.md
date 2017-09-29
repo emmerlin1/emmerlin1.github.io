@@ -1,8 +1,8 @@
 ### anacron
 
-* anacron läuft im Gegensatz zu cron nicht als Dienst sondern wird   
-  1. von cron wie in /etc/cron.d/anacron spezifiziert,   
-  2. beim Systemstart,   
+* anacron läuft im Gegensatz zu cron nicht als Dienst sondern wird \(hier unter ubuntu\)  
+  1. von cron wie in /etc/cron.d/anacron spezifiziert um 07:30 Uhr,  
+  2. beim Systemstart,  
   3. nach dem Aufwachen aus dem Power-Down-Mode,  
   4. und nach Änderung des Power-Management-Status \(Batterie/Netzbetrieb\) ausgeführt
 
