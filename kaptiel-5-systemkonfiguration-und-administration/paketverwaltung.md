@@ -11,7 +11,9 @@
 
 * Bei den meisten Distributionen werden Abhängigkeiten unter den Paketen automatisch aufgelöst, somit läuft die Installation und das Upgrade von Paketen in der Regel vollautomatisch und ohne Konflikte ab.
 
-* Verschiedene Repositories stellen in der Lizenz sich unterscheidende bzw. von verschiedenen Seiten unterstützte Pakettypen bereit:
+* Verschiedene Repositories stellen lizenzrechtlich klassifizierte bzw. von verschiedenen Seiten unterstützte Pakettypen bereit:
+
+  * 
 
 
 
