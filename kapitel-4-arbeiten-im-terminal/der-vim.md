@@ -4,8 +4,9 @@ Der Editor vim \("vi" steht für "visual", improved vi\) ist ein bildschirmorien
 
 ![](/images/vi.png)
 
-VIM kann unter Einbeziehung verschiedener Plugins auch als IDE genutzt werden:
+VIM kann unter Einbeziehung verschiedener Plugins auch als IDE genutzt werden:  
 [VIM preconfigured as IDE](https://github.com/xmementoit/vim-ide)
+
 #### ex-Befehle
 
 | Befehl | Bedeutung |
@@ -21,9 +22,11 @@ VIM kann unter Einbeziehung verschiedener Plugins auch als IDE genutzt werden:
 | :e filename | Lade Datei filename als Buffer, leerer Buffer falls Datei nicht vorhanden |
 | :buffers | Zeige offene Buffer an \(nummerierte Liste\) |
 | :bn | Zeige nächsten offenen Buffer an |
-| :vs | Halbiere Fenster vertikal &rarr; 2 Editorfenster |
-| :vertical resize -80 | reduziere die Breite des aktuellen Editorfensters um 80 Zeichen|
-| Ctrl+w 80< | " |
+| :split | Halbiere Fenster horizontal → 2 Editorfenster |
+| :vs | Halbiere Fenster vertikal → 2 Editorfenster |
+| :resize -80 | reduziere die Höhe des aktuellen Editorfensters um 80 Zeilen |
+| :vertical resize -80 | reduziere die Breite des aktuellen Editorfensters um 80 Zeichen |
+| Ctrl+w 80&lt; | " |
 | :10,100 s/^/\#/ | Füge am Anfang der Zeilen 10-100 eine Raute \# ein \(substitute mit regular expression\) |
 
 #### Umschalten in den  Eingabemodus
