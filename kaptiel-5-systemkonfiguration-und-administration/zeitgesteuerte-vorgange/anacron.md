@@ -8,6 +8,6 @@
 
 * wann anacron zuletzt ausgeführt wurde kann von den Dateien /var/spool/anacron/cron.\[daily, weekly, monthly\] erfragt werden. Die hier hinterlegten Timstamps verwendet anacron, um zu entscheiden, ob ein Befehl auszuführen ist
 
-* 
+
 
 
