@@ -6,7 +6,7 @@
   3. nach dem Aufwachen aus dem Power-Down-Mode mit der in /etc/anacrontab angegebenen Verzögerung,  
   4. und nach Änderung des Power-Management-Status \(Batterie/Netzbetrieb\)  mit der in /etc/anacrontab angegebenen Verzögerung ausgeführt
 
-* wann anacron zuletzt ausgeführt wurde kann von den Dateien /var/spool/anacron/cron.\[daily, weekly, monthly\] erfragt werden. Die hier hinterlegten Timstamps verwendet anacron, um zu entscheiden, ob ein Befehl auszuführen ist
+* wann anacron zuletzt ausgeführt wurde kann von den Dateien /var/spool/anacron/cron.\[daily, weekly, monthly\] erfragt werden. Die hier hinterlegten Timstamps verwendet anacron, um zu entscheiden, ob ein Befehl gemäß der zeitlichen Einstellung auszuführen ist
 
 
 
