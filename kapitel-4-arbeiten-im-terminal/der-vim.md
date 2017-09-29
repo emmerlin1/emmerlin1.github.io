@@ -23,6 +23,7 @@ VIM kann unter Einbeziehung verschiedener Plugins auch als IDE genutzt werden:
 | :bn | Zeige nächsten offenen Buffer an |
 | :vs | Halbiere Fenster vertikal &rarr; 2 Editorfenster |
 | :vertical resize -80 | reduziere die Breite des aktuellen Editorfensters um 80 Zeichen|
+| Ctrl+w 80< | " |
 | :10,100 s/^/\#/ | Füge am Anfang der Zeilen 10-100 eine Raute \# ein \(substitute mit regular expression\) |
 
 #### Umschalten in den  Eingabemodus
