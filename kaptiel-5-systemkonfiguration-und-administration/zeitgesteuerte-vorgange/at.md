@@ -6,7 +6,7 @@
 **[terminal]
 **[prompt emmerlin@mypc:]**[path ~]**[delimiter  $ ]**[command at 02:00]
 warning: commands will be executed using /bin/sh
-**[prompt at>] tar
+**[prompt at>] **[command tar czf /mnt/backup.tgz $HOME]
 ```
 
 
