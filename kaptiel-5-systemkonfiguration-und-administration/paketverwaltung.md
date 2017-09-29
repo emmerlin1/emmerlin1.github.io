@@ -5,11 +5,12 @@
   * **dpkg** \(Debian PaketaManager\) und **apt** \(Advanced Package Tool\) bzw. **aptitude** für Debian/Ubuntu
   * **Portage** für Gentoo
   * **Portsystem **für BSD
-  
-  
+
 * Verschiedene GUI-Oberflächen sollen die Benutzung der Paketmanager erleichtern.
 
 * Bei den meisten Distributionen werden Abhängigkeiten unter den Paketen automatisch aufgelöst, somit läuft die Installation und das Upgrade von Paketen in der Regel vollautomatisch und ohne Konflikte ab.
+
+* Verschiedene Repositories stellen verschiedene 
 
 
 
