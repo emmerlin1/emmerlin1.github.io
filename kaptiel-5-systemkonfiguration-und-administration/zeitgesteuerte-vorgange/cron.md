@@ -4,6 +4,8 @@ Der cron-Dienst dient der Ausführung von wiederkehrenden Aufgaben. Die Bearbeit
 
 Die Crontab-Einträge werden in der Form Minute, Stunde, Tag, Monat, Wochentag, auszuführender Befehl eingefügt und anschließend gespeichert und der verwendete Editor geschlossen
 
+
+
 ```
 *     *     *     *     *  auszuführender Befehl
 -     -     -     -     -
