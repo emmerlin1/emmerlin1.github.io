@@ -9,10 +9,12 @@
 
 * Verschiedene GUI-Oberflächen sollen die Benutzung der Paketmanager erleichtern.
 
+
 * Bei den meisten Distributionen werden Abhängigkeiten unter den Paketen automatisch aufgelöst, somit läuft die Installation und das Upgrade von Paketen in der Regel vollautomatisch und ohne Konflikte ab.
 
+
 * Verschiedene Repositories \(Softwarearchive\) stellen lizenzrechtlich klassifizierte bzw. von verschiedenen Seiten unterstützte Pakettypen bereit:
-  * _**main**_:  offiziell unterstützte Pakete mit freier Lizenz
+  * main:  offiziell unterstützte Pakete mit freier Lizenz
   * _**restricted**_: offiziell unterstützte Pakete, die nicht einer freien Lizenz unterliegen
   * _**universe**_: von der Linux-Community unterstützte Pakete unter freier Lizenz
   * _**multiverse**_: nicht-freie Software
