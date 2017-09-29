@@ -17,5 +17,7 @@
 
 * Die in Crontab konfigurierten Einträge werden nur zu der gewünschten Zeit ausgeführt, wenn der Rechner zu dieser Zeit auch eingeschaltet ist. Soll der Befehl auf jeden Fall täglich, wöchentlich oder monatlich ausgeführt werden, ist [anacron↓](/kaptiel-5-systemkonfiguration-und-administration/zeitgesteuerte-vorgange/anacron.md) zu empfehlen.
 
+* Die sich (bei Ubuntu) in den Verzeichnissen /etc/cron.[daily, weekly, monthly] befindlichen ausführbaren Dateien (Dateinamen ohne Punkt!) werden von cron ausgeführt, wenn anacron nicht installiert ist, ansonsten eben von anacron
+
 
 
