@@ -45,6 +45,21 @@ VIM kann unter Einbeziehung verschiedener Plugins auch als IDE genutzt werden:
 | P | Füge Text der 'Zwischenablage' vor dem Cursor \(der Zeile\) ein |
 | y | Kopiere aktuelle Zeile in 'Zwischenablage' |
 
+#### Navigation
+
+| Zeichen | Bedeutung |
+| :--- | :--- |
+| k | eine Zeile aufwärts navigieren |
+| j | eine Zeile abwärts navigieren |
+| l | ein Zeichen nach rechts |
+| h | ein Zeichen nach links |
+| w | ein Wort nach rechts |
+| b | ein Wort nach links |
+| Ctrl+f | eine Bildschirmseite nach unten |
+| Ctrl+b | eine Bildschirmseite nach oben |
+| gg | an den Anfang des Dokuments |
+| GG | an das Ende des Dokuments |
+
 #### Arbeiten im Visual Mode \(Copy/Cut/Delete\)
 
 | Zeichen | Bedeutung |
