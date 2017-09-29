@@ -5,17 +5,15 @@ Der cron-Dienst dient der Ausführung von wiederkehrenden Aufgaben. Die Bearbeit
 Die Crontab-Einträge werden in der Form Minute, Stunde, Tag, Monat, Wochentag, auszuführender Befehl eingefügt und anschließend gespeichert und der verwendete Editor geschlossen
 
 ```
-*     *     *     *     *  Befehl der ausgeführt werden soll
+*     *     *     *     *  auszuführender Befehl
 -     -     -     -     -
 |     |     |     |     |
-|     |     |     |     +----- Wochentag (0 - 7) (Sonntag ist 0 und 7; oder Namen, siehe unten)
-|     |     |     +------- Monat (1 - 12)
-|     |     +--------- Tag (1 - 31)
-|     +----------- Stunde (0 - 23)
-+------------- Minute (0 - 59; oder Namen, siehe unten)
+|     |     |     |     +--- Wochentag (0 - 7) (Sonntag ist 0 und 7; oder Sun, Mon, Tue, Wed, Thu, Fri, Sat)
+|     |     |     +--------- Monat (1 - 12)
+|     |     +--------------- Tag (1 - 31)
+|     +--------------------- Stunde (0 - 23)
++--------------------------- Minute (0 - 59; */5 entspricht alle 5 Minuten)
 ```
-
-
 
 
 
