@@ -4,6 +4,8 @@ Der Editor vim \("vi" steht für "visual", improved vi\) ist ein bildschirmorien
 
 ![](/images/vi.png)
 
+VIM kann unter Einbeziehung verschiedener Plugins auch als IDE genutzt werden:
+[VIM preconfigured as IDE](https://github.com/xmementoit/vim-ide)
 #### ex-Befehle
 
 | Befehl | Bedeutung |
