@@ -5,10 +5,7 @@
 ```
 **[terminal]
 **[prompt emmerlin@mypc:]**[path ~]**[delimiter  $ ]**[command at 02:00]
-warning: commands will be executed using /bin/sh
-**[prompt at>] tar czf /mnt/backup.tgz $HOME
-**[prompt at>] echo "Backup fertig" | logger
-**[prompt at>] <Ctrl+d>
+
 ```
 
 
