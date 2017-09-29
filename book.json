@@ -10,11 +10,17 @@
 			"fontsettings",
 			"sharing",
 			"sectionx",
-			"katex"
+			"katex",
+			"terminal"
 		],
 		"pluginsConfig": {
 			"sectionx": {
 				"tag": "b"
+			},
+			"terminal": {
+				"copyButtons": false,
+				"fade": false,
+				"style": "classic"
 			}
 		}
 
