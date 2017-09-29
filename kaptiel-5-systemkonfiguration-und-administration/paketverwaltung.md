@@ -13,7 +13,13 @@
 
 * Verschiedene Repositories stellen lizenzrechtlich klassifizierte bzw. von verschiedenen Seiten unterstützte Pakettypen bereit:
 
-  * 
+  * **main**:  offiziell unterstützte Pakete mit freier Lizenz
+
+  * **restricted**: offiziell unterstützte Pakete, die nicht einer freien Lizenz unterliegen
+
+  * **universe**: von der Linux-Community unterstützte Pakete unter freier Lizenz
+
+  * **multiverse**: nicht-freie Software
 
 
 
