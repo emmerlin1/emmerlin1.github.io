@@ -4,8 +4,6 @@ Der cron-Dienst dient der Ausführung von wiederkehrenden Aufgaben. Die Bearbeit
 
 Die Crontab-Einträge werden in der Form Minute, Stunde, Tag, Monat, Wochentag, auszuführender Befehl eingefügt und anschließend gespeichert und der verwendete Editor geschlossen
 
-
-
 ```
 *     *     *     *     *  auszuführender Befehl
 -     -     -     -     -
@@ -18,4 +16,6 @@ Die Crontab-Einträge werden in der Form Minute, Stunde, Tag, Monat, Wochentag, 
 ```
 
 
+
+Die in Crontab konfigurierten Einträge werden nur zu der gewünschten Zeit ausgeführt, wenn der Rechner zu dieser Zeit eingeschaltet ist. Soll der Befehl auf jeden Fall täglich, wöchentlich, monatlich ausgeführt werden, ist [anacron.](/kaptiel-5-systemkonfiguration-und-administration/zeitgesteuerte-vorgange/anacron.md) zu empfehlen
 
