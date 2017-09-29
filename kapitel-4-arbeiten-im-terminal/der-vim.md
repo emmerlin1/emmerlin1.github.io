@@ -21,7 +21,8 @@ VIM kann unter Einbeziehung verschiedener Plugins auch als IDE genutzt werden:
 | :e filename | Lade Datei filename als Buffer, leerer Buffer falls Datei nicht vorhanden |
 | :buffers | Zeige offene Buffer an \(nummerierte Liste\) |
 | :bn | Zeige nächsten offenen Buffer an |
-| :vs | Halbiere Fenster vertikal |
+| :vs | Halbiere Fenster vertikal &rarr; 2 Editorfenster |
+| :vertical resize -80 | reduziere die Breite des aktuellen Editorfensters um 80 Zeichen|
 | :10,100 s/^/\#/ | Füge am Anfang der Zeilen 10-100 eine Raute \# ein \(substitute mit regular expression\) |
 
 #### Umschalten in den  Eingabemodus
@@ -50,6 +51,7 @@ VIM kann unter Einbeziehung verschiedener Plugins auch als IDE genutzt werden:
 | Zeichen | Bedeutung |
 | :--- | :--- |
 | k | eine Zeile aufwärts navigieren |
+| 5k | fünf Zeilen aufwärts navigieren |
 | j | eine Zeile abwärts navigieren |
 | l | ein Zeichen nach rechts |
 | h | ein Zeichen nach links |
