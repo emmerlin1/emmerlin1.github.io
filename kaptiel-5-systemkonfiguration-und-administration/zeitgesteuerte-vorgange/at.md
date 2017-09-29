@@ -1,6 +1,8 @@
 ### at
 
-* Das Kommando at dient dazu, beliebige Shell-Befehle zu einem **späteren** Zeitpunkt **einmalig** ausführen zu lassen.
+* Das Kommando **at** dient dazu, beliebige Shell-Befehle zu einem **späteren** Zeitpunkt **einmalig** ausführen zu lassen.
+
+* Das Warteschlangenkommando atq zeigt alle aktiven at-Prozesse an
 
 ```
 **[terminal]
