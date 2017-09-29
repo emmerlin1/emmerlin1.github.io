@@ -6,6 +6,7 @@
   * **Portage** für Gentoo
   * **Portsystem **für BSD
 
+
 * Verschiedene GUI-Oberflächen sollen die Benutzung der Paketmanager erleichtern.
 
 * Bei den meisten Distributionen werden Abhängigkeiten unter den Paketen automatisch aufgelöst, somit läuft die Installation und das Upgrade von Paketen in der Regel vollautomatisch und ohne Konflikte ab.
@@ -17,9 +18,11 @@
   * _**multiverse**_: nicht-freie Software
   * ...
 
+
 * Beispielhafte Abhandlung von updates mit apt:
   * sudo apt update
   * sudo apt upgrade
+
 
 * nicht-offizielle Repositories einbinden \(keine Unterstützung durch die Distribution\):
   * sudo add-apt-repository ppa:ubuntu-lxc/lxd-stable
