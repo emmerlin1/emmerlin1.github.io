@@ -8,7 +8,3 @@
 
 
 
-
-
-{% asciinema %}N8hP28XNc4icBcTUr7gc0i6rL{% endasciinema %}
-
