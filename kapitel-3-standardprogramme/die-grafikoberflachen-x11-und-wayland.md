@@ -13,4 +13,6 @@ Ein spezieller X11-Client kümmert sich dann um die richtige Reihenfolge der Aus
 
 * Der Nachfolger Wayland kümmert sich im wesentlichen nur noch um genau dieses Compositing und das Fenstermanagement, das Rendering (3D-Operationen) hingegen wird den Clients überlassen. Wayland ist somit sehr schlank und leicht erweiterbar.
 
+* Ein sog. Displaymanager wird häufig mit der grafischen Oberfläche zusammen gestartet und organisiert die verschiedenen Windowmanager und die zugehörige Authentifizierung
+
 
