@@ -18,7 +18,7 @@ Die Geräte werden dynamisch durch das **udev**-Subsystem eingerichtet. Der Inha
 
 Das NULL-Device \(/dev/null\) wirkt als 'Mülleimer', in dem dort abgelegte Daten entsorgt werden können, wie z.B. Standard- und Fehlerausgaben \(2=stderr,1=stdout\):  
 
-{% asciinema %}https://asciinema.org/a/N8hP28XNc4icBcTUr7gc0i6rL{% endasciinema %}
+{% asciinema %}N8hP28XNc4icBcTUr7gc0i6rL{% endasciinema %}
 
 <!--endsec-->
 
