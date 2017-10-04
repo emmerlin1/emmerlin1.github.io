@@ -1,6 +1,7 @@
 ### Lokalisierung und Internationalisierung
 
-* Umgebungsvariablen LANGUAGE und LANG
+* Umgebungsvariablen **LANGUAGE** und **LANG**
+
 * Ausgabe der aktuellen Spracheinstellungen über den Befehl **locale**:  
   LANG=de\_DE.UTF-8  
   LANGUAGE=de\_DE  
@@ -19,8 +20,8 @@
   LC\_ALL=
 
 * Feineinstellungen können in der Datei **/etc/default/locale** vorgenommen werden, z.B.:  
-  LANG=de_DE.UTF-8  
-  LC_MESSAGES=POSIX
+  LANG=de\_DE.UTF-8  
+  LC\_MESSAGES=POSIX
 
 
 
