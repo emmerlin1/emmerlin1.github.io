@@ -17,9 +17,6 @@
 Die Geräte werden dynamisch durch das **udev**-Subsystem eingerichtet. Der Inhalt des /dev-Verzeichnisses wird in der Regel bei jedem Neustart des Rechners neu generiert.
 
 Das NULL-Device \(/dev/null\) wirkt als 'Mülleimer', in dem dort abgelegte Daten entsorgt werden können, wie z.B. Standard- und Fehlerausgaben \(2=stderr,1=stdout\):  
-
-{% asciinema %}N8hP28XNc4icBcTUr7gc0i6rL{% endasciinema %}
-
 <!--endsec-->
 
 <!--sec data-title="/etc" data-id="section3" data-collapse=true data-show=true ces-->
@@ -108,3 +105,6 @@ Sich systembedingt verändernde Anwendungsdaten befinden sich im Verzeichnis **/
 Wichtige Unterverzeichnisse sind **adm** _(distributionsabhängige Administrationsdateien)_, **lock** _(Locking-Dateien zum Zugriffsschutz auf Devices)_, **log** _(Logging-Dateien), mail (E-Mail-Dateien)_, **run** _(Laufzeit-Dateien mit Prozess-IDs von manchen Systemdiensten)_ und **spool** _(zwischengespeicherte Druckdateien, News-Dateien etc.)_.
 
 <!--endsec-->
+
+{% asciinema %}N8hP28XNc4icBcTUr7gc0i6rL{% endasciinema %}
+
