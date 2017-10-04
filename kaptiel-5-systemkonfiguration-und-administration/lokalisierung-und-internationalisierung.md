@@ -24,8 +24,11 @@
   LC\_MESSAGES=POSIX
 
 * /etc/timezone enthält die Zeitzone, die über den folgenden Befehl geändert werden kann \(Ubuntu\):  
-  `sudo dpkg-reconfigure tzdata`
+  `sudo dpkg-reconfigure tzdata  
+  oder  
+  sudo timedatectl set-timezone Europe/Berlin`
 
-* 
+* verfügbare Zeitzonen sind in dem Verzeichnis **/usr/share/zoneinfo/** zu finden 
+
 
 
