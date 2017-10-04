@@ -19,9 +19,13 @@
   LC\_IDENTIFICATION="de\_DE.UTF-8"  
   LC\_ALL=
 
-* Feineinstellungen können in der Datei **/etc/default/locale** vorgenommen werden, z.B.:  
+* Feineinstellungen können in der Datei **/etc/default/locale** vorgenommen werden \(Ubuntu\), z.B.:  
   LANG=de\_DE.UTF-8  
   LC\_MESSAGES=POSIX
 
+* /etc/timezone enthält die Zeitzone, die über den folgenden Befehl geändert werden kann \(Ubuntu\):  
+  `sudo dpkg-reconfigure tzdata`
+
+* 
 
 
