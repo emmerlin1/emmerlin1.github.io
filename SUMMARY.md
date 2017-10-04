@@ -29,7 +29,7 @@
 * [Kapitel 3 - Standardprogramme](kapitel-3-standardprogramme.md)
   * [Systemutilities](kapitel-3-standardprogramme/systemutilies.md)
   * [Anwendungsprogramme](kapitel-3-standardprogramme/anwendungsprogramme.md)
-  * Die Grafikoberflächen X11 und Wayland
+  * [Die Grafikoberflächen X11 und Wayland](kapitel-3-standardprogramme/die-grafikoberflachen-x11-und-wayland.md)
 * [Kapitel 4 - Arbeiten im Terminal](kapitel-4-arbeiten-im-terminal.md)
   * [Aufgaben der Shell](kapitel-4-arbeiten-im-terminal/aufgaben-der-shell.md)
   * [Der vi\(m\)](kapitel-4-arbeiten-im-terminal/der-vim.md)
