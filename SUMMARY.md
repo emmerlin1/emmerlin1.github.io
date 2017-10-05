@@ -61,6 +61,8 @@
   * [Lokalisierung und Internationalisierung](kaptiel-5-systemkonfiguration-und-administration/lokalisierung-und-internationalisierung.md)
 * [Kapitel 6 - Einbindung ins Netzwerk](kapitel-6-einbindung-ins-netzwerk.md)
   * [Grundlagen von TCP/IP](kapitel-6-einbindung-ins-netzwerk/grundlagen-von-tcpip.md)
+    * [Adressierung](kapitel-6-einbindung-ins-netzwerk/grundlagen-von-tcpip/adressierung.md)
+    * [Masquerading und Portweiterleitung](kapitel-6-einbindung-ins-netzwerk/grundlagen-von-tcpip/masquerading-und-portweiterleitung.md)
   * [Linux - Netzkonfiguration](kapitel-6-einbindung-ins-netzwerk/linux-netzkonfiguration.md)
   * [Fehlersuche und Fehlerbehebung im Netz](kapitel-6-einbindung-ins-netzwerk/fehlersuche-und-fehlerbehebung-im-netz.md)
   * [Die Secure Shell ssh](kapitel-6-einbindung-ins-netzwerk/die-secure-shell-ssh.md)
