@@ -64,6 +64,8 @@
     * [Adressierung](kapitel-6-einbindung-ins-netzwerk/grundlagen-von-tcpip/adressierung.md)
     * [Masquerading und Portweiterleitung](kapitel-6-einbindung-ins-netzwerk/grundlagen-von-tcpip/masquerading-und-portweiterleitung.md)
   * [Linux - Netzkonfiguration](kapitel-6-einbindung-ins-netzwerk/linux-netzkonfiguration.md)
+    * [ip und ifconfig](kapitel-6-einbindung-ins-netzwerk/linux-netzkonfiguration/ip-und-ifconfig.md)
+    * [DNS und DHCP](kapitel-6-einbindung-ins-netzwerk/linux-netzkonfiguration/dns-und-dhcp.md)
   * [Fehlersuche und Fehlerbehebung im Netz](kapitel-6-einbindung-ins-netzwerk/fehlersuche-und-fehlerbehebung-im-netz.md)
   * [Die Secure Shell ssh](kapitel-6-einbindung-ins-netzwerk/die-secure-shell-ssh.md)
   * [Grundlagen von GnuPG](kapitel-6-einbindung-ins-netzwerk/grundlagen-von-gnupg.md)
