@@ -1,20 +1,12 @@
 ## Raspberry Pi und andere ARM-Gerätschaften
 
-[ARM-Board Architekturen](/kapitel-7-raspberry-pi-und-andere-arm-geratschaften/arm-board-architekturen.md) 
+[ARM-Board Architekturen&darr;](/kapitel-7-raspberry-pi-und-andere-arm-geratschaften/arm-board-architekturen.md)
 
-[Hardware-Bus-Systeme](/kapitel-7-raspberry-pi-und-andere-arm-geratschaften/hardware-bus-systeme.md)
+[Hardware-Bus-Systeme&darr;](/kapitel-7-raspberry-pi-und-andere-arm-geratschaften/hardware-bus-systeme.md)
 
-[Distributionen](/kapitel-7-raspberry-pi-und-andere-arm-geratschaften/distributionen.md)
-
-
+[Distributionen&darr;](/kapitel-7-raspberry-pi-und-andere-arm-geratschaften/distributionen.md)
 
 
 
-
-
-
-
-
-
-
+[Sicherheitskonzepte&uarr;](https://wiki.ubuntuusers.de/Sicherheitskonzepte/)
 
