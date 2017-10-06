@@ -13,7 +13,7 @@
 
 * Der Nachfolger [**Wayland&uarr;**](https://wayland.freedesktop.org/docs/pdf/Documentation-1.3-Wayland-en-US.pdf) kümmert sich im wesentlichen nur noch um genau dieses Compositing und das Fenstermanagement, das Rendering \(3D-Operationen\) hingegen wird den Clients überlassen. Wayland ist somit sehr schlank und leicht erweiterbar.
 
-* Ein sog. 'Displaymanager' wird häufig mit der grafischen Oberfläche zusammen gestartet und organisiert die verschiedenen 'Windowmanager' und die zugehörige Authentifizierung
+* Ein sog. '[**Displaymanager**&uarr;](https://wiki.ubuntuusers.de/Displaymanager/#Informationen-ueber-die-Displaymanager)' wird häufig mit der grafischen Oberfläche zusammen gestartet und organisiert die verschiedenen '[Windowmanager](https://de.wikipedia.org/wiki/Fenstermanager)' (wie KDE, Gnome, XFCE4, LXDE, MATE etc.) und die zugehörige Authentifizierung
 
 
 
