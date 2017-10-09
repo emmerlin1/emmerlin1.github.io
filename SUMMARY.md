@@ -78,7 +78,7 @@
   * [Hardware-Bus-Systeme](kapitel-7-raspberry-pi-und-andere-arm-geratschaften/hardware-bus-systeme.md)
   * [Distributionen](kapitel-7-raspberry-pi-und-andere-arm-geratschaften/distributionen.md)
 * [Kapitel 8 - Übungen](kapitel-8-ubungen.md)
-  * zu Kapitel 1
+  * [zu Kapitel 1](kapitel-8-ubungen/zu-kapitel-1.md)
   * zu Kapitel 2
   * zu Kapitel 3
   * zu Kapitel 4
