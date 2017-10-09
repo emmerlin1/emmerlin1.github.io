@@ -46,6 +46,7 @@ echo "Expected number of lines: `wc -l $in`"
 # restore stdin from filedescriptor 10
 # and close filedescriptor 10
 exec 0<&10 10<&-
+
 {%endace%}
 
 
