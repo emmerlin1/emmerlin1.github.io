@@ -32,7 +32,7 @@
   erstes Journaling-Dateisystem, das standardmäßig im Linux-Kernel enthalten war \(2.4.1\), Reiser4 ist Nachfolger von ReiserFS Version 3; Vorteile bei der Handhabung kleiner Dateien im Vergleich zu anderen Dateisystemen
 
 * **ZFS**  
-  128-Bit-Dateisystem; Ähnlichkeiten zu Btrfs, Einsatz im Server-Bereich und in Rechenzentren; 4GB freier Arbeitsspeicher empfohlen;[xxx](/kapitel-2-dateisysteme/beschreibung.md#boot)
+  128-Bit-Dateisystem; Ähnlichkeiten zu Btrfs, Einsatz im Server-Bereich und in Rechenzentren; 4GB freier Arbeitsspeicher empfohlen;
 
 
 
