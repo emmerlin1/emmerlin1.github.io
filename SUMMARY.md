@@ -79,7 +79,7 @@
   * [Distributionen](kapitel-7-raspberry-pi-und-andere-arm-geratschaften/distributionen.md)
 * [Kapitel 8 - Übungen](kapitel-8-ubungen.md)
   * [zu Kapitel 1](kapitel-8-ubungen/zu-kapitel-1.md)
-  * zu Kapitel 2
+  * [zu Kapitel 2](kapitel-8-ubungen/zu-kapitel-2.md)
   * zu Kapitel 3
   * zu Kapitel 4
   * zu Kapitel 5
