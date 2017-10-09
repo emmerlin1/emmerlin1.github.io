@@ -48,6 +48,7 @@ echo "Expected number of lines: `wc -l $in`"
 exec 0<&10 10<&-
 {%endace%}
 
+
 * Führen Sie die Datei mit '**./mybashscript.sh**' auf der Konsole aus. Versuchen Sie daraufhin die Datei in das Verzeichnis '**/usr/local/bin**' zu kopieren.
 
 
