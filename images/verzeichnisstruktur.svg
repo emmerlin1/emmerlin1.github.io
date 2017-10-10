@@ -3,6 +3,7 @@
 <svg width="31cm" height="39cm" viewBox="122 142 619 762" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs/>
   <g id="Hintergrund">
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1.02819; stroke-dasharray: 3.29022; stroke: #000000" x1="205.386" y1="493.527" x2="428.499" y2="635.067"/>
     <g>
       <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 0; stroke-width: 0.02; stroke: #ffffff" x="390.767" y="594.997" width="123.383" height="20.5638" rx="0" ry="0"/>
       <rect style="fill: none; stroke-opacity: 1; stroke-width: 2.05638; stroke: #000000" x="390.767" y="594.997" width="123.383" height="20.5638" rx="0" ry="0"/>
@@ -25,7 +26,6 @@
     <line style="fill: none; stroke-opacity: 1; stroke-width: 1.02819; stroke-dasharray: 3.29022; stroke: #000000" x1="256.028" y1="483.25" x2="389.677" y2="483.25"/>
     <line style="fill: none; stroke-opacity: 1; stroke-width: 1.02819; stroke-dasharray: 3.29022; stroke: #000000" x1="256.028" y1="493.694" x2="389.677" y2="514.577"/>
     <line style="fill: none; stroke-opacity: 1; stroke-width: 1.02819; stroke-dasharray: 3.29022; stroke: #000000" x1="225.303" y1="494.537" x2="416.289" y2="554.219"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 1.02819; stroke-dasharray: 3.29022; stroke: #000000" x1="205.386" y1="493.527" x2="428.499" y2="635.067"/>
     <line style="fill: none; stroke-opacity: 1; stroke-width: 1.02819; stroke-dasharray: 3.29022; stroke: #000000" x1="202.25" y1="493.527" x2="434.348" y2="676.114"/>
     <line style="fill: none; stroke-opacity: 1; stroke-width: 1.02819; stroke-dasharray: 3.29022; stroke: #000000" x1="200.126" y1="493.539" x2="437.93" y2="717.219"/>
     <line style="fill: none; stroke-opacity: 1; stroke-width: 1.02819; stroke-dasharray: 3.29022; stroke: #000000" x1="198.581" y1="493.538" x2="440.452" y2="758.45"/>
