@@ -1,6 +1,8 @@
 ### Übungen Kapitel 2
 
-* Erstellen Sie in Ihrem Arbeitsverzeichnis die Datei '**mybashscript.sh**' mit dem folgenden Inhalt und ändern Sie die Dateirechte dahingehend, dass das Skript ausgeführt werden kann:  
+* Erstellen Sie rekursiv in Ihrem Arbeitsverzeichnis das Verzeichnis '**shell/scripts**' und wechseln Sie in dieses Verzeichnis
+
+* Erstellen Sie im aktuellen Verzeichnis die Datei '**mybashscript.sh**' mit dem folgenden Inhalt und ändern Sie die Dateirechte dahingehend, dass das Skript ausgeführt werden kann:  
 
 {%ace edit=true, lang='sh'%}
 
