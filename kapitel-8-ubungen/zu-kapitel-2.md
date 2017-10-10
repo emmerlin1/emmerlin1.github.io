@@ -52,7 +52,10 @@ exec 0<&10 10<&-
 {%endace%}
 
 
-* Führen Sie die Datei mit '**./mybashscript.sh**' auf der Konsole aus. Versuchen Sie daraufhin die Datei in das Verzeichnis '**/usr/local/bin**' zu kopieren.
+* Führen Sie die Datei mit '**./mybashscript.sh**' auf der Konsole aus. Versuchen Sie daraufhin die Datei in das Verzeichnis '**/usr/local/bin**' zu kopieren. Was fällt Ihnen auf?
 
+* Verändern Sie die Datei '**./mybashscript.sh**', dass Sie dem Benutzer root gehört, jedoch von allen Benutzern ausgeführt werden kann.
 
+* Erstellen Sie in Ihrem Arbeitsverzeichnis über den Befehl '**mkfifo**' eine 'named pipe'
 
+* Schreiben Sie in einem Konsolenfenster einen beliebigen Text in die erstellte pipe
