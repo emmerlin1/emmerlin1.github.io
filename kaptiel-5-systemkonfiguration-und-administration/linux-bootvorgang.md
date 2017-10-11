@@ -1,6 +1,6 @@
 ### Linux Bootvorgang
 
-* Im Verlauf des Bootvorgangs werden verschiedene '**runlevels**' durchlaufen
+* Im Verlauf des Bootvorgangs wurden unter SysV-Init verschiedene '**runlevels**' durchlaufen
 
   * **0: **
     Shutdown-level
@@ -19,7 +19,8 @@
   * **6:** 
     Reboot, Netzverbindungen werden geschlossen, Dateipuffer geschrieben und Mounts ausgehängt
 
-* Systemd hat mittlerweile SysV-Init/Upstart als Systemstart-Mechanismus abgelöst
+* Systemd hat mittlerweile SysV-Init/Upstart als Systemstart-Mechanismus abgelöst und besitzt nur noch einen Kompatibilitätslayer. [Man-Page runlevel](https://www.freedesktop.org/software/systemd/man/runlevel.html):
+"Runlevels" are an obsolete way to start and stop groups of services used in SysV init. systemd provides a compatibility layer that maps runlevels to targets, and associated binaries like runlevel. Nevertheless, only one runlevel can be "active" at a given time, while systemd can activate multiple targets concurrently, so the mapping to runlevels is confusing and only approximate. Runlevels should not be used in new code, and are mostly useful as a shorthand way to refer the matching systemd targets in kernel boot parameters.
 
 * Systemd ist der erste Prozess, der gestartet wird \(PID 1\)
 
