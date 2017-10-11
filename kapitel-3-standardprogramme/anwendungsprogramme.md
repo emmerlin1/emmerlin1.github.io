@@ -9,8 +9,8 @@
 | _bluefish, geany, kate, gedit_ | Editor für Programmierer |
 | _cheese_ | Webcam-Anwendung für Bild-/Videoaufnahme |
 | _clonezilla_ | Klonen von Festplatten/Partitionen |
-| dia, umbrello, ditaa, kivio | Erstellung von Diagrammen |
-| digiKam, F-Spot, Shotwell, xnview | Bildverwaltungssoftware |
+| _dia, umbrello, ditaa, kivio_ | Erstellung von Diagrammen |
+| _digiKam, F-Spot, Shotwell, xnview_ | Bildverwaltungssoftware |
 | _docker, lxc_ | Container-Virtualisierung |
 | _dolphin, thunar, pcmanfm_ | Dateimanager |
 | _eclipse, netbeans, qtcreator, kdevelop_ | IDE für verschiedene Programmiersprachen |

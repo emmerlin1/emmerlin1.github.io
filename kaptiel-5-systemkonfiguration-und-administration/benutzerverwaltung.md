@@ -2,7 +2,7 @@
 
 * Unter Linux werden die Arbeitsverzeichnisse der angelegten Benutzer unter **/home/&lt;benutzername&gt;** angelegt, der Systemadministrator root erhält sein Arbeitsverzeichnis direkt unter **/root**
 
-* Bei einigen Distributionen wie Ubuntu und Konsorten ist der root-User geschützt und kann dessen Administrationsgewalt nur über einen Standarduser mit den entsprechenden Berechtigungen erhalten; dies erfolgt nach dem Login des Standardusers über den Befehl 'sudo', der geschützten Kommandos voran gestellt wird, z.B.** 'sudo apt update'**
+* Bei einigen Distributionen wie Ubuntu und Konsorten ist der root-User geschützt; man kann dessen Administrationsgewalt nur über einen Standarduser mit den entsprechenden Berechtigungen erhalten; dies erfolgt nach dem Login des Standardusers (für ubuntu) über den Befehl 'sudo', der geschützten Kommandos voran gestellt wird, z.B.** 'sudo apt update'**
 
 * Die Dateien in denen Benutzer, Gruppen und Passwörter hinterlegt werden lauten **/etc/passwd**, **/etc/group**, **/etc/shadow** und **/etc/gshadow**
 

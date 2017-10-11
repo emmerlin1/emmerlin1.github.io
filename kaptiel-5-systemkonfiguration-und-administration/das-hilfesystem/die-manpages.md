@@ -35,7 +35,7 @@ Die man-pages befinden sich unter dem Verzeichnis **/usr/share/man**, man-pages 
 | 9 | Kernel-Funktionen |
 | n | Benutzerdefinierte Kommandos |
 
-Über den Befehl 'man -k &lt;Begriff&gt;' oder **'apropos &lt;Begriff&gt;' **erfährt man, in welchen Sektionen etwas zu dem jeweiligen Begriff zu finden ist \(z.B. **man -k printf**\)
+Über den Befehl '**man -k &lt;Begriff&gt;**' oder **'apropos &lt;Begriff&gt;' **erfährt man, in welchen Sektionen etwas zu dem jeweiligen Begriff zu finden ist \(z.B. **man -k printf**\)
 
 Aufruf einer man-page mittels '**man &lt;Begriff&gt;**', Beendigung mit der Taste '**q**'
 

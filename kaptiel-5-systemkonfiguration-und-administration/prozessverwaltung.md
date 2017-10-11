@@ -1,6 +1,6 @@
 ### Prozessverwaltung
 
-* Prozesse können die Prozesszustände 'runnable', operating und sleeping besitzen.
+* Prozesse können die Prozesszustände 'runnable', 'operating' und 'sleeping' besitzen.
 
 * Wird ein **'Kindprozess'** beendet und wurde dessen Endestatus noch nicht vom **'Elternprozess'** abgefragt, so wird er als sog. **Zombieprozess** vom Betriebssystem verwaltet
 
