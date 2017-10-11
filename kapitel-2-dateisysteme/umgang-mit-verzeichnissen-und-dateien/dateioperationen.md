@@ -21,5 +21,15 @@
 | **tail** Textdatei | Ende einer Textdatei ausgeben |
 | **touch** Datei | Ändert den Zeitstempel von Dateien. Wenn eine Datei nicht existiert, wird sie mit einer Groesse von 0 Byte angelegt |
 
+### Umleitung
+
+| Befehl | Bedeutung | Beispiel |
+| :--- | :--- | :--- |
+| &gt; | Umleitung der Standardausgabe z.B. in eine Datei | ls &gt; verzeichnis.txt|
+| &gt;&gt; | Anhängen der Standardausgabe z.B. an den Inhalt einer Datei | ls &gt;&gt; verzeichnis.txt|
+
+
+
+
 
 
