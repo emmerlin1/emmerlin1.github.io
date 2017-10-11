@@ -33,7 +33,7 @@
 | exec 9&gt; filename| Umleitung aller nachfolgenden Ausgaben, z.B. über einen neuen Kanal in Datei schreiben | exec 9&gt; mylogfile; echo 'hello' &gt;&9 |
 | exec 9&gt;&- | explizites Schließen eines Umleitungskanals |  |
 | &lt; | Umleitung der **Standardeingabe** z.B. aus einer Datei lesen | grep &lt; /var/log/syslog |
-| <code>&#124;</code> | Verwendung der **Standardausgabe** eines Kommandos als Eingabe für das folgende Kommando | <code>cat /var/log/syslog &#124; grep 'kernel'</code> |
+| <code>&#124;</code> | Verwendung der **Standardausgabe** eines Kommandos als Eingabe für das folgende Kommando | <code>cat /var/log/syslog &#124; grep -v 'kernel'</code> |
 | tee | Verdoppelung der Ausgabe → in eine Datei **und** auf stdout schreiben | <code>ls &#124; tee verzeichnis.txt &#124; grep '.png$'</code> |
 
 
