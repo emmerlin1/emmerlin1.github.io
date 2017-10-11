@@ -25,8 +25,12 @@
 
 | Befehl | Bedeutung | Beispiel |
 | :--- | :--- | :--- |
-| &gt; | Umleitung der Standardausgabe z.B. in eine Datei | ls &gt; verzeichnis.txt|
+| &gt; | Umleitung der **Standardausgabe** z.B. in eine Datei | ls &gt; verzeichnis.txt|
 | &gt;&gt; | Anhängen der Standardausgabe z.B. an den Inhalt einer Datei | ls &gt;&gt; verzeichnis.txt|
+| 2&gt; | Umleitung der **Fehlerausgabe** z.B. in den 'Mülleimer' | ls 2&gt; /dev/null|
+| &&gt; | Umleitung der Standardausgabe **und** Fehlerausgabe z.B. in eine Datei | ls &&gt; verzeichnis.txt|
+| &gt; | Umleitung der Standardausgabe z.B. in eine Datei | ls &gt; verzeichnis.txt|
+
 
 
 
