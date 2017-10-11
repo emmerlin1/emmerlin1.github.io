@@ -1,5 +1,12 @@
 ### Linux Bootvorgang
 
+* Im Verlauf des Bootvorgangs werden verschiedene '**runlevels**' durchlaufen
+  * 0: 
+  Shutdown-level
+  * S: Single-User-Runlevel (niedrigster Level für Wartungsarbeiten)
+  * 1: Single-User Runlevel, oft identisch zu 'S'
+  * 2: Lokaler Mehrnutzerbetrieb ohne Netzwerk mit lokalen Ressourcen, manchmal wird auch Netzwerk konfiguriert
+
 * Systemd hat mittlerweile SysV-Init/Upstart als Systemstart-Mechanismus abgelöst
 
 * Systemd ist der erste Prozess, der gestartet wird \(PID 1\)
