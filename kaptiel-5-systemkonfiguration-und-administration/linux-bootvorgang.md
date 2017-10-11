@@ -6,6 +6,10 @@
   * S: Single-User-Runlevel (niedrigster Level für Wartungsarbeiten)
   * 1: Single-User Runlevel, oft identisch zu 'S'
   * 2: Lokaler Mehrnutzerbetrieb ohne Netzwerk mit lokalen Ressourcen, manchmal wird auch Netzwerk konfiguriert
+  * 3: Netzwerkbetrieb, über das Netzwerk erreichbare Ressourcen sind verfügbar
+  * 4: üblicherweise nicht verwendet, kann aber für Dienste genutzt werden
+  * 5: zusätzliche Bereitstellung der grafischen Oberfläche
+  * 6: Reboot, Netzverbindungen werden geschlossen, Dateipuffer geschrieben und Mounts ausgehängt
 
 * Systemd hat mittlerweile SysV-Init/Upstart als Systemstart-Mechanismus abgelöst
 
