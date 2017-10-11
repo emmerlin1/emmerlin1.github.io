@@ -46,7 +46,8 @@
 | **sleep** | Pausieren eines Prozesses | sleep 10 |
 | **sort** | Zeilenweise Sortierung von Standardausgaben/Textdateien | <code>ls -s &#124; sort -n</code> |
 | **split** | Aufteilung von großen Dateien auf mehrere kleinere | split -b 700M archiv.tar split-archiv.tar. |
-| **sync** | Explizites Schreiben von im Speicher gehaltenen Daten auf die Platte | sync |
+| **sync** | Explizites Schreiben von im Speicher gehaltener Daten auf die Platte | sync |
+| **tail** | Ausgabe der letzten Zeilen einer Datei | tail -20 myfile |
 | **tee** | Verdopplung der Ausgabe - in Textdatei und auf Standardausgabe | <code>ls -la &#124; tee alle\_dateien.txt</code> |
 | **top** | Dynamische Anzeige der aktuell auf dem System laufenden Prozesse \(Alternative htop\) und des Ressourcenverbrauchs | top |
 | **truncate** | Die Größe einer Datei auf die angegebene Größe verkleinern/-größern; abgeschnittene Daten gehen verloren; nicht existierende Dateien werden erstellt | truncate -s 100g /tmp/SWAPDATEI |
