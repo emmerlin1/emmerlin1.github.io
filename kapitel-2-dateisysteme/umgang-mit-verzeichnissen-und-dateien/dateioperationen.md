@@ -30,6 +30,9 @@
 | 2&gt; | Umleitung der **Fehlerausgabe** z.B. in den 'Mülleimer' | ls 2&gt; /dev/null|
 | &&gt; | Umleitung der Standardausgabe **und** Fehlerausgabe z.B. in eine Datei | ls &&gt; verzeichnis.txt|
 | 2&gt;&1 | Umleitung der Fehlerausgabe dorthin wo auch die Standardausgabe hin ausgegeben wird z.B. in eine Datei | ls &gt; verzeichnis.txt 2&gt;&1 |
+| exec 9&gt; | Umleitung aller nachfolgenden Ausgaben, z.B. über einen neuen Kanal in Datei schreiben | exec 9> mylogfile; echo 'hello' >&9|
+| exec 9&gt;&- | explizites Schließen eines Umleitungskanals | |
+| &lt; | Umleitung der **Standardeingabe** z.B. aus einer Datei lesen| grep &lt; /var/log/syslog |
 
 
 
