@@ -33,6 +33,8 @@
 | exec 9&gt; | Umleitung aller nachfolgenden Ausgaben, z.B. über einen neuen Kanal in Datei schreiben | exec 9> mylogfile; echo 'hello' >&9|
 | exec 9&gt;&- | explizites Schließen eines Umleitungskanals | |
 | &lt; | Umleitung der **Standardeingabe** z.B. aus einer Datei lesen| grep &lt; /var/log/syslog |
+| tee | Verdoppelung der Ausgabe &rarr; in eine Datei **und** auf stdout schreiben | ls &#124; verzeichnis.txt &#124; grep '\.png$'|
+
 
 
 
