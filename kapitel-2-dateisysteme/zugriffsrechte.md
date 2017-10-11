@@ -17,3 +17,6 @@
 
 ![](/images/file_permissions.png)
 
+![](/images/virtual_file_system.jpg)
+
+![](/images/character_device.gif)
