@@ -1,11 +1,16 @@
 ### Shellfunktionen
 
 * Häufig benutzte Programmsequenzen lassen sich als separate Shellskripte abspeichern und dann entsprechend aufrufen; eine Alternative hierzu sind Shellfunktionen
+
 {%ace edit=false, lang='sh'%}
 
 #!/bin/bash
 
 function wievieledateien () {
+	zaehlpfad="$1"
+	for file in "$zaehlpfad"/* ; do 
+		(( anzahl++ ))
+	done
 	echo "Es befinden sich $anzahl Dateien und Ordner in $zaehlpfad"
 }
 wievieledateien /home/pingu
