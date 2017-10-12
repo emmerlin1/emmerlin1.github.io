@@ -14,6 +14,7 @@ wievieledateien() {
 }
 wievieledateien /home/pingu
 wievieledateien /home/edit
+
 {%endace%}
 
 
