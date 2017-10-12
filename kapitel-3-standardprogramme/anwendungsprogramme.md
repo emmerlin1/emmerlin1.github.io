@@ -3,7 +3,7 @@
 | Programm | Funktionalität |
 | :--- | :--- |
 | _amarok_ | Audiostreams komfortabel abspielen |
-| _ark_ | Archivformate verwalten \(tar, gzip, bzip2, zip, 7z, rar, lha |
+| _ark_ | Archivformate verwalten \(tar, gzip, bzip2, zip, 7z, rar, lha\) |
 | _audacity_ | Audio-Editor/-Recorder |
 | _blender_ | 3D-Renderings, Animierte Filme, Visuelle Effekte, Videoschnitt |
 | _bluefish, geany, kate, gedit_ | Editor für Programmierer |
