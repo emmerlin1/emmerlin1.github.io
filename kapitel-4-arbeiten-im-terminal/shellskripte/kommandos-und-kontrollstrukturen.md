@@ -23,7 +23,7 @@
   * **test $x -lt 8**  
     die Operatoren -lt \(less\), -gt \(greater\), -ge \(greater/equal\), -le \(less/equal\), -eq \(equal\) oder -ne \(not equal\) wenden den entsprechenden Vergleich auf  das Zahl-Argument \($x\) an.
 
-  * **test "$x" \&gt; 10**  
+  * **test "$x" &gt; 10**  
     Testet, ob das erste Argument \(Zeichenkette $x\) lexikographisch im Wörterbuch hinter der zweiten \(hier die 10\) steht
 
   * **test -r "$x"**  
@@ -35,7 +35,8 @@
   * **\[ "$x" \]**  
     Kurzform von 'test "$x"'
 
-* **if-Verzweigung**  
+* **if-Verzweigung**
+
   ```
   if <condition>  
     then  
@@ -47,7 +48,8 @@
     fi
   ```
 
-* **case-Mehrfachalternative **\(Beispiel sh. Verzeichnis init.d**\)**  
+* **case-Mehrfachalternative **\(Beispiel sh. Verzeichnis init.d**\)**
+
   ```
   case <command> in  
      <pattern1>)  
@@ -59,8 +61,9 @@
      ...  
   esac;
   ```
-  
-* **for-Schleife**  
+
+* **for-Schleife**
+
   ```
   for <variable> in <Liste>  
     do  
@@ -68,7 +71,8 @@
     done
   ```
 
-* **while/until**  
+* **while/until**
+
   ```
   while <condition>  
   do  
@@ -76,16 +80,14 @@
   done
   ```
 
-* **until/while**  
+* **until/while**
+
   ```
   until <condition>  
   do  
      <command>  
   done
   ```
-
-
-
 
 
 
