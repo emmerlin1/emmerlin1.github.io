@@ -5,8 +5,7 @@
 
 #!/bin/bash
 
-function wievieledateien() {
-
+function wievieledateien () {
 	echo "Es befinden sich $anzahl Dateien und Ordner in $zaehlpfad"
 }
 wievieledateien /home/pingu
