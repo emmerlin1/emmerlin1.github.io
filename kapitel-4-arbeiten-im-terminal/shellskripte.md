@@ -14,5 +14,5 @@ Shellskripte können, nachdem sie mittels' chmod +x skriptname.sh' ausführbar g
 
 Shellskripte können komplexe Vorgänge beinhalten, die dann auch entsprechend über das Kommentarzeichen '\#' umfangreich dokumentiert werden sollten. Größere Skripte sollten mit einem Kommentarblock anfangen, der beschreibt, wie das Skript heißt, wie es aufgerufen werden muss, was es tun soll, Author usw.
 
-Einen Bash-Guide für Anfänger ist [hier&uarr;](https://wiki.ubuntuusers.de/Shell/Bash-Skripting-Guide_f%C3%BCr_Anf%C3%A4nger/) zu finden.
+Ein Bash-Guide für Anfänger ist [hier&uarr;](https://wiki.ubuntuusers.de/Shell/Bash-Skripting-Guide_f%C3%BCr_Anf%C3%A4nger/) zu finden.
 
