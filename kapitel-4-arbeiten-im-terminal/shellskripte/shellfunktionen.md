@@ -7,13 +7,18 @@
 #!/bin/bash
 
 function wievieledateien () {
-	zaehlpfad="$1"
-	for file in "$zaehlpfad"/* ; do 
-		(( anzahl++ ))
-	done
-	echo "Es befinden sich $anzahl Dateien und Ordner in $zaehlpfad"
+    if [ -d $1 ]
+    then
+      zaehlpfad="$1"
+      for file in "$zaehlpfad"/* ; do 
+        (( anzahl++ ))
+      done
+      echo "Es befinden sich $anzahl Dateien und Ordner in $zaehlpfad"
+    else
+      echo "$1 not existing"
+    fi
 }
-wievieledateien /home/pingu
+wievieledateien /home/emmerlin/
 wievieledateien /home/edit
 
 {%endace%}
