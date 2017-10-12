@@ -2,11 +2,17 @@
 
 * Häufig benutzte Programmsequenzen lassen sich als separate Shellskripte abspeichern und dann entsprechend aufrufen; eine Alternative hierzu sind Shellfunktionen
 {%ace edit=true, lang='sh'%}
-#!/bin/bash  
-function sortfkt () {  
-   sort -n -r  
-}  
-ls -l | sort-num-rev
+#!/bin/bash
+
+wievieledateien() {
+	zaehlpfad="$1"
+	for file in "$zaehlpfad"/* ; do 
+		(( anzahl++ ))
+	done
+	echo "Es befinden sich $anzahl Dateien und Ordner in $zaehlpfad"
+}
+wievieledateien /home/pingu
+wievieledateien /home/edit
 {%endace%}
 
 
