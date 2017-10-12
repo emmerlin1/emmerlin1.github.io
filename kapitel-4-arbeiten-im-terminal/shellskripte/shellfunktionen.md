@@ -5,7 +5,7 @@
 
 #!/bin/bash
 
-wievieledateien() {
+function wievieledateien() {
 	zaehlpfad="$1"
 	for file in "$zaehlpfad"/* ; do 
 		(( anzahl++ ))
