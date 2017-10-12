@@ -5,10 +5,10 @@
   dessen Ausgabe wird nach dem Wort "shell" durchsucht \(grep\), wird es gefunden, dann summiert der Befehl wc diese Zeile auf;  
   d.h. wir erhalten die **Gesamtanzahl** von Shellskripten in den beiden durchsuchten Verzeichnissen
 
-* `cut -d ':' -f 1,3 /etc/passwd \| sort -t ':' -k2n - \| tr ':' '\t'`  
+* `cut -d ':' -f 1,3 /etc/passwd | sort -t ':' -k2n - | tr ':' '\t'`  
   extrahiere den Usernamen und die UID der in /etc/passwd vorhandenen User
 
-* `tr -c a-zA-Z '\n' &lt; Readme1.txt  \| sed '/^$/d' \| sort \| uniq -i -c`  
+* `tr -c a-zA-Z '\n' < Readme1.txt  | sed '/^$/d' | sort | uniq -i -c`  
   Zähle in einer Textdatei, wie oft die einzelnen Worte dort vorkommen
 
 * `sort m1.txt | join - m2.txt`  
