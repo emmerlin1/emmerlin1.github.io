@@ -17,7 +17,7 @@
 | **env** | Steuerung/Anzeige der Umgebungsvariablen | env VAR1="blahblah" command\_to\_run command\_options |
 | **export** | Definiert und verwaltet Umgebungsvariable | export var="myvalue" |
 | **fdisk** | Plattenpartitionierungstool | fdisk /dev/sda |
-| **fg** | Holen eines Prozesses in den Vordergrund | fg %1 |
+| **fg** | Holen eines Prozesses in den Vordergrund (**Ctrl+z**, **jobs**) | fg %1 |
 | **grep** | Durchsuchen von Dateien nach Textstücken | grep -r -i "include" ./ |
 | **hash** | Zeigt und verwaltet verwendete Bash-Kommandos | hash |
 | **jobs** | Zeigt die Hintergrundprozesse an | jobs |
