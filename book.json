@@ -11,7 +11,8 @@
 			"sharing",
 			"sectionx",
 			"katex",
-			"terminal"
+			"terminal",
+			"heading-anchors"
 		],
 		"pluginsConfig": {
 			"sectionx": {
