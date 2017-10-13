@@ -1,8 +1,4 @@
 /* CSS for website */
-ul li ul {
-	margin-bottom: 50px;
-}
-
 .ace {
 	margin-bottom: 20px;
 }
@@ -194,4 +190,8 @@ img {
 																				.book .book-summary ul.summary > li[data-level="1.2"] > ul > li > a {
 																					  font-weight: bold;
 																				  }
+ul li ul {
+	margin-bottom: 50px;
+}
+
 
