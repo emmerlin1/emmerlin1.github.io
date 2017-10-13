@@ -4,7 +4,7 @@ Mittels grep, sed, awk, sort, cut und regulären Ausdrücken können Textausgabe
 
 #### regular expressions
 
-Eine kurze Zusammenfassung regulärer Ausdrücke ist beispielsweise [hier↑](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/pdf_bw/) zu finden. Eine vollständige Referenz ist ebenfalls [verfügbar↑](https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf).
+Eine kurze Zusammenfassung regulärer Ausdrücke ist beispielsweise [hier↑](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/pdf_bw/) zu finden. Eine vollständige Referenz ist ebenfalls [verfügbar↑](https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf) und auch mindestens ein deutsches [Tutorial](https://www.danielfett.de/de/tutorials/tutorial-regulare-ausdrucke/). 
 
 Im Folgenden sind wichtige Ausdrücke aufgeführt:
 
