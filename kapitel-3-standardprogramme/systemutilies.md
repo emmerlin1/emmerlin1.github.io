@@ -51,8 +51,9 @@
 | **tail** | Ausgabe der letzten Zeilen einer Datei | tail -20 myfile |
 | **tee** | Verdopplung der Ausgabe - in Textdatei und auf Standardausgabe | <code>ls -la &#124; tee alle\_dateien.txt</code> |
 | **top** | Dynamische Anzeige der aktuell auf dem System laufenden Prozesse \(Alternative htop\) und des Ressourcenverbrauchs | top |
+| **touch** | Erstellung einer leeren Datei | touch myfile.txt |
 | **truncate** | Die Größe einer Datei auf die angegebene Größe verkleinern/-größern; abgeschnittene Daten gehen verloren; nicht existierende Dateien werden erstellt | truncate -s 100g /tmp/SWAPDATEI |
-| **umask** | Anzeige/Änderung der aktuellen Maskierung der Zugriffsrechte einer neuen Datei | touch 0022 |
+| **umask** | Anzeige/Änderung der aktuellen Maskierung der Zugriffsrechte einer neuen Datei | umask 0022 |
 | **unalias** | Aliasnamen löschen | unalias ll |
 | **uname** | Ausgabe bestimmter Systeminfos wie Kernelversion/-Variante, Hostname, Prozessortyp, Betriebssystem | uname -a |
 | **unset** | löscht Shell- oder Umgebungsvariable | unset var |
