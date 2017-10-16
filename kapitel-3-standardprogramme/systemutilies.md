@@ -45,6 +45,7 @@
 | **sed** | Nicht-interaktiver Texteditor für Konsole oder Shell-Skripte | sed -e '/debug/d'  log |
 | **sleep** | Pausieren eines Prozesses | sleep 10 |
 | **sort** | Zeilenweise Sortierung von Standardausgaben/Textdateien | <code>ls -s &#124; sort -n</code> |
+| **source** | Einbinden von in Dateien hinterlegter Funktionalität in die aktuelle Shell | `source myfunctions.sh` |
 | **split** | Aufteilung von großen Dateien auf mehrere kleinere | split -b 700M archiv.tar split-archiv.tar. |
 | **sync** | Explizites Schreiben von im Speicher gehaltener Daten auf die Platte | sync |
 | **tail** | Ausgabe der letzten Zeilen einer Datei | tail -20 myfile |
