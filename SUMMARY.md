@@ -80,10 +80,12 @@
 * [Kapitel 8 - Übungen](kapitel-8-ubungen.md)
   * [zu Kapitel 1](kapitel-8-ubungen/zu-kapitel-1.md)
   * [zu Kapitel 2](kapitel-8-ubungen/zu-kapitel-2.md)
-    * [A1](kapitel-8-ubungen/zu-kapitel-2/a1.md)
-    * [A2](kapitel-8-ubungen/zu-kapitel-2/a2.md)
-    * [A3](kapitel-8-ubungen/zu-kapitel-2/a3.md)
-  * zu Kapitel 3
+    * [A2.1](kapitel-8-ubungen/zu-kapitel-2/a1.md)
+    * [A2.2](kapitel-8-ubungen/zu-kapitel-2/a2.md)
+    * [A2.3](kapitel-8-ubungen/zu-kapitel-2/a3.md)
+  * [zu Kapitel 3](kapitel-8-ubungen/zu-kapitel-3.md)
+    * [A3.1](kapitel-8-ubungen/zu-kapitel-3/a31.md)
+    * [A3.2](kapitel-8-ubungen/zu-kapitel-3/a32.md)
   * zu Kapitel 4
   * zu Kapitel 5
   * zu Kapitel 6
