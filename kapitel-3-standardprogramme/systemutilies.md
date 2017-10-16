@@ -15,7 +15,7 @@
 | **diff** | Vergleich der Inhalte zweier Dateien/Ordner | diff file1 file2 |
 | **echo** | Zeilenweise Anzeige von Zeichenketten/Variablen auf dem Standardausgabegerät | echo 'Hello Linux World!' |
 | **env** | Steuerung/Anzeige der Umgebungsvariablen | env VAR1="blahblah" command\_to\_run command\_options |
-| **export** | Definiert und verwaltet Umgebungsvariable | export var="myvalue" |
+| **export** | Definiert und verwaltet Umgebungsvariable; zusätzliche persistente Umgebungsvariablen werden im Verzeichnis /etc/profile.d in Form von shell-Dateien hinterlegt | export var="myvalue" |
 | **fdisk** | Plattenpartitionierungstool | fdisk /dev/sda |
 | **fg** | Holen eines Prozesses in den Vordergrund (**Ctrl+z**, **jobs**) | fg %1 |
 | **grep** | Durchsuchen von Dateien nach Textstücken | grep -r -i "include" ./ |
