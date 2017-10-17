@@ -34,6 +34,8 @@
 
   * **\[ "$x" \]**  
     Kurzform von 'test "$x"'
+    
+  * [Weitere Test-Operatoren](http://tldp.org/LDP/abs/html/fto.html)
 
 * **if-Verzweigung**
 
