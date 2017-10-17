@@ -86,7 +86,9 @@
   * [zu Kapitel 3](kapitel-8-ubungen/zu-kapitel-3.md)
     * [A3.1](kapitel-8-ubungen/zu-kapitel-3/a31.md)
     * [A3.2](kapitel-8-ubungen/zu-kapitel-3/a32.md)
-  * zu Kapitel 4
+  * [zu Kapitel 4](kapitel-8-ubungen/zu-kapitel-4.md)
+    * [A4.1](kapitel-8-ubungen/zu-kapitel-4/a41.md)
+    * [A4.2](kapitel-8-ubungen/zu-kapitel-4/a42.md)
   * zu Kapitel 5
   * zu Kapitel 6
   * zu Kapitel 7
