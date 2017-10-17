@@ -18,7 +18,7 @@
 | **export** | Definiert und verwaltet Umgebungsvariable; zusätzliche persistente Umgebungsvariablen werden im Verzeichnis /etc/profile.d in Form von shell-Dateien hinterlegt | export var="myvalue" |
 | **fdisk** | Plattenpartitionierungstool | fdisk /dev/sda |
 | **fg** | Holen eines Prozesses in den Vordergrund (**Ctrl+z**, **jobs**) | fg %1 |
-| **gcc** | Standard C-Compiler | gcc -o mybin mybin.c |
+| **gcc** | Standard C-Compiler, sh. auch [glibc-manual](https://www.gnu.org/software/libc/manual/) | gcc -o mybin mybin.c |
 | **grep** | Durchsuchen von Dateien nach Textstücken | grep -r -i "include" ./ |
 | **hash** | Zeigt und verwaltet verwendete Bash-Kommandos | hash |
 | **jobs** | Zeigt die Hintergrundprozesse an | jobs |
