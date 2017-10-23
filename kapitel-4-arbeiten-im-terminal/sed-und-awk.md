@@ -57,7 +57,7 @@ Im Folgenden sind wichtige Ausdrücke aufgeführt:
 
   Teste Zeilenbedingung /\\\\$/ \(hier Backslash am Ende der Zeile\), wenn ja, dann lies die nächste Zeile ein \(N;\) und ersetze Backslash und Zeilenumbruch mit nichts \(s/\\\n//;\)
 
-* Weitere Beispiele zu häufig auftretenden Anwendungsfällen sind unter [sourceforge](http://sed.sourceforge.net/sedfaq.html) zu finden.
+* Weitere Beispiele zu häufig auftretenden Anwendungsfällen sind unter [sourceforge](http://sed.sourceforge.net/sedfaq.html) und [tldp.org](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_05_01.html) zu finden.
 
 #### awk
 
