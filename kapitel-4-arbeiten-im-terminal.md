@@ -1,14 +1,12 @@
 ## Arbeiten im Terminal
 
-[Linux Kommandos&darr;](/kapitel-4-arbeiten-im-terminal/linux-kommandos.md)
+[Aufgaben der Shell↓](/kapitel-4-arbeiten-im-terminal/aufgaben-der-shell.md)
 
-[Der vi\(m\)&darr;](/kapitel-4-arbeiten-im-terminal/der-vim.md)
+[Der vi\(m\)↓](/kapitel-4-arbeiten-im-terminal/der-vim.md)
 
-[Reguläre Ausdrücke&darr;](/kapitel-4-arbeiten-im-terminal/regulare-ausdrucke.md)
+[Linux Kommandos↓](/kapitel-4-arbeiten-im-terminal/linux-kommandos.md)
 
-[Shellskripte&darr;](/kapitel-4-arbeiten-im-terminal/shellskripte.md)
-
-[sed und awk&darr;](/kapitel-4-arbeiten-im-terminal/sed-und-awk.md)
+[Shellskripte↓](/kapitel-4-arbeiten-im-terminal/shellskripte.md)
 
 Unter Linux gibt es verschiedene Shells, die sich in ihrem Funktionsumfang unterscheiden. Man unterscheidet zwischen den drei Typen
 
