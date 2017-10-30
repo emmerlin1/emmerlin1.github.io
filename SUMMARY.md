@@ -58,6 +58,7 @@
     * [cron](kaptiel-5-systemkonfiguration-und-administration/zeitgesteuerte-vorgange/cron.md)
     * [anacron](kaptiel-5-systemkonfiguration-und-administration/zeitgesteuerte-vorgange/anacron.md)
   * [Lokalisierung und Internationalisierung](kaptiel-5-systemkonfiguration-und-administration/lokalisierung-und-internationalisierung.md)
+  * [Systemtreiber](kaptiel-5-systemkonfiguration-und-administration/systemtreiber.md)
 * [Kapitel 6 - Einbindung ins Netzwerk](kapitel-6-einbindung-ins-netzwerk.md)
   * [Grundlagen von TCP/IP](kapitel-6-einbindung-ins-netzwerk/grundlagen-von-tcpip.md)
     * [Adressierung](kapitel-6-einbindung-ins-netzwerk/grundlagen-von-tcpip/adressierung.md)
