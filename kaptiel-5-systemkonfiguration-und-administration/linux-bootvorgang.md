@@ -64,7 +64,8 @@
 ### Linux Bootvorgang - Grub
 
 * Der Bootloader Grub wird über die Datei /etc/default/grub und den Inhalt des Verzeichinsses /etc/grub.d konfiguriert. Die Standardeinstellung ermittelt hier automatisch die Existenz weiterer Betriebssysteme wie z.B. Windows und bindet diese in den Bootloader mit ein \(30\_os-prober\).
-* In /etc/default/grub
+* In /etc/default/grub können [einzelne Eigenschaften](https://wiki.ubuntuusers.de/GRUB_2/Konfiguration/) festgelegt werden, z.B. Timeout
+* Nach Änderungen muss sudo update-grub ausgeführt werden, um das Verzeichnis /boot/grub zu aktualisieren und die Änderungen somit zu übernehmen.
 
 
 
