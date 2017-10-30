@@ -16,7 +16,7 @@
   * _**universe**_: von der Linux-Community unterstützte Pakete unter freier Lizenz
   * _**multiverse**_: nicht-freie Software
   * ...
-
+  
 * Beispielhafte Abhandlung von updates mit apt:
   * `sudo apt update`
   * `sudo apt upgrade`
@@ -28,8 +28,10 @@
   * `sudo add-apt-repository ppa:ubuntu-lxc/lxd-stable`
   * `sudo apt update`
   * `sudo apt install golang`
+  
 * Suche, zu welchem Paket eine Datei gehört: 
   `dpkg -S <filename>`
+  
 * Inhalt eine Pakets anzeigen lassen:
   `dpkg-query -L <package-name>`
 
