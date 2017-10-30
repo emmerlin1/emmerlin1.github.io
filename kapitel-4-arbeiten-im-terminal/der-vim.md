@@ -15,7 +15,7 @@ VIM kann unter Einbeziehung verschiedener Plugins auch als IDE genutzt werden:
 | :w! | Schreibe aktuellen Buffer in akt. Datei, ignoriere Schreibschutz |
 | :wq | Schreibe aktuellen Buffer in aktuelle Datei und beende vim |
 | :w filename | Schreibe aktuellen Buffer in Datei filename |
-| w &gt;&gt; filename | Hänge aktuellen Buffer an Inhalt der Datei filename |
+| :w &gt;&gt; filename | Hänge aktuellen Buffer an Inhalt der Datei filename |
 | :q | Beende Buffer, ohne zu speichern, Warnung bei vorhandenen Änderungen |
 | :q! | Beende Buffer zwingend, ohne zu speichern, ignoriere Änderungen |
 | :r filename | Text aus der angegebenen Datei nach der momentanen Zeile einfügen. |
@@ -29,7 +29,6 @@ VIM kann unter Einbeziehung verschiedener Plugins auch als IDE genutzt werden:
 | Ctrl+w 80&lt; | " |
 | :10,100 s/^/\#/ | Füge am Anfang der Zeilen 10-100 eine Raute \# ein \(substitute mit regular expression\) |
 | :!&lt;command&gt; | Führe Shellkommando innerhalb des VIM aus |
-
 
 #### Umschalten in den  Eingabemodus
 

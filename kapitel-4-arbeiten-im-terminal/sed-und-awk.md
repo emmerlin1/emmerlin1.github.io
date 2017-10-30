@@ -38,7 +38,7 @@ Im Folgenden sind wichtige Ausdrücke aufgeführt:
 | :--- | :--- |
 | -n | Gib die entsprechende Zeilennummer mit aus |
 | -v | Gib inverses Ergebnis aus |
-| -c | Gib nur die entsprechende Zeilennummer aus |
+| -c | Ermittle die Anzahl des Auftretens und gib diese aus |
 | -l | Gib nur die Dateinamen aus, in denen der Suchtext gefunden wurde |
 | -i | ignoriere Groß-/Kleinschreibung |
 | -x | exakte Übereinstimmung mit der gelesenen Zeile |
