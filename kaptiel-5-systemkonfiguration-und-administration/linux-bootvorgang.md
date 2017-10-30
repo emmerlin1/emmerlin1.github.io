@@ -58,5 +58,7 @@
 * `systemd-cgls`  
   Baumübersicht über die Prozessgruppen \(cgroups\) von gestarteten Diensten
 
+* Soll beim Start des Systems ein Skript o.ä. ausgeführt werden so wurde und wird dies über die Datei /etc/rc.local erledigt; sie wird über den Systemd-Dienst rc-local.service abgewickelt; falls es \(unter Ubuntu\) zu Timing-Problemen kommt, hilft [diese](https://wiki.ubuntuusers.de/systemd/Problembehebung/#etc-rc-local-wird-zur-falschen-Zeit-ausgefuehrt) Konfigurationsänderung des Systemd-Dienstes weiter
+
 
 
