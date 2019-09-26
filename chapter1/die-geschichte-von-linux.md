@@ -20,5 +20,9 @@
   * Supercomputer \(Anteil 98%\)
 * Entwicklung Codezeilen des Linux-Kernels:
 
-  ![](../.gitbook/assets/loc_1.0-4.9.2.png)![](../.gitbook/assets/lines_of_code_linux_kernel.svg.png)
+![](../.gitbook/assets/lines_of_code_linux_kernel.svg.png)
+
+![](../.gitbook/assets/loc_1.0-4.9.2.png)
+
+ 
 
