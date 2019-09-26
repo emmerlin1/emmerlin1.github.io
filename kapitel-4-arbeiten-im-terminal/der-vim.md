@@ -1,6 +1,6 @@
 # Der vi\(m\)
 
-Der Editor vim \("vi" steht für "visual", improved vi\) ist ein bildschirmorientierter Editor, d. h. der Text ist in seiner aktuellen Version auf dem Bildschirm zu sehen. Für eine ausführliche Auflistung der VIM-Befehle stehen zahlreiche [CheatSheets↑](https://gettextbook.download/CS%2035L/Final%20Review/04_VIM.pdf) zur Verfügung, auch ein [graphischer Überblick](http://www.viemu.com/vi-vim-cheat-sheet.gif).
+Der Editor vim \("vi" steht für "visual", improved vi\) ist ein bildschirmorientierter Editor, d. h. der Text ist in seiner aktuellen Version auf dem Bildschirm zu sehen. Für eine ausführliche Auflistung der VIM-Befehle stehen zahlreiche [CheatSheets↑](https://vim.rtorr.com/) zur Verfügung, auch ein [graphischer Überblick](http://www.viemu.com/vi-vim-cheat-sheet.gif).
 
 ![](../.gitbook/assets/vi.png)
 
