@@ -1,4 +1,4 @@
-### Verzeichnisse
+# Verzeichnisse
 
 * Der Verzeichnisbaum von Linux **beginnt** im Wurzelverzeichnis **/** \(Wurzel\).
 * Besondere Verzeichnisse: 
@@ -23,6 +23,4 @@
 | **ls** -lah | Zeige kompletten Inhalt des aktuellen Verzeichnisses in ausführlicher Form |
 | **du** -sh verzeichnispfad | Zeige Gesamtgröße des Verzeichnisinhalts \(rekursiv\) |
 | **tree** | Zeige die Verzeichnishierachie in einer Baumansicht |
-
-
 

@@ -1,13 +1,13 @@
-### Der vi\(m\)
+# Der vi\(m\)
 
-Der Editor vim \("vi" steht für "visual", improved vi\) ist ein bildschirmorientierter Editor, d. h. der Text ist in seiner aktuellen Version auf dem Bildschirm zu sehen. Für eine ausführliche Auflistung der VIM-Befehle stehen zahlreiche [CheatSheets↑](https://gettextbook.download/CS 35L/Final Review/04_VIM.pdf) zur Verfügung, auch ein [graphischer Überblick](http://www.viemu.com/vi-vim-cheat-sheet.gif).
+Der Editor vim \("vi" steht für "visual", improved vi\) ist ein bildschirmorientierter Editor, d. h. der Text ist in seiner aktuellen Version auf dem Bildschirm zu sehen. Für eine ausführliche Auflistung der VIM-Befehle stehen zahlreiche [CheatSheets↑](https://gettextbook.download/CS%2035L/Final%20Review/04_VIM.pdf) zur Verfügung, auch ein [graphischer Überblick](http://www.viemu.com/vi-vim-cheat-sheet.gif).
 
-![](/images/vi.png)
+![](../.gitbook/assets/vi.png)
 
 VIM kann unter Einbeziehung verschiedener Plugins auch als IDE genutzt werden:  
 [VIM preconfigured as IDE](https://github.com/xmementoit/vim-ide)
 
-#### ex-Befehle
+## ex-Befehle
 
 | Befehl | Bedeutung |
 | :--- | :--- |
@@ -30,7 +30,7 @@ VIM kann unter Einbeziehung verschiedener Plugins auch als IDE genutzt werden:
 | :10,100 s/^/\#/ | Füge am Anfang der Zeilen 10-100 eine Raute \# ein \(substitute mit regular expression\) |
 | :!&lt;command&gt; | Führe Shellkommando innerhalb des VIM aus |
 
-#### Umschalten in den  Eingabemodus
+## Umschalten in den  Eingabemodus
 
 | Zeichen | Bedeutung |
 | :--- | :--- |
@@ -51,7 +51,7 @@ VIM kann unter Einbeziehung verschiedener Plugins auch als IDE genutzt werden:
 | P | Füge Text der 'Zwischenablage' vor dem Cursor \(der Zeile\) ein |
 | y | Kopiere aktuelle Zeile in 'Zwischenablage' |
 
-#### Navigation
+## Navigation
 
 | Zeichen | Bedeutung |
 | :--- | :--- |
@@ -67,12 +67,10 @@ VIM kann unter Einbeziehung verschiedener Plugins auch als IDE genutzt werden:
 | gg | an den Anfang des Dokuments |
 | GG | an das Ende des Dokuments |
 
-#### Arbeiten im Visual Mode \(Copy/Cut/Delete\)
+## Arbeiten im Visual Mode \(Copy/Cut/Delete\)
 
 | Zeichen | Bedeutung |
 | :--- | :--- |
 | v | Beginne, mittels Pfeil-/Bewegungstasten Zeichen zu markieren, Ende durch Drücken von y \(copy\), d \(cut/delete\) |
 | V | Beginne, mittels Pfeil-/Bewegungstasten Zeilen zu markieren, Ende durch Drücken von y \(copy\), d \(cut/delete\) |
-
-
 

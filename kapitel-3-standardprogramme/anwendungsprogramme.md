@@ -1,4 +1,4 @@
-### Anwendungsprogramme
+# Anwendungsprogramme
 
 | Programm | Funktionalität |
 | :--- | :--- |
@@ -27,7 +27,7 @@
 | _pidgin_ | Chat-Client |
 | _shutter_, _gtk-recordmydesktop_ | Screencast-Anwendung |
 | _scribus_ | Desktop-Publishing-Programm |
-| _thunderbird_**, **_claws mail_ | Mail-Programm |
+| _thunderbird_**,** _claws mail_ | Mail-Programm |
 | _kino_ | Videoschnittprogramm |
 | kvim, gvim | GUI für VIM |
 | _kvm_, _virtualbox_ | Virtualisierungssoftware |
@@ -37,6 +37,4 @@
 | _vlc_, _mplayer_ | Videoplayer |
 | _wine_, _playonlinux_ | Emulatoren, windows-kompatible Laufzeitumgebung |
 | _wireshark_ | Netzwerkanalysator |
-
-
 

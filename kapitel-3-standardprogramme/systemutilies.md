@@ -1,4 +1,4 @@
-### Systemutilities
+# Systemutilities
 
 | Befehl | Bedeutung | Beispiel |
 | :--- | :--- | :--- |
@@ -8,7 +8,7 @@
 | **cat** | Füge mehrere Dateien zusammen, auch kann der Befehl für die Anzeige von Dateiinhalten genutzt werden | cat file1.txt file2.txt &gt;file3.txt |
 | **chroot** | Mit chroot kann ein programm sein Wurzelverzeichnis wechseln | z.B. [Linux-Reparatur↑](https://wiki.ubuntuusers.de/chroot/Live-CD/) |
 | **crontab** | Steuerung von zeitlich geplanten Vorgängen \(Skripte, Programme, Backups etc.\) | crontab -e |
-| **cut** | Extrahiert spaltenweise Ausschnitte aus Textzeilen mittels angegebenem Trennzeichen/Zeichenposition | <code>grep -r -i "include" ./ &#124; cut -d: -f1</code> |
+| **cut** | Extrahiert spaltenweise Ausschnitte aus Textzeilen mittels angegebenem Trennzeichen/Zeichenposition | `grep -r -i "include" ./ | cut -d: -f1` |
 | **date** | Ausgabe von Datum/Zeit | date +%d.%m.%Y |
 | **dd** | dd dient zum bit-genauen Kopieren von Festplatten, Partitionen oder Dateien | sudo dd if=2017-08-16-raspbian-stretch.img of=/dev/sdg status=progress bs=16M |
 | **df** | diskfree, zeige den freien Festplattenplatz von eingehängten Partitionen an | df -h |
@@ -17,7 +17,7 @@
 | **env** | Steuerung/Anzeige der Umgebungsvariablen; dauerhaft werden Variable in /etc/environment hinzugefügt | env VAR1="blahblah" command\_to\_run command\_options |
 | **export** | Definiert und verwaltet Umgebungsvariable; zusätzliche persistente Umgebungsvariablen werden im Verzeichnis /etc/profile.d in Form von shell-Dateien hinterlegt | export var="myvalue" |
 | **fdisk** | Plattenpartitionierungstool | fdisk /dev/sda |
-| **fg** | Holen eines Prozesses in den Vordergrund (**Ctrl+z**, **jobs**) | fg %1 |
+| **fg** | Holen eines Prozesses in den Vordergrund \(**Ctrl+z**, **jobs**\) | fg %1 |
 | **gcc** | Standard C-Compiler, sh. auch [glibc-manual](https://www.gnu.org/software/libc/manual/) | gcc -o mybin mybin.c |
 | **grep** | Durchsuchen von Dateien nach Textstücken | grep -r -i "include" ./ |
 | **hash** | Zeigt und verwaltet verwendete Bash-Kommandos | hash |
@@ -45,12 +45,12 @@
 | **renice** | Änderung der Priorität eines laufenden Prozesses, Höherstufung nur als root | sudo renice -10 \`pidof nano\` |
 | **sed** | Nicht-interaktiver Texteditor für Konsole oder Shell-Skripte | sed -e '/debug/d'  log |
 | **sleep** | Pausieren eines Prozesses | sleep 10 |
-| **sort** | Zeilenweise Sortierung von Standardausgaben/Textdateien | <code>ls -s &#124; sort -n</code> |
+| **sort** | Zeilenweise Sortierung von Standardausgaben/Textdateien | `ls -s | sort -n` |
 | **source** | Einbinden von in Dateien hinterlegter Funktionalität in die aktuelle Shell | `source myfunctions.sh` |
 | **split** | Aufteilung von großen Dateien auf mehrere kleinere | split -b 700M archiv.tar split-archiv.tar. |
 | **sync** | Explizites Schreiben von im Speicher gehaltener Daten auf die Platte | sync |
 | **tail** | Ausgabe der letzten Zeilen einer Datei | tail -20 myfile |
-| **tee** | Verdopplung der Ausgabe - in Textdatei und auf Standardausgabe | <code>ls -la &#124; tee alle\_dateien.txt</code> |
+| **tee** | Verdopplung der Ausgabe - in Textdatei und auf Standardausgabe | `ls -la | tee alle_dateien.txt` |
 | **top** | Dynamische Anzeige der aktuell auf dem System laufenden Prozesse \(Alternative htop\) und des Ressourcenverbrauchs | top |
 | **touch** | Erstellung einer leeren Datei | touch myfile.txt |
 | **truncate** | Die Größe einer Datei auf die angegebene Größe verkleinern/-größern; abgeschnittene Daten gehen verloren; nicht existierende Dateien werden erstellt | truncate -s 100g /tmp/SWAPDATEI |

@@ -1,3 +1,12 @@
-### Linux-Distributionen - Graphische Übersicht
+# Graphische Übersicht über die verschiedenen Distributionen
 
-<a href="https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg" target="_blank"><img src="../../images/Linux_Distribution_Timeline.svg.png"></a>
+![](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
+
+{% code-tabs %}
+{% code-tabs-item title="abc" %}
+```text
+#hello
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+

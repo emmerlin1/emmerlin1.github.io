@@ -1,6 +1,2 @@
-### Grundlagen von GnuPG
-
-
-
-
+# Grundlagen von GnuPG
 

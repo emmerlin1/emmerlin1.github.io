@@ -1,10 +1,10 @@
-#### Die Manpages
+# Die Manpages
 
 Die Handbuchseiten \(**man-pages** \) bieten eine umfangreiche Hilfe zur Beschreibung von System- und anderen Programmen und auch von Bibliotheksfunktionen der glibc-API \(Standard-C-Bibliothek\).
 
 Die man-pages befinden sich unter dem Verzeichnis **/usr/share/man**, man-pages für eigene Programme können in **/usr/local/share/**man platziert werden
 
-##### Gliederung der Handbuchseiten:
+## Gliederung der Handbuchseiten:
 
 | Abschnitt | Inhalt |
 | :--- | :--- |
@@ -20,7 +20,7 @@ Die man-pages befinden sich unter dem Verzeichnis **/usr/share/man**, man-pages 
 | COPYRIGHT | Autoren |
 | BUGS | Bekannte auftretende Fehler |
 
-##### Die man-pages sind in unterschiedliche Sektionen eingeteilt \(Aufruf 'man &lt;Sektion&gt; &lt;Kommando&gt;\):
+## Die man-pages sind in unterschiedliche Sektionen eingeteilt \(Aufruf 'man &lt;Sektion&gt; &lt;Kommando&gt;\):
 
 | Sektions-Nr. | Themenbereich |
 | :--- | :--- |
@@ -35,7 +35,7 @@ Die man-pages befinden sich unter dem Verzeichnis **/usr/share/man**, man-pages 
 | 9 | Kernel-Funktionen |
 | n | Benutzerdefinierte Kommandos |
 
-Über den Befehl '**man -k &lt;Begriff&gt;**' oder **'apropos &lt;Begriff&gt;' **erfährt man, in welchen Sektionen etwas zu dem jeweiligen Begriff zu finden ist \(z.B. **man -k printf**\)
+Über den Befehl '**man -k &lt;Begriff&gt;**' oder **'apropos &lt;Begriff&gt;'** erfährt man, in welchen Sektionen etwas zu dem jeweiligen Begriff zu finden ist \(z.B. **man -k printf**\)
 
 Aufruf einer man-page mittels '**man &lt;Begriff&gt;**', Beendigung mit der Taste '**q**'
 

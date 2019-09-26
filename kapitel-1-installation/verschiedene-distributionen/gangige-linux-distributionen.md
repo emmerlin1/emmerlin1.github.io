@@ -1,4 +1,4 @@
-### Gängige Linux-Distributionen
+# Gängige Linux-Distributionen
 
 * **Debian / Ubuntu / LinuxMint**
   * Stable-Version von Debian hat hohe Stabilität, ist damit allerdings nicht up-to-date
@@ -20,6 +20,4 @@
   * Hauptanwendung im professionellen Umfeld
 
 Eine umfangreiche Übersicht ist auf [distrowatch.org](https://distrowatch.org/) zu finden
-
-
 

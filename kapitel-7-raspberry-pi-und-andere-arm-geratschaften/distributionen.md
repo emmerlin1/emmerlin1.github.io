@@ -1,4 +1,4 @@
-### Distributionen
+# Distributionen
 
 * [Raspbian/Debian](https://www.raspberrypi.org/downloads/)
 * [CentOS](http://mirror.centos.org/altarch/7/isos/armhfp/)
@@ -15,6 +15,4 @@
 * [FreeBSD](https://www.raspberrypi.org/blog/freebsd-is-here/)
 * [NetBSD](https://www.raspberrypi.org/blog/netbsd-is-here/)
 * [Kano](http://developers.kano.me/downloads/)
-
-
 
