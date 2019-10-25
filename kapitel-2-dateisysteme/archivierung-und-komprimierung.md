@@ -4,7 +4,7 @@
 | :--- | :--- |
 | **gzip** myfile.txt | Datei wird gz-komprimiert und durch komprimierte Datei ersetzt |
 | **gzip** -l myfile.txt.gz | zeigt Kompressionsverhältnis der komprimierten Datei an |
-| **gzip** myfile.txt.gz | Wiederherstellung der Originaldatei |
+| **gunzip** myfile.txt.gz | Wiederherstellung der Originaldatei |
 |  |  |
 | **bzip2** und xz | Alternativen zu gzip |
 |  |  |
