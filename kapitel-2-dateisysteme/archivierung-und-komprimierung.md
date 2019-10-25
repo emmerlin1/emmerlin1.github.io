@@ -6,6 +6,9 @@
 | **gzip** -l myfile.txt.gz | zeigt Kompressionsverhältnis der komprimierten Datei an |
 | **gunzip** myfile.txt.gz | Wiederherstellung der Originaldatei |
 |  |  |
+| **zip** myfile.zip myfile.txt | Datei wird zip-komprimiert |
+| **unzip** myfile.zip | Unkomprimiere ZIP-Datei |
+|  |  |
 | **bzip2** und xz | Alternativen zu gzip |
 |  |  |
 | **tar** czf myarchive.tgz verzeichnisname | Erstellung eines gzip-gezippten Tar-Archivs einer Verzeichnisstruktur |
