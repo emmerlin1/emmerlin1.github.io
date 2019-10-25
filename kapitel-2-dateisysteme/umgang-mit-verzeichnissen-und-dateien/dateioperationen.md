@@ -8,8 +8,9 @@
 | **cat** Datei1 Datei2 DateiN | Verbindet mehrere Dateien und gibt das Ergebnis auf Standardausgabe aus |
 | **chgrp** groupname Dateiname | Gruppenzugehoerigkeit einer Datei ändern |
 | **chown** username:groupname Dateiname | Eigentümer und Gruppenzugehoerigkeit einer Datei ändern |
-| **cmp** Datei1 Datei2 | Vergleich zweier Dateien auf Übereinstimmung |
+| **cmp** Datei1 Datei2 | Vergleich zweier Dateien auf Übereinstimmung byteweise |
 | **cp** Datei neue\_Datei | Kopieren einer Datei |
+| **diff** Datei1 Datei2 | Vergleich zweier Dateien Zeile für Zeile |
 | **dirname** Dateiname | Gibt nur den Pfad zu einer Datei aus |
 | **file** Datei | Zeigt die Dateiart einer Datei an \(Binär, Text, Executable, Architektur, 64bit, 32bit\) |
 | **find** / -name "\*.txt" -print | Suche alle Dateien mit Endung txt im gesamten Dateibaum |
